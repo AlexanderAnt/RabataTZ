@@ -1,0 +1,625 @@
+Total Data Stored: 1, Monthly Downloaded Data: 1, Actual - Rabata: 360, Expected - Rabata: 360
+Total Data Stored: 1, Monthly Downloaded Data: 1, Actual - Azure: 504, Expected - Azure: 504
+Total Data Stored: 1, Monthly Downloaded Data: 1, Actual - Amazon: 600, Expected - Amazon: 600
+Total Data Stored: 1, Monthly Downloaded Data: 1, Actual - Google: 744, Expected - Google: 744
+Values of Total Data Stored = 1, j=1 equals to expected
+Total Data Stored: 2, Monthly Downloaded Data: 1, Actual - Rabata: 540, Expected - Rabata: 540
+Total Data Stored: 2, Monthly Downloaded Data: 1, Actual - Azure: 756, Expected - Azure: 756
+Total Data Stored: 2, Monthly Downloaded Data: 1, Actual - Amazon: 900, Expected - Amazon: 900
+Total Data Stored: 2, Monthly Downloaded Data: 1, Actual - Google: 1116, Expected - Google: 1116
+Values of Total Data Stored = 2, j=1 equals to expected
+Total Data Stored: 3, Monthly Downloaded Data: 1, Actual - Rabata: 720, Expected - Rabata: 720
+Total Data Stored: 3, Monthly Downloaded Data: 1, Actual - Azure: 1008, Expected - Azure: 1008
+Total Data Stored: 3, Monthly Downloaded Data: 1, Actual - Amazon: 1200, Expected - Amazon: 1200
+Total Data Stored: 3, Monthly Downloaded Data: 1, Actual - Google: 1488, Expected - Google: 1488
+Values of Total Data Stored = 3, j=1 equals to expected
+Total Data Stored: 4, Monthly Downloaded Data: 1, Actual - Rabata: 900, Expected - Rabata: 900
+Total Data Stored: 4, Monthly Downloaded Data: 1, Actual - Azure: 1260, Expected - Azure: 1260
+Total Data Stored: 4, Monthly Downloaded Data: 1, Actual - Amazon: 1500, Expected - Amazon: 1500
+Total Data Stored: 4, Monthly Downloaded Data: 1, Actual - Google: 1860, Expected - Google: 1860
+Values of Total Data Stored = 4, j=1 equals to expected
+Total Data Stored: 5, Monthly Downloaded Data: 1, Actual - Rabata: 1080, Expected - Rabata: 1080
+Total Data Stored: 5, Monthly Downloaded Data: 1, Actual - Azure: 1512, Expected - Azure: 1512
+Total Data Stored: 5, Monthly Downloaded Data: 1, Actual - Amazon: 1800, Expected - Amazon: 1800
+Total Data Stored: 5, Monthly Downloaded Data: 1, Actual - Google: 2232, Expected - Google: 2232
+Values of Total Data Stored = 5, j=1 equals to expected
+Total Data Stored: 6, Monthly Downloaded Data: 1, Actual - Rabata: 1260, Expected - Rabata: 1260
+Total Data Stored: 6, Monthly Downloaded Data: 1, Actual - Azure: 1764, Expected - Azure: 1764
+Total Data Stored: 6, Monthly Downloaded Data: 1, Actual - Amazon: 2100, Expected - Amazon: 2100
+Total Data Stored: 6, Monthly Downloaded Data: 1, Actual - Google: 2604, Expected - Google: 2604
+Values of Total Data Stored = 6, j=1 equals to expected
+Total Data Stored: 7, Monthly Downloaded Data: 1, Actual - Rabata: 1440, Expected - Rabata: 1440
+Total Data Stored: 7, Monthly Downloaded Data: 1, Actual - Azure: 2016, Expected - Azure: 2016
+Total Data Stored: 7, Monthly Downloaded Data: 1, Actual - Amazon: 2400, Expected - Amazon: 2400
+Total Data Stored: 7, Monthly Downloaded Data: 1, Actual - Google: 2976, Expected - Google: 2976
+Values of Total Data Stored = 7, j=1 equals to expected
+Total Data Stored: 8, Monthly Downloaded Data: 1, Actual - Rabata: 1620, Expected - Rabata: 1620
+Total Data Stored: 8, Monthly Downloaded Data: 1, Actual - Azure: 2268, Expected - Azure: 2268
+Total Data Stored: 8, Monthly Downloaded Data: 1, Actual - Amazon: 2700, Expected - Amazon: 2700
+Total Data Stored: 8, Monthly Downloaded Data: 1, Actual - Google: 3348, Expected - Google: 3348
+Values of Total Data Stored = 8, j=1 equals to expected
+Total Data Stored: 9, Monthly Downloaded Data: 1, Actual - Rabata: 1800, Expected - Rabata: 1800
+Total Data Stored: 9, Monthly Downloaded Data: 1, Actual - Azure: 2520, Expected - Azure: 2520
+Total Data Stored: 9, Monthly Downloaded Data: 1, Actual - Amazon: 3000, Expected - Amazon: 3000
+Total Data Stored: 9, Monthly Downloaded Data: 1, Actual - Google: 3720, Expected - Google: 3720
+Values of Total Data Stored = 9, j=1 equals to expected
+Total Data Stored: 10, Monthly Downloaded Data: 1, Actual - Rabata: 1980, Expected - Rabata: 1980
+Total Data Stored: 10, Monthly Downloaded Data: 1, Actual - Azure: 2772, Expected - Azure: 2772
+Total Data Stored: 10, Monthly Downloaded Data: 1, Actual - Amazon: 3300, Expected - Amazon: 3300
+Total Data Stored: 10, Monthly Downloaded Data: 1, Actual - Google: 4092, Expected - Google: 4092
+Values of Total Data Stored = 10, j=1 equals to expected
+Total Data Stored: 1, Monthly Downloaded Data: 2, Actual - Rabata: 540, Expected - Rabata: 540
+Total Data Stored: 1, Monthly Downloaded Data: 2, Actual - Azure: 756, Expected - Azure: 756
+Total Data Stored: 1, Monthly Downloaded Data: 2, Actual - Amazon: 900, Expected - Amazon: 900
+Total Data Stored: 1, Monthly Downloaded Data: 2, Actual - Google: 1116, Expected - Google: 1116
+Values of Total Data Stored = 1, j=2 equals to expected
+Total Data Stored: 2, Monthly Downloaded Data: 2, Actual - Rabata: 720, Expected - Rabata: 720
+Total Data Stored: 2, Monthly Downloaded Data: 2, Actual - Azure: 1008, Expected - Azure: 1008
+Total Data Stored: 2, Monthly Downloaded Data: 2, Actual - Amazon: 1200, Expected - Amazon: 1200
+Total Data Stored: 2, Monthly Downloaded Data: 2, Actual - Google: 1488, Expected - Google: 1488
+Values of Total Data Stored = 2, j=2 equals to expected
+Total Data Stored: 3, Monthly Downloaded Data: 2, Actual - Rabata: 900, Expected - Rabata: 900
+Total Data Stored: 3, Monthly Downloaded Data: 2, Actual - Azure: 1260, Expected - Azure: 1260
+Total Data Stored: 3, Monthly Downloaded Data: 2, Actual - Amazon: 1500, Expected - Amazon: 1500
+Total Data Stored: 3, Monthly Downloaded Data: 2, Actual - Google: 1860, Expected - Google: 1860
+Values of Total Data Stored = 3, j=2 equals to expected
+Total Data Stored: 4, Monthly Downloaded Data: 2, Actual - Rabata: 1080, Expected - Rabata: 1080
+Total Data Stored: 4, Monthly Downloaded Data: 2, Actual - Azure: 1512, Expected - Azure: 1512
+Total Data Stored: 4, Monthly Downloaded Data: 2, Actual - Amazon: 1800, Expected - Amazon: 1800
+Total Data Stored: 4, Monthly Downloaded Data: 2, Actual - Google: 2232, Expected - Google: 2232
+Values of Total Data Stored = 4, j=2 equals to expected
+Total Data Stored: 5, Monthly Downloaded Data: 2, Actual - Rabata: 1260, Expected - Rabata: 1260
+Total Data Stored: 5, Monthly Downloaded Data: 2, Actual - Azure: 1764, Expected - Azure: 1764
+Total Data Stored: 5, Monthly Downloaded Data: 2, Actual - Amazon: 2100, Expected - Amazon: 2100
+Total Data Stored: 5, Monthly Downloaded Data: 2, Actual - Google: 2604, Expected - Google: 2604
+Values of Total Data Stored = 5, j=2 equals to expected
+Total Data Stored: 6, Monthly Downloaded Data: 2, Actual - Rabata: 1440, Expected - Rabata: 1440
+Total Data Stored: 6, Monthly Downloaded Data: 2, Actual - Azure: 2016, Expected - Azure: 2016
+Total Data Stored: 6, Monthly Downloaded Data: 2, Actual - Amazon: 2400, Expected - Amazon: 2400
+Total Data Stored: 6, Monthly Downloaded Data: 2, Actual - Google: 2976, Expected - Google: 2976
+Values of Total Data Stored = 6, j=2 equals to expected
+Total Data Stored: 7, Monthly Downloaded Data: 2, Actual - Rabata: 1620, Expected - Rabata: 1620
+Total Data Stored: 7, Monthly Downloaded Data: 2, Actual - Azure: 2268, Expected - Azure: 2268
+Total Data Stored: 7, Monthly Downloaded Data: 2, Actual - Amazon: 2700, Expected - Amazon: 2700
+Total Data Stored: 7, Monthly Downloaded Data: 2, Actual - Google: 3348, Expected - Google: 3348
+Values of Total Data Stored = 7, j=2 equals to expected
+Total Data Stored: 8, Monthly Downloaded Data: 2, Actual - Rabata: 1800, Expected - Rabata: 1800
+Total Data Stored: 8, Monthly Downloaded Data: 2, Actual - Azure: 2520, Expected - Azure: 2520
+Total Data Stored: 8, Monthly Downloaded Data: 2, Actual - Amazon: 3000, Expected - Amazon: 3000
+Total Data Stored: 8, Monthly Downloaded Data: 2, Actual - Google: 3720, Expected - Google: 3720
+Values of Total Data Stored = 8, j=2 equals to expected
+Total Data Stored: 9, Monthly Downloaded Data: 2, Actual - Rabata: 1980, Expected - Rabata: 1980
+Total Data Stored: 9, Monthly Downloaded Data: 2, Actual - Azure: 2772, Expected - Azure: 2772
+Total Data Stored: 9, Monthly Downloaded Data: 2, Actual - Amazon: 3300, Expected - Amazon: 3300
+Total Data Stored: 9, Monthly Downloaded Data: 2, Actual - Google: 4092, Expected - Google: 4092
+Values of Total Data Stored = 9, j=2 equals to expected
+Total Data Stored: 10, Monthly Downloaded Data: 2, Actual - Rabata: 2160, Expected - Rabata: 2160
+Total Data Stored: 10, Monthly Downloaded Data: 2, Actual - Azure: 3024, Expected - Azure: 3024
+Total Data Stored: 10, Monthly Downloaded Data: 2, Actual - Amazon: 3600, Expected - Amazon: 3600
+Total Data Stored: 10, Monthly Downloaded Data: 2, Actual - Google: 4464, Expected - Google: 4464
+Values of Total Data Stored = 10, j=2 equals to expected
+Total Data Stored: 1, Monthly Downloaded Data: 3, Actual - Rabata: 720, Expected - Rabata: 720
+Total Data Stored: 1, Monthly Downloaded Data: 3, Actual - Azure: 1008, Expected - Azure: 1008
+Total Data Stored: 1, Monthly Downloaded Data: 3, Actual - Amazon: 1200, Expected - Amazon: 1200
+Total Data Stored: 1, Monthly Downloaded Data: 3, Actual - Google: 1488, Expected - Google: 1488
+Values of Total Data Stored = 1, j=3 equals to expected
+Total Data Stored: 2, Monthly Downloaded Data: 3, Actual - Rabata: 900, Expected - Rabata: 900
+Total Data Stored: 2, Monthly Downloaded Data: 3, Actual - Azure: 1260, Expected - Azure: 1260
+Total Data Stored: 2, Monthly Downloaded Data: 3, Actual - Amazon: 1500, Expected - Amazon: 1500
+Total Data Stored: 2, Monthly Downloaded Data: 3, Actual - Google: 1860, Expected - Google: 1860
+Values of Total Data Stored = 2, j=3 equals to expected
+Total Data Stored: 3, Monthly Downloaded Data: 3, Actual - Rabata: 1080, Expected - Rabata: 1080
+Total Data Stored: 3, Monthly Downloaded Data: 3, Actual - Azure: 1512, Expected - Azure: 1512
+Total Data Stored: 3, Monthly Downloaded Data: 3, Actual - Amazon: 1800, Expected - Amazon: 1800
+Total Data Stored: 3, Monthly Downloaded Data: 3, Actual - Google: 2232, Expected - Google: 2232
+Values of Total Data Stored = 3, j=3 equals to expected
+Total Data Stored: 4, Monthly Downloaded Data: 3, Actual - Rabata: 1260, Expected - Rabata: 1260
+Total Data Stored: 4, Monthly Downloaded Data: 3, Actual - Azure: 1764, Expected - Azure: 1764
+Total Data Stored: 4, Monthly Downloaded Data: 3, Actual - Amazon: 2100, Expected - Amazon: 2100
+Total Data Stored: 4, Monthly Downloaded Data: 3, Actual - Google: 2604, Expected - Google: 2604
+Values of Total Data Stored = 4, j=3 equals to expected
+Total Data Stored: 5, Monthly Downloaded Data: 3, Actual - Rabata: 1440, Expected - Rabata: 1440
+Total Data Stored: 5, Monthly Downloaded Data: 3, Actual - Azure: 2016, Expected - Azure: 2016
+Total Data Stored: 5, Monthly Downloaded Data: 3, Actual - Amazon: 2400, Expected - Amazon: 2400
+Total Data Stored: 5, Monthly Downloaded Data: 3, Actual - Google: 2976, Expected - Google: 2976
+Values of Total Data Stored = 5, j=3 equals to expected
+Total Data Stored: 6, Monthly Downloaded Data: 3, Actual - Rabata: 1620, Expected - Rabata: 1620
+Total Data Stored: 6, Monthly Downloaded Data: 3, Actual - Azure: 2268, Expected - Azure: 2268
+Total Data Stored: 6, Monthly Downloaded Data: 3, Actual - Amazon: 2700, Expected - Amazon: 2700
+Total Data Stored: 6, Monthly Downloaded Data: 3, Actual - Google: 3348, Expected - Google: 3348
+Values of Total Data Stored = 6, j=3 equals to expected
+Total Data Stored: 7, Monthly Downloaded Data: 3, Actual - Rabata: 1800, Expected - Rabata: 1800
+Total Data Stored: 7, Monthly Downloaded Data: 3, Actual - Azure: 2520, Expected - Azure: 2520
+Total Data Stored: 7, Monthly Downloaded Data: 3, Actual - Amazon: 3000, Expected - Amazon: 3000
+Total Data Stored: 7, Monthly Downloaded Data: 3, Actual - Google: 3720, Expected - Google: 3720
+Values of Total Data Stored = 7, j=3 equals to expected
+Total Data Stored: 8, Monthly Downloaded Data: 3, Actual - Rabata: 1980, Expected - Rabata: 1980
+Total Data Stored: 8, Monthly Downloaded Data: 3, Actual - Azure: 2772, Expected - Azure: 2772
+Total Data Stored: 8, Monthly Downloaded Data: 3, Actual - Amazon: 3300, Expected - Amazon: 3300
+Total Data Stored: 8, Monthly Downloaded Data: 3, Actual - Google: 4092, Expected - Google: 4092
+Values of Total Data Stored = 8, j=3 equals to expected
+Total Data Stored: 9, Monthly Downloaded Data: 3, Actual - Rabata: 2160, Expected - Rabata: 2160
+Total Data Stored: 9, Monthly Downloaded Data: 3, Actual - Azure: 3024, Expected - Azure: 3024
+Total Data Stored: 9, Monthly Downloaded Data: 3, Actual - Amazon: 3600, Expected - Amazon: 3600
+Total Data Stored: 9, Monthly Downloaded Data: 3, Actual - Google: 4464, Expected - Google: 4464
+Values of Total Data Stored = 9, j=3 equals to expected
+Total Data Stored: 10, Monthly Downloaded Data: 3, Actual - Rabata: 2340, Expected - Rabata: 2340
+Total Data Stored: 10, Monthly Downloaded Data: 3, Actual - Azure: 3276, Expected - Azure: 3276
+Total Data Stored: 10, Monthly Downloaded Data: 3, Actual - Amazon: 3900, Expected - Amazon: 3900
+Total Data Stored: 10, Monthly Downloaded Data: 3, Actual - Google: 4836, Expected - Google: 4836
+Values of Total Data Stored = 10, j=3 equals to expected
+Total Data Stored: 1, Monthly Downloaded Data: 4, Actual - Rabata: 900, Expected - Rabata: 900
+Total Data Stored: 1, Monthly Downloaded Data: 4, Actual - Azure: 1260, Expected - Azure: 1260
+Total Data Stored: 1, Monthly Downloaded Data: 4, Actual - Amazon: 1500, Expected - Amazon: 1500
+Total Data Stored: 1, Monthly Downloaded Data: 4, Actual - Google: 1860, Expected - Google: 1860
+Values of Total Data Stored = 1, j=4 equals to expected
+Total Data Stored: 2, Monthly Downloaded Data: 4, Actual - Rabata: 1080, Expected - Rabata: 1080
+Total Data Stored: 2, Monthly Downloaded Data: 4, Actual - Azure: 1512, Expected - Azure: 1512
+Total Data Stored: 2, Monthly Downloaded Data: 4, Actual - Amazon: 1800, Expected - Amazon: 1800
+Total Data Stored: 2, Monthly Downloaded Data: 4, Actual - Google: 2232, Expected - Google: 2232
+Values of Total Data Stored = 2, j=4 equals to expected
+Total Data Stored: 3, Monthly Downloaded Data: 4, Actual - Rabata: 1260, Expected - Rabata: 1260
+Total Data Stored: 3, Monthly Downloaded Data: 4, Actual - Azure: 1764, Expected - Azure: 1764
+Total Data Stored: 3, Monthly Downloaded Data: 4, Actual - Amazon: 2100, Expected - Amazon: 2100
+Total Data Stored: 3, Monthly Downloaded Data: 4, Actual - Google: 2604, Expected - Google: 2604
+Values of Total Data Stored = 3, j=4 equals to expected
+Total Data Stored: 4, Monthly Downloaded Data: 4, Actual - Rabata: 1440, Expected - Rabata: 1440
+Total Data Stored: 4, Monthly Downloaded Data: 4, Actual - Azure: 2016, Expected - Azure: 2016
+Total Data Stored: 4, Monthly Downloaded Data: 4, Actual - Amazon: 2400, Expected - Amazon: 2400
+Total Data Stored: 4, Monthly Downloaded Data: 4, Actual - Google: 2976, Expected - Google: 2976
+Values of Total Data Stored = 4, j=4 equals to expected
+Total Data Stored: 5, Monthly Downloaded Data: 4, Actual - Rabata: 1620, Expected - Rabata: 1620
+Total Data Stored: 5, Monthly Downloaded Data: 4, Actual - Azure: 2268, Expected - Azure: 2268
+Total Data Stored: 5, Monthly Downloaded Data: 4, Actual - Amazon: 2700, Expected - Amazon: 2700
+Total Data Stored: 5, Monthly Downloaded Data: 4, Actual - Google: 3348, Expected - Google: 3348
+Values of Total Data Stored = 5, j=4 equals to expected
+Total Data Stored: 6, Monthly Downloaded Data: 4, Actual - Rabata: 1800, Expected - Rabata: 1800
+Total Data Stored: 6, Monthly Downloaded Data: 4, Actual - Azure: 2520, Expected - Azure: 2520
+Total Data Stored: 6, Monthly Downloaded Data: 4, Actual - Amazon: 3000, Expected - Amazon: 3000
+Total Data Stored: 6, Monthly Downloaded Data: 4, Actual - Google: 3720, Expected - Google: 3720
+Values of Total Data Stored = 6, j=4 equals to expected
+Total Data Stored: 7, Monthly Downloaded Data: 4, Actual - Rabata: 1980, Expected - Rabata: 1980
+Total Data Stored: 7, Monthly Downloaded Data: 4, Actual - Azure: 2772, Expected - Azure: 2772
+Total Data Stored: 7, Monthly Downloaded Data: 4, Actual - Amazon: 3300, Expected - Amazon: 3300
+Total Data Stored: 7, Monthly Downloaded Data: 4, Actual - Google: 4092, Expected - Google: 4092
+Values of Total Data Stored = 7, j=4 equals to expected
+Total Data Stored: 8, Monthly Downloaded Data: 4, Actual - Rabata: 2160, Expected - Rabata: 2160
+Total Data Stored: 8, Monthly Downloaded Data: 4, Actual - Azure: 3024, Expected - Azure: 3024
+Total Data Stored: 8, Monthly Downloaded Data: 4, Actual - Amazon: 3600, Expected - Amazon: 3600
+Total Data Stored: 8, Monthly Downloaded Data: 4, Actual - Google: 4464, Expected - Google: 4464
+Values of Total Data Stored = 8, j=4 equals to expected
+Total Data Stored: 9, Monthly Downloaded Data: 4, Actual - Rabata: 2340, Expected - Rabata: 2340
+Total Data Stored: 9, Monthly Downloaded Data: 4, Actual - Azure: 3276, Expected - Azure: 3276
+Total Data Stored: 9, Monthly Downloaded Data: 4, Actual - Amazon: 3900, Expected - Amazon: 3900
+Total Data Stored: 9, Monthly Downloaded Data: 4, Actual - Google: 4836, Expected - Google: 4836
+Values of Total Data Stored = 9, j=4 equals to expected
+Total Data Stored: 10, Monthly Downloaded Data: 4, Actual - Rabata: 2520, Expected - Rabata: 2520
+Total Data Stored: 10, Monthly Downloaded Data: 4, Actual - Azure: 3528, Expected - Azure: 3528
+Total Data Stored: 10, Monthly Downloaded Data: 4, Actual - Amazon: 4200, Expected - Amazon: 4200
+Total Data Stored: 10, Monthly Downloaded Data: 4, Actual - Google: 5208, Expected - Google: 5208
+Values of Total Data Stored = 10, j=4 equals to expected
+Total Data Stored: 1, Monthly Downloaded Data: 5, Actual - Rabata: 1080, Expected - Rabata: 1080
+Total Data Stored: 1, Monthly Downloaded Data: 5, Actual - Azure: 1512, Expected - Azure: 1512
+Total Data Stored: 1, Monthly Downloaded Data: 5, Actual - Amazon: 1800, Expected - Amazon: 1800
+Total Data Stored: 1, Monthly Downloaded Data: 5, Actual - Google: 2232, Expected - Google: 2232
+Values of Total Data Stored = 1, j=5 equals to expected
+Total Data Stored: 2, Monthly Downloaded Data: 5, Actual - Rabata: 1260, Expected - Rabata: 1260
+Total Data Stored: 2, Monthly Downloaded Data: 5, Actual - Azure: 1764, Expected - Azure: 1764
+Total Data Stored: 2, Monthly Downloaded Data: 5, Actual - Amazon: 2100, Expected - Amazon: 2100
+Total Data Stored: 2, Monthly Downloaded Data: 5, Actual - Google: 2604, Expected - Google: 2604
+Values of Total Data Stored = 2, j=5 equals to expected
+Total Data Stored: 3, Monthly Downloaded Data: 5, Actual - Rabata: 1440, Expected - Rabata: 1440
+Total Data Stored: 3, Monthly Downloaded Data: 5, Actual - Azure: 2016, Expected - Azure: 2016
+Total Data Stored: 3, Monthly Downloaded Data: 5, Actual - Amazon: 2400, Expected - Amazon: 2400
+Total Data Stored: 3, Monthly Downloaded Data: 5, Actual - Google: 2976, Expected - Google: 2976
+Values of Total Data Stored = 3, j=5 equals to expected
+Total Data Stored: 4, Monthly Downloaded Data: 5, Actual - Rabata: 1620, Expected - Rabata: 1620
+Total Data Stored: 4, Monthly Downloaded Data: 5, Actual - Azure: 2268, Expected - Azure: 2268
+Total Data Stored: 4, Monthly Downloaded Data: 5, Actual - Amazon: 2700, Expected - Amazon: 2700
+Total Data Stored: 4, Monthly Downloaded Data: 5, Actual - Google: 3348, Expected - Google: 3348
+Values of Total Data Stored = 4, j=5 equals to expected
+Total Data Stored: 5, Monthly Downloaded Data: 5, Actual - Rabata: 1800, Expected - Rabata: 1800
+Total Data Stored: 5, Monthly Downloaded Data: 5, Actual - Azure: 2520, Expected - Azure: 2520
+Total Data Stored: 5, Monthly Downloaded Data: 5, Actual - Amazon: 3000, Expected - Amazon: 3000
+Total Data Stored: 5, Monthly Downloaded Data: 5, Actual - Google: 3720, Expected - Google: 3720
+Values of Total Data Stored = 5, j=5 equals to expected
+Total Data Stored: 6, Monthly Downloaded Data: 5, Actual - Rabata: 1980, Expected - Rabata: 1980
+Total Data Stored: 6, Monthly Downloaded Data: 5, Actual - Azure: 2772, Expected - Azure: 2772
+Total Data Stored: 6, Monthly Downloaded Data: 5, Actual - Amazon: 3300, Expected - Amazon: 3300
+Total Data Stored: 6, Monthly Downloaded Data: 5, Actual - Google: 4092, Expected - Google: 4092
+Values of Total Data Stored = 6, j=5 equals to expected
+Total Data Stored: 7, Monthly Downloaded Data: 5, Actual - Rabata: 2160, Expected - Rabata: 2160
+Total Data Stored: 7, Monthly Downloaded Data: 5, Actual - Azure: 3024, Expected - Azure: 3024
+Total Data Stored: 7, Monthly Downloaded Data: 5, Actual - Amazon: 3600, Expected - Amazon: 3600
+Total Data Stored: 7, Monthly Downloaded Data: 5, Actual - Google: 4464, Expected - Google: 4464
+Values of Total Data Stored = 7, j=5 equals to expected
+Total Data Stored: 8, Monthly Downloaded Data: 5, Actual - Rabata: 2340, Expected - Rabata: 2340
+Total Data Stored: 8, Monthly Downloaded Data: 5, Actual - Azure: 3276, Expected - Azure: 3276
+Total Data Stored: 8, Monthly Downloaded Data: 5, Actual - Amazon: 3900, Expected - Amazon: 3900
+Total Data Stored: 8, Monthly Downloaded Data: 5, Actual - Google: 4836, Expected - Google: 4836
+Values of Total Data Stored = 8, j=5 equals to expected
+Total Data Stored: 9, Monthly Downloaded Data: 5, Actual - Rabata: 2520, Expected - Rabata: 2520
+Total Data Stored: 9, Monthly Downloaded Data: 5, Actual - Azure: 3528, Expected - Azure: 3528
+Total Data Stored: 9, Monthly Downloaded Data: 5, Actual - Amazon: 4200, Expected - Amazon: 4200
+Total Data Stored: 9, Monthly Downloaded Data: 5, Actual - Google: 5208, Expected - Google: 5208
+Values of Total Data Stored = 9, j=5 equals to expected
+Total Data Stored: 10, Monthly Downloaded Data: 5, Actual - Rabata: 2700, Expected - Rabata: 2700
+Total Data Stored: 10, Monthly Downloaded Data: 5, Actual - Azure: 3780, Expected - Azure: 3780
+Total Data Stored: 10, Monthly Downloaded Data: 5, Actual - Amazon: 4500, Expected - Amazon: 4500
+Total Data Stored: 10, Monthly Downloaded Data: 5, Actual - Google: 5580, Expected - Google: 5580
+Values of Total Data Stored = 10, j=5 equals to expected
+Total Data Stored: 1, Monthly Downloaded Data: 6, Actual - Rabata: 1260, Expected - Rabata: 1260
+Total Data Stored: 1, Monthly Downloaded Data: 6, Actual - Azure: 1764, Expected - Azure: 1764
+Total Data Stored: 1, Monthly Downloaded Data: 6, Actual - Amazon: 2100, Expected - Amazon: 2100
+Total Data Stored: 1, Monthly Downloaded Data: 6, Actual - Google: 2604, Expected - Google: 2604
+Values of Total Data Stored = 1, j=6 equals to expected
+Total Data Stored: 2, Monthly Downloaded Data: 6, Actual - Rabata: 1440, Expected - Rabata: 1440
+Total Data Stored: 2, Monthly Downloaded Data: 6, Actual - Azure: 2016, Expected - Azure: 2016
+Total Data Stored: 2, Monthly Downloaded Data: 6, Actual - Amazon: 2400, Expected - Amazon: 2400
+Total Data Stored: 2, Monthly Downloaded Data: 6, Actual - Google: 2976, Expected - Google: 2976
+Values of Total Data Stored = 2, j=6 equals to expected
+Total Data Stored: 3, Monthly Downloaded Data: 6, Actual - Rabata: 1620, Expected - Rabata: 1620
+Total Data Stored: 3, Monthly Downloaded Data: 6, Actual - Azure: 2268, Expected - Azure: 2268
+Total Data Stored: 3, Monthly Downloaded Data: 6, Actual - Amazon: 2700, Expected - Amazon: 2700
+Total Data Stored: 3, Monthly Downloaded Data: 6, Actual - Google: 3348, Expected - Google: 3348
+Values of Total Data Stored = 3, j=6 equals to expected
+Total Data Stored: 4, Monthly Downloaded Data: 6, Actual - Rabata: 1800, Expected - Rabata: 1800
+Total Data Stored: 4, Monthly Downloaded Data: 6, Actual - Azure: 2520, Expected - Azure: 2520
+Total Data Stored: 4, Monthly Downloaded Data: 6, Actual - Amazon: 3000, Expected - Amazon: 3000
+Total Data Stored: 4, Monthly Downloaded Data: 6, Actual - Google: 3720, Expected - Google: 3720
+Values of Total Data Stored = 4, j=6 equals to expected
+Total Data Stored: 5, Monthly Downloaded Data: 6, Actual - Rabata: 1980, Expected - Rabata: 1980
+Total Data Stored: 5, Monthly Downloaded Data: 6, Actual - Azure: 2772, Expected - Azure: 2772
+Total Data Stored: 5, Monthly Downloaded Data: 6, Actual - Amazon: 3300, Expected - Amazon: 3300
+Total Data Stored: 5, Monthly Downloaded Data: 6, Actual - Google: 4092, Expected - Google: 4092
+Values of Total Data Stored = 5, j=6 equals to expected
+Total Data Stored: 6, Monthly Downloaded Data: 6, Actual - Rabata: 2160, Expected - Rabata: 2160
+Total Data Stored: 6, Monthly Downloaded Data: 6, Actual - Azure: 3024, Expected - Azure: 3024
+Total Data Stored: 6, Monthly Downloaded Data: 6, Actual - Amazon: 3600, Expected - Amazon: 3600
+Total Data Stored: 6, Monthly Downloaded Data: 6, Actual - Google: 4464, Expected - Google: 4464
+Values of Total Data Stored = 6, j=6 equals to expected
+Total Data Stored: 7, Monthly Downloaded Data: 6, Actual - Rabata: 2340, Expected - Rabata: 2340
+Total Data Stored: 7, Monthly Downloaded Data: 6, Actual - Azure: 3276, Expected - Azure: 3276
+Total Data Stored: 7, Monthly Downloaded Data: 6, Actual - Amazon: 3900, Expected - Amazon: 3900
+Total Data Stored: 7, Monthly Downloaded Data: 6, Actual - Google: 4836, Expected - Google: 4836
+Values of Total Data Stored = 7, j=6 equals to expected
+Total Data Stored: 8, Monthly Downloaded Data: 6, Actual - Rabata: 2520, Expected - Rabata: 2520
+Total Data Stored: 8, Monthly Downloaded Data: 6, Actual - Azure: 3528, Expected - Azure: 3528
+Total Data Stored: 8, Monthly Downloaded Data: 6, Actual - Amazon: 4200, Expected - Amazon: 4200
+Total Data Stored: 8, Monthly Downloaded Data: 6, Actual - Google: 5208, Expected - Google: 5208
+Values of Total Data Stored = 8, j=6 equals to expected
+Total Data Stored: 9, Monthly Downloaded Data: 6, Actual - Rabata: 2700, Expected - Rabata: 2700
+Total Data Stored: 9, Monthly Downloaded Data: 6, Actual - Azure: 3780, Expected - Azure: 3780
+Total Data Stored: 9, Monthly Downloaded Data: 6, Actual - Amazon: 4500, Expected - Amazon: 4500
+Total Data Stored: 9, Monthly Downloaded Data: 6, Actual - Google: 5580, Expected - Google: 5580
+Values of Total Data Stored = 9, j=6 equals to expected
+Total Data Stored: 10, Monthly Downloaded Data: 6, Actual - Rabata: 2880, Expected - Rabata: 2880
+Total Data Stored: 10, Monthly Downloaded Data: 6, Actual - Azure: 4032, Expected - Azure: 4032
+Total Data Stored: 10, Monthly Downloaded Data: 6, Actual - Amazon: 4800, Expected - Amazon: 4800
+Total Data Stored: 10, Monthly Downloaded Data: 6, Actual - Google: 5952, Expected - Google: 5952
+Values of Total Data Stored = 10, j=6 equals to expected
+Total Data Stored: 1, Monthly Downloaded Data: 7, Actual - Rabata: 1440, Expected - Rabata: 1440
+Total Data Stored: 1, Monthly Downloaded Data: 7, Actual - Azure: 2016, Expected - Azure: 2016
+Total Data Stored: 1, Monthly Downloaded Data: 7, Actual - Amazon: 2400, Expected - Amazon: 2400
+Total Data Stored: 1, Monthly Downloaded Data: 7, Actual - Google: 2976, Expected - Google: 2976
+Values of Total Data Stored = 1, j=7 equals to expected
+Total Data Stored: 2, Monthly Downloaded Data: 7, Actual - Rabata: 1620, Expected - Rabata: 1620
+Total Data Stored: 2, Monthly Downloaded Data: 7, Actual - Azure: 2268, Expected - Azure: 2268
+Total Data Stored: 2, Monthly Downloaded Data: 7, Actual - Amazon: 2700, Expected - Amazon: 2700
+Total Data Stored: 2, Monthly Downloaded Data: 7, Actual - Google: 3348, Expected - Google: 3348
+Values of Total Data Stored = 2, j=7 equals to expected
+Total Data Stored: 3, Monthly Downloaded Data: 7, Actual - Rabata: 1800, Expected - Rabata: 1800
+Total Data Stored: 3, Monthly Downloaded Data: 7, Actual - Azure: 2520, Expected - Azure: 2520
+Total Data Stored: 3, Monthly Downloaded Data: 7, Actual - Amazon: 3000, Expected - Amazon: 3000
+Total Data Stored: 3, Monthly Downloaded Data: 7, Actual - Google: 3720, Expected - Google: 3720
+Values of Total Data Stored = 3, j=7 equals to expected
+Total Data Stored: 4, Monthly Downloaded Data: 7, Actual - Rabata: 1980, Expected - Rabata: 1980
+Total Data Stored: 4, Monthly Downloaded Data: 7, Actual - Azure: 2772, Expected - Azure: 2772
+Total Data Stored: 4, Monthly Downloaded Data: 7, Actual - Amazon: 3300, Expected - Amazon: 3300
+Total Data Stored: 4, Monthly Downloaded Data: 7, Actual - Google: 4092, Expected - Google: 4092
+Values of Total Data Stored = 4, j=7 equals to expected
+Total Data Stored: 5, Monthly Downloaded Data: 7, Actual - Rabata: 2160, Expected - Rabata: 2160
+Total Data Stored: 5, Monthly Downloaded Data: 7, Actual - Azure: 3024, Expected - Azure: 3024
+Total Data Stored: 5, Monthly Downloaded Data: 7, Actual - Amazon: 3600, Expected - Amazon: 3600
+Total Data Stored: 5, Monthly Downloaded Data: 7, Actual - Google: 4464, Expected - Google: 4464
+Values of Total Data Stored = 5, j=7 equals to expected
+Total Data Stored: 6, Monthly Downloaded Data: 7, Actual - Rabata: 2340, Expected - Rabata: 2340
+Total Data Stored: 6, Monthly Downloaded Data: 7, Actual - Azure: 3276, Expected - Azure: 3276
+Total Data Stored: 6, Monthly Downloaded Data: 7, Actual - Amazon: 3900, Expected - Amazon: 3900
+Total Data Stored: 6, Monthly Downloaded Data: 7, Actual - Google: 4836, Expected - Google: 4836
+Values of Total Data Stored = 6, j=7 equals to expected
+Total Data Stored: 7, Monthly Downloaded Data: 7, Actual - Rabata: 2520, Expected - Rabata: 2520
+Total Data Stored: 7, Monthly Downloaded Data: 7, Actual - Azure: 3528, Expected - Azure: 3528
+Total Data Stored: 7, Monthly Downloaded Data: 7, Actual - Amazon: 4200, Expected - Amazon: 4200
+Total Data Stored: 7, Monthly Downloaded Data: 7, Actual - Google: 5208, Expected - Google: 5208
+Values of Total Data Stored = 7, j=7 equals to expected
+Total Data Stored: 8, Monthly Downloaded Data: 7, Actual - Rabata: 2700, Expected - Rabata: 2700
+Total Data Stored: 8, Monthly Downloaded Data: 7, Actual - Azure: 3780, Expected - Azure: 3780
+Total Data Stored: 8, Monthly Downloaded Data: 7, Actual - Amazon: 4500, Expected - Amazon: 4500
+Total Data Stored: 8, Monthly Downloaded Data: 7, Actual - Google: 5580, Expected - Google: 5580
+Values of Total Data Stored = 8, j=7 equals to expected
+Total Data Stored: 9, Monthly Downloaded Data: 7, Actual - Rabata: 2880, Expected - Rabata: 2880
+Total Data Stored: 9, Monthly Downloaded Data: 7, Actual - Azure: 4032, Expected - Azure: 4032
+Total Data Stored: 9, Monthly Downloaded Data: 7, Actual - Amazon: 4800, Expected - Amazon: 4800
+Total Data Stored: 9, Monthly Downloaded Data: 7, Actual - Google: 5952, Expected - Google: 5952
+Values of Total Data Stored = 9, j=7 equals to expected
+Total Data Stored: 10, Monthly Downloaded Data: 7, Actual - Rabata: 3060, Expected - Rabata: 3060
+Total Data Stored: 10, Monthly Downloaded Data: 7, Actual - Azure: 4284, Expected - Azure: 4284
+Total Data Stored: 10, Monthly Downloaded Data: 7, Actual - Amazon: 5100, Expected - Amazon: 5100
+Total Data Stored: 10, Monthly Downloaded Data: 7, Actual - Google: 6324, Expected - Google: 6324
+Values of Total Data Stored = 10, j=7 equals to expected
+Total Data Stored: 1, Monthly Downloaded Data: 8, Actual - Rabata: 1620, Expected - Rabata: 1620
+Total Data Stored: 1, Monthly Downloaded Data: 8, Actual - Azure: 2268, Expected - Azure: 2268
+Total Data Stored: 1, Monthly Downloaded Data: 8, Actual - Amazon: 2700, Expected - Amazon: 2700
+Total Data Stored: 1, Monthly Downloaded Data: 8, Actual - Google: 3348, Expected - Google: 3348
+Values of Total Data Stored = 1, j=8 equals to expected
+Total Data Stored: 2, Monthly Downloaded Data: 8, Actual - Rabata: 1800, Expected - Rabata: 1800
+Total Data Stored: 2, Monthly Downloaded Data: 8, Actual - Azure: 2520, Expected - Azure: 2520
+Total Data Stored: 2, Monthly Downloaded Data: 8, Actual - Amazon: 3000, Expected - Amazon: 3000
+Total Data Stored: 2, Monthly Downloaded Data: 8, Actual - Google: 3720, Expected - Google: 3720
+Values of Total Data Stored = 2, j=8 equals to expected
+Total Data Stored: 3, Monthly Downloaded Data: 8, Actual - Rabata: 1980, Expected - Rabata: 1980
+Total Data Stored: 3, Monthly Downloaded Data: 8, Actual - Azure: 2772, Expected - Azure: 2772
+Total Data Stored: 3, Monthly Downloaded Data: 8, Actual - Amazon: 3300, Expected - Amazon: 3300
+Total Data Stored: 3, Monthly Downloaded Data: 8, Actual - Google: 4092, Expected - Google: 4092
+Values of Total Data Stored = 3, j=8 equals to expected
+Total Data Stored: 4, Monthly Downloaded Data: 8, Actual - Rabata: 2160, Expected - Rabata: 2160
+Total Data Stored: 4, Monthly Downloaded Data: 8, Actual - Azure: 3024, Expected - Azure: 3024
+Total Data Stored: 4, Monthly Downloaded Data: 8, Actual - Amazon: 3600, Expected - Amazon: 3600
+Total Data Stored: 4, Monthly Downloaded Data: 8, Actual - Google: 4464, Expected - Google: 4464
+Values of Total Data Stored = 4, j=8 equals to expected
+Total Data Stored: 5, Monthly Downloaded Data: 8, Actual - Rabata: 2340, Expected - Rabata: 2340
+Total Data Stored: 5, Monthly Downloaded Data: 8, Actual - Azure: 3276, Expected - Azure: 3276
+Total Data Stored: 5, Monthly Downloaded Data: 8, Actual - Amazon: 3900, Expected - Amazon: 3900
+Total Data Stored: 5, Monthly Downloaded Data: 8, Actual - Google: 4836, Expected - Google: 4836
+Values of Total Data Stored = 5, j=8 equals to expected
+Total Data Stored: 6, Monthly Downloaded Data: 8, Actual - Rabata: 2520, Expected - Rabata: 2520
+Total Data Stored: 6, Monthly Downloaded Data: 8, Actual - Azure: 3528, Expected - Azure: 3528
+Total Data Stored: 6, Monthly Downloaded Data: 8, Actual - Amazon: 4200, Expected - Amazon: 4200
+Total Data Stored: 6, Monthly Downloaded Data: 8, Actual - Google: 5208, Expected - Google: 5208
+Values of Total Data Stored = 6, j=8 equals to expected
+Total Data Stored: 7, Monthly Downloaded Data: 8, Actual - Rabata: 2700, Expected - Rabata: 2700
+Total Data Stored: 7, Monthly Downloaded Data: 8, Actual - Azure: 3780, Expected - Azure: 3780
+Total Data Stored: 7, Monthly Downloaded Data: 8, Actual - Amazon: 4500, Expected - Amazon: 4500
+Total Data Stored: 7, Monthly Downloaded Data: 8, Actual - Google: 5580, Expected - Google: 5580
+Values of Total Data Stored = 7, j=8 equals to expected
+Total Data Stored: 8, Monthly Downloaded Data: 8, Actual - Rabata: 2880, Expected - Rabata: 2880
+Total Data Stored: 8, Monthly Downloaded Data: 8, Actual - Azure: 4032, Expected - Azure: 4032
+Total Data Stored: 8, Monthly Downloaded Data: 8, Actual - Amazon: 4800, Expected - Amazon: 4800
+Total Data Stored: 8, Monthly Downloaded Data: 8, Actual - Google: 5952, Expected - Google: 5952
+Values of Total Data Stored = 8, j=8 equals to expected
+Total Data Stored: 9, Monthly Downloaded Data: 8, Actual - Rabata: 3060, Expected - Rabata: 3060
+Total Data Stored: 9, Monthly Downloaded Data: 8, Actual - Azure: 4284, Expected - Azure: 4284
+Total Data Stored: 9, Monthly Downloaded Data: 8, Actual - Amazon: 5100, Expected - Amazon: 5100
+Total Data Stored: 9, Monthly Downloaded Data: 8, Actual - Google: 6324, Expected - Google: 6324
+Values of Total Data Stored = 9, j=8 equals to expected
+Total Data Stored: 10, Monthly Downloaded Data: 8, Actual - Rabata: 3240, Expected - Rabata: 3240
+Total Data Stored: 10, Monthly Downloaded Data: 8, Actual - Azure: 4536, Expected - Azure: 4536
+Total Data Stored: 10, Monthly Downloaded Data: 8, Actual - Amazon: 5400, Expected - Amazon: 5400
+Total Data Stored: 10, Monthly Downloaded Data: 8, Actual - Google: 6696, Expected - Google: 6696
+Values of Total Data Stored = 10, j=8 equals to expected
+Total Data Stored: 1, Monthly Downloaded Data: 9, Actual - Rabata: 1800, Expected - Rabata: 1800
+Total Data Stored: 1, Monthly Downloaded Data: 9, Actual - Azure: 2520, Expected - Azure: 2520
+Total Data Stored: 1, Monthly Downloaded Data: 9, Actual - Amazon: 3000, Expected - Amazon: 3000
+Total Data Stored: 1, Monthly Downloaded Data: 9, Actual - Google: 3720, Expected - Google: 3720
+Values of Total Data Stored = 1, j=9 equals to expected
+Total Data Stored: 2, Monthly Downloaded Data: 9, Actual - Rabata: 1980, Expected - Rabata: 1980
+Total Data Stored: 2, Monthly Downloaded Data: 9, Actual - Azure: 2772, Expected - Azure: 2772
+Total Data Stored: 2, Monthly Downloaded Data: 9, Actual - Amazon: 3300, Expected - Amazon: 3300
+Total Data Stored: 2, Monthly Downloaded Data: 9, Actual - Google: 4092, Expected - Google: 4092
+Values of Total Data Stored = 2, j=9 equals to expected
+Total Data Stored: 3, Monthly Downloaded Data: 9, Actual - Rabata: 2160, Expected - Rabata: 2160
+Total Data Stored: 3, Monthly Downloaded Data: 9, Actual - Azure: 3024, Expected - Azure: 3024
+Total Data Stored: 3, Monthly Downloaded Data: 9, Actual - Amazon: 3600, Expected - Amazon: 3600
+Total Data Stored: 3, Monthly Downloaded Data: 9, Actual - Google: 4464, Expected - Google: 4464
+Values of Total Data Stored = 3, j=9 equals to expected
+Total Data Stored: 4, Monthly Downloaded Data: 9, Actual - Rabata: 2340, Expected - Rabata: 2340
+Total Data Stored: 4, Monthly Downloaded Data: 9, Actual - Azure: 3276, Expected - Azure: 3276
+Total Data Stored: 4, Monthly Downloaded Data: 9, Actual - Amazon: 3900, Expected - Amazon: 3900
+Total Data Stored: 4, Monthly Downloaded Data: 9, Actual - Google: 4836, Expected - Google: 4836
+Values of Total Data Stored = 4, j=9 equals to expected
+Total Data Stored: 5, Monthly Downloaded Data: 9, Actual - Rabata: 2520, Expected - Rabata: 2520
+Total Data Stored: 5, Monthly Downloaded Data: 9, Actual - Azure: 3528, Expected - Azure: 3528
+Total Data Stored: 5, Monthly Downloaded Data: 9, Actual - Amazon: 4200, Expected - Amazon: 4200
+Total Data Stored: 5, Monthly Downloaded Data: 9, Actual - Google: 5208, Expected - Google: 5208
+Values of Total Data Stored = 5, j=9 equals to expected
+Total Data Stored: 6, Monthly Downloaded Data: 9, Actual - Rabata: 2700, Expected - Rabata: 2700
+Total Data Stored: 6, Monthly Downloaded Data: 9, Actual - Azure: 3780, Expected - Azure: 3780
+Total Data Stored: 6, Monthly Downloaded Data: 9, Actual - Amazon: 4500, Expected - Amazon: 4500
+Total Data Stored: 6, Monthly Downloaded Data: 9, Actual - Google: 5580, Expected - Google: 5580
+Values of Total Data Stored = 6, j=9 equals to expected
+Total Data Stored: 7, Monthly Downloaded Data: 9, Actual - Rabata: 2880, Expected - Rabata: 2880
+Total Data Stored: 7, Monthly Downloaded Data: 9, Actual - Azure: 4032, Expected - Azure: 4032
+Total Data Stored: 7, Monthly Downloaded Data: 9, Actual - Amazon: 4800, Expected - Amazon: 4800
+Total Data Stored: 7, Monthly Downloaded Data: 9, Actual - Google: 5952, Expected - Google: 5952
+Values of Total Data Stored = 7, j=9 equals to expected
+Total Data Stored: 8, Monthly Downloaded Data: 9, Actual - Rabata: 3060, Expected - Rabata: 3060
+Total Data Stored: 8, Monthly Downloaded Data: 9, Actual - Azure: 4284, Expected - Azure: 4284
+Total Data Stored: 8, Monthly Downloaded Data: 9, Actual - Amazon: 5100, Expected - Amazon: 5100
+Total Data Stored: 8, Monthly Downloaded Data: 9, Actual - Google: 6324, Expected - Google: 6324
+Values of Total Data Stored = 8, j=9 equals to expected
+Total Data Stored: 9, Monthly Downloaded Data: 9, Actual - Rabata: 3240, Expected - Rabata: 3240
+Total Data Stored: 9, Monthly Downloaded Data: 9, Actual - Azure: 4536, Expected - Azure: 4536
+Total Data Stored: 9, Monthly Downloaded Data: 9, Actual - Amazon: 5400, Expected - Amazon: 5400
+Total Data Stored: 9, Monthly Downloaded Data: 9, Actual - Google: 6696, Expected - Google: 6696
+Values of Total Data Stored = 9, j=9 equals to expected
+Total Data Stored: 10, Monthly Downloaded Data: 9, Actual - Rabata: 3420, Expected - Rabata: 3420
+Total Data Stored: 10, Monthly Downloaded Data: 9, Actual - Azure: 4788, Expected - Azure: 4788
+Total Data Stored: 10, Monthly Downloaded Data: 9, Actual - Amazon: 5700, Expected - Amazon: 5700
+Total Data Stored: 10, Monthly Downloaded Data: 9, Actual - Google: 7068, Expected - Google: 7068
+Values of Total Data Stored = 10, j=9 equals to expected
+Total Data Stored: 1, Monthly Downloaded Data: 10, Actual - Rabata: 1980, Expected - Rabata: 1980
+Total Data Stored: 1, Monthly Downloaded Data: 10, Actual - Azure: 2772, Expected - Azure: 2772
+Total Data Stored: 1, Monthly Downloaded Data: 10, Actual - Amazon: 3300, Expected - Amazon: 3300
+Total Data Stored: 1, Monthly Downloaded Data: 10, Actual - Google: 4092, Expected - Google: 4092
+Values of Total Data Stored = 1, j=10 equals to expected
+Total Data Stored: 2, Monthly Downloaded Data: 10, Actual - Rabata: 2160, Expected - Rabata: 2160
+Total Data Stored: 2, Monthly Downloaded Data: 10, Actual - Azure: 3024, Expected - Azure: 3024
+Total Data Stored: 2, Monthly Downloaded Data: 10, Actual - Amazon: 3600, Expected - Amazon: 3600
+Total Data Stored: 2, Monthly Downloaded Data: 10, Actual - Google: 4464, Expected - Google: 4464
+Values of Total Data Stored = 2, j=10 equals to expected
+Total Data Stored: 3, Monthly Downloaded Data: 10, Actual - Rabata: 2340, Expected - Rabata: 2340
+Total Data Stored: 3, Monthly Downloaded Data: 10, Actual - Azure: 3276, Expected - Azure: 3276
+Total Data Stored: 3, Monthly Downloaded Data: 10, Actual - Amazon: 3900, Expected - Amazon: 3900
+Total Data Stored: 3, Monthly Downloaded Data: 10, Actual - Google: 4836, Expected - Google: 4836
+Values of Total Data Stored = 3, j=10 equals to expected
+Total Data Stored: 4, Monthly Downloaded Data: 10, Actual - Rabata: 2520, Expected - Rabata: 2520
+Total Data Stored: 4, Monthly Downloaded Data: 10, Actual - Azure: 3528, Expected - Azure: 3528
+Total Data Stored: 4, Monthly Downloaded Data: 10, Actual - Amazon: 4200, Expected - Amazon: 4200
+Total Data Stored: 4, Monthly Downloaded Data: 10, Actual - Google: 5208, Expected - Google: 5208
+Values of Total Data Stored = 4, j=10 equals to expected
+Total Data Stored: 5, Monthly Downloaded Data: 10, Actual - Rabata: 2700, Expected - Rabata: 2700
+Total Data Stored: 5, Monthly Downloaded Data: 10, Actual - Azure: 3780, Expected - Azure: 3780
+Total Data Stored: 5, Monthly Downloaded Data: 10, Actual - Amazon: 4500, Expected - Amazon: 4500
+Total Data Stored: 5, Monthly Downloaded Data: 10, Actual - Google: 5580, Expected - Google: 5580
+Values of Total Data Stored = 5, j=10 equals to expected
+Total Data Stored: 6, Monthly Downloaded Data: 10, Actual - Rabata: 2880, Expected - Rabata: 2880
+Total Data Stored: 6, Monthly Downloaded Data: 10, Actual - Azure: 4032, Expected - Azure: 4032
+Total Data Stored: 6, Monthly Downloaded Data: 10, Actual - Amazon: 4800, Expected - Amazon: 4800
+Total Data Stored: 6, Monthly Downloaded Data: 10, Actual - Google: 5952, Expected - Google: 5952
+Values of Total Data Stored = 6, j=10 equals to expected
+Total Data Stored: 7, Monthly Downloaded Data: 10, Actual - Rabata: 3060, Expected - Rabata: 3060
+Total Data Stored: 7, Monthly Downloaded Data: 10, Actual - Azure: 4284, Expected - Azure: 4284
+Total Data Stored: 7, Monthly Downloaded Data: 10, Actual - Amazon: 5100, Expected - Amazon: 5100
+Total Data Stored: 7, Monthly Downloaded Data: 10, Actual - Google: 6324, Expected - Google: 6324
+Values of Total Data Stored = 7, j=10 equals to expected
+Total Data Stored: 8, Monthly Downloaded Data: 10, Actual - Rabata: 3240, Expected - Rabata: 3240
+Total Data Stored: 8, Monthly Downloaded Data: 10, Actual - Azure: 4536, Expected - Azure: 4536
+Total Data Stored: 8, Monthly Downloaded Data: 10, Actual - Amazon: 5400, Expected - Amazon: 5400
+Total Data Stored: 8, Monthly Downloaded Data: 10, Actual - Google: 6696, Expected - Google: 6696
+Values of Total Data Stored = 8, j=10 equals to expected
+Total Data Stored: 9, Monthly Downloaded Data: 10, Actual - Rabata: 3420, Expected - Rabata: 3420
+Total Data Stored: 9, Monthly Downloaded Data: 10, Actual - Azure: 4788, Expected - Azure: 4788
+Total Data Stored: 9, Monthly Downloaded Data: 10, Actual - Amazon: 5700, Expected - Amazon: 5700
+Total Data Stored: 9, Monthly Downloaded Data: 10, Actual - Google: 7068, Expected - Google: 7068
+Values of Total Data Stored = 9, j=10 equals to expected
+Total Data Stored: 10, Monthly Downloaded Data: 10, Actual - Rabata: 3600, Expected - Rabata: 3600
+Total Data Stored: 10, Monthly Downloaded Data: 10, Actual - Azure: 5040, Expected - Azure: 5040
+Total Data Stored: 10, Monthly Downloaded Data: 10, Actual - Amazon: 6000, Expected - Amazon: 6000
+Total Data Stored: 10, Monthly Downloaded Data: 10, Actual - Google: 7440, Expected - Google: 7440
+Values of Total Data Stored = 10, j=10 equals to expected
+Total Data Stored: 1, Monthly Downloaded Data: 11, Actual - Rabata: 2160, Expected - Rabata: 2160
+Total Data Stored: 1, Monthly Downloaded Data: 11, Actual - Azure: 3024, Expected - Azure: 3024
+Total Data Stored: 1, Monthly Downloaded Data: 11, Actual - Amazon: 3600, Expected - Amazon: 3600
+Total Data Stored: 1, Monthly Downloaded Data: 11, Actual - Google: 4464, Expected - Google: 4464
+Values of Total Data Stored = 1, j=11 equals to expected
+Total Data Stored: 2, Monthly Downloaded Data: 11, Actual - Rabata: 2340, Expected - Rabata: 2340
+Total Data Stored: 2, Monthly Downloaded Data: 11, Actual - Azure: 3276, Expected - Azure: 3276
+Total Data Stored: 2, Monthly Downloaded Data: 11, Actual - Amazon: 3900, Expected - Amazon: 3900
+Total Data Stored: 2, Monthly Downloaded Data: 11, Actual - Google: 4836, Expected - Google: 4836
+Values of Total Data Stored = 2, j=11 equals to expected
+Total Data Stored: 3, Monthly Downloaded Data: 11, Actual - Rabata: 2520, Expected - Rabata: 2520
+Total Data Stored: 3, Monthly Downloaded Data: 11, Actual - Azure: 3528, Expected - Azure: 3528
+Total Data Stored: 3, Monthly Downloaded Data: 11, Actual - Amazon: 4200, Expected - Amazon: 4200
+Total Data Stored: 3, Monthly Downloaded Data: 11, Actual - Google: 5208, Expected - Google: 5208
+Values of Total Data Stored = 3, j=11 equals to expected
+Total Data Stored: 4, Monthly Downloaded Data: 11, Actual - Rabata: 2700, Expected - Rabata: 2700
+Total Data Stored: 4, Monthly Downloaded Data: 11, Actual - Azure: 3780, Expected - Azure: 3780
+Total Data Stored: 4, Monthly Downloaded Data: 11, Actual - Amazon: 4500, Expected - Amazon: 4500
+Total Data Stored: 4, Monthly Downloaded Data: 11, Actual - Google: 5580, Expected - Google: 5580
+Values of Total Data Stored = 4, j=11 equals to expected
+Total Data Stored: 5, Monthly Downloaded Data: 11, Actual - Rabata: 2880, Expected - Rabata: 2880
+Total Data Stored: 5, Monthly Downloaded Data: 11, Actual - Azure: 4032, Expected - Azure: 4032
+Total Data Stored: 5, Monthly Downloaded Data: 11, Actual - Amazon: 4800, Expected - Amazon: 4800
+Total Data Stored: 5, Monthly Downloaded Data: 11, Actual - Google: 5952, Expected - Google: 5952
+Values of Total Data Stored = 5, j=11 equals to expected
+Total Data Stored: 6, Monthly Downloaded Data: 11, Actual - Rabata: 3060, Expected - Rabata: 3060
+Total Data Stored: 6, Monthly Downloaded Data: 11, Actual - Azure: 4284, Expected - Azure: 4284
+Total Data Stored: 6, Monthly Downloaded Data: 11, Actual - Amazon: 5100, Expected - Amazon: 5100
+Total Data Stored: 6, Monthly Downloaded Data: 11, Actual - Google: 6324, Expected - Google: 6324
+Values of Total Data Stored = 6, j=11 equals to expected
+Total Data Stored: 7, Monthly Downloaded Data: 11, Actual - Rabata: 3240, Expected - Rabata: 3240
+Total Data Stored: 7, Monthly Downloaded Data: 11, Actual - Azure: 4536, Expected - Azure: 4536
+Total Data Stored: 7, Monthly Downloaded Data: 11, Actual - Amazon: 5400, Expected - Amazon: 5400
+Total Data Stored: 7, Monthly Downloaded Data: 11, Actual - Google: 6696, Expected - Google: 6696
+Values of Total Data Stored = 7, j=11 equals to expected
+Total Data Stored: 8, Monthly Downloaded Data: 11, Actual - Rabata: 3420, Expected - Rabata: 3420
+Total Data Stored: 8, Monthly Downloaded Data: 11, Actual - Azure: 4788, Expected - Azure: 4788
+Total Data Stored: 8, Monthly Downloaded Data: 11, Actual - Amazon: 5700, Expected - Amazon: 5700
+Total Data Stored: 8, Monthly Downloaded Data: 11, Actual - Google: 7068, Expected - Google: 7068
+Values of Total Data Stored = 8, j=11 equals to expected
+Total Data Stored: 9, Monthly Downloaded Data: 11, Actual - Rabata: 3600, Expected - Rabata: 3600
+Total Data Stored: 9, Monthly Downloaded Data: 11, Actual - Azure: 5040, Expected - Azure: 5040
+Total Data Stored: 9, Monthly Downloaded Data: 11, Actual - Amazon: 6000, Expected - Amazon: 6000
+Total Data Stored: 9, Monthly Downloaded Data: 11, Actual - Google: 7440, Expected - Google: 7440
+Values of Total Data Stored = 9, j=11 equals to expected
+Total Data Stored: 10, Monthly Downloaded Data: 11, Actual - Rabata: 3780, Expected - Rabata: 3780
+Total Data Stored: 10, Monthly Downloaded Data: 11, Actual - Azure: 5292, Expected - Azure: 5292
+Total Data Stored: 10, Monthly Downloaded Data: 11, Actual - Amazon: 6300, Expected - Amazon: 6300
+Total Data Stored: 10, Monthly Downloaded Data: 11, Actual - Google: 7812, Expected - Google: 7812
+Values of Total Data Stored = 10, j=11 equals to expected
+Total Data Stored: 1, Monthly Downloaded Data: 12, Actual - Rabata: 2340, Expected - Rabata: 2340
+Total Data Stored: 1, Monthly Downloaded Data: 12, Actual - Azure: 3276, Expected - Azure: 3276
+Total Data Stored: 1, Monthly Downloaded Data: 12, Actual - Amazon: 3900, Expected - Amazon: 3900
+Total Data Stored: 1, Monthly Downloaded Data: 12, Actual - Google: 4836, Expected - Google: 4836
+Values of Total Data Stored = 1, j=12 equals to expected
+Total Data Stored: 2, Monthly Downloaded Data: 12, Actual - Rabata: 2520, Expected - Rabata: 2520
+Total Data Stored: 2, Monthly Downloaded Data: 12, Actual - Azure: 3528, Expected - Azure: 3528
+Total Data Stored: 2, Monthly Downloaded Data: 12, Actual - Amazon: 4200, Expected - Amazon: 4200
+Total Data Stored: 2, Monthly Downloaded Data: 12, Actual - Google: 5208, Expected - Google: 5208
+Values of Total Data Stored = 2, j=12 equals to expected
+Total Data Stored: 3, Monthly Downloaded Data: 12, Actual - Rabata: 2700, Expected - Rabata: 2700
+Total Data Stored: 3, Monthly Downloaded Data: 12, Actual - Azure: 3780, Expected - Azure: 3780
+Total Data Stored: 3, Monthly Downloaded Data: 12, Actual - Amazon: 4500, Expected - Amazon: 4500
+Total Data Stored: 3, Monthly Downloaded Data: 12, Actual - Google: 5580, Expected - Google: 5580
+Values of Total Data Stored = 3, j=12 equals to expected
+Total Data Stored: 4, Monthly Downloaded Data: 12, Actual - Rabata: 2880, Expected - Rabata: 2880
+Total Data Stored: 4, Monthly Downloaded Data: 12, Actual - Azure: 4032, Expected - Azure: 4032
+Total Data Stored: 4, Monthly Downloaded Data: 12, Actual - Amazon: 4800, Expected - Amazon: 4800
+Total Data Stored: 4, Monthly Downloaded Data: 12, Actual - Google: 5952, Expected - Google: 5952
+Values of Total Data Stored = 4, j=12 equals to expected
+Total Data Stored: 5, Monthly Downloaded Data: 12, Actual - Rabata: 3060, Expected - Rabata: 3060
+Total Data Stored: 5, Monthly Downloaded Data: 12, Actual - Azure: 4284, Expected - Azure: 4284
+Total Data Stored: 5, Monthly Downloaded Data: 12, Actual - Amazon: 5100, Expected - Amazon: 5100
+Total Data Stored: 5, Monthly Downloaded Data: 12, Actual - Google: 6324, Expected - Google: 6324
+Values of Total Data Stored = 5, j=12 equals to expected
+Total Data Stored: 6, Monthly Downloaded Data: 12, Actual - Rabata: 3240, Expected - Rabata: 3240
+Total Data Stored: 6, Monthly Downloaded Data: 12, Actual - Azure: 4536, Expected - Azure: 4536
+Total Data Stored: 6, Monthly Downloaded Data: 12, Actual - Amazon: 5400, Expected - Amazon: 5400
+Total Data Stored: 6, Monthly Downloaded Data: 12, Actual - Google: 6696, Expected - Google: 6696
+Values of Total Data Stored = 6, j=12 equals to expected
+Total Data Stored: 7, Monthly Downloaded Data: 12, Actual - Rabata: 3420, Expected - Rabata: 3420
+Total Data Stored: 7, Monthly Downloaded Data: 12, Actual - Azure: 4788, Expected - Azure: 4788
+Total Data Stored: 7, Monthly Downloaded Data: 12, Actual - Amazon: 5700, Expected - Amazon: 5700
+Total Data Stored: 7, Monthly Downloaded Data: 12, Actual - Google: 7068, Expected - Google: 7068
+Values of Total Data Stored = 7, j=12 equals to expected
+Total Data Stored: 8, Monthly Downloaded Data: 12, Actual - Rabata: 3600, Expected - Rabata: 3600
+Total Data Stored: 8, Monthly Downloaded Data: 12, Actual - Azure: 5040, Expected - Azure: 5040
+Total Data Stored: 8, Monthly Downloaded Data: 12, Actual - Amazon: 6000, Expected - Amazon: 6000
+Total Data Stored: 8, Monthly Downloaded Data: 12, Actual - Google: 7440, Expected - Google: 7440
+Values of Total Data Stored = 8, j=12 equals to expected
+Total Data Stored: 9, Monthly Downloaded Data: 12, Actual - Rabata: 3780, Expected - Rabata: 3780
+Total Data Stored: 9, Monthly Downloaded Data: 12, Actual - Azure: 5292, Expected - Azure: 5292
+Total Data Stored: 9, Monthly Downloaded Data: 12, Actual - Amazon: 6300, Expected - Amazon: 6300
+Total Data Stored: 9, Monthly Downloaded Data: 12, Actual - Google: 7812, Expected - Google: 7812
+Values of Total Data Stored = 9, j=12 equals to expected
+Total Data Stored: 10, Monthly Downloaded Data: 12, Actual - Rabata: 3960, Expected - Rabata: 3960
+Total Data Stored: 10, Monthly Downloaded Data: 12, Actual - Azure: 5544, Expected - Azure: 5544
+Total Data Stored: 10, Monthly Downloaded Data: 12, Actual - Amazon: 6600, Expected - Amazon: 6600
+Total Data Stored: 10, Monthly Downloaded Data: 12, Actual - Google: 8184, Expected - Google: 8184
+Values of Total Data Stored = 10, j=12 equals to expected
+Total Data Stored: 1, Monthly Downloaded Data: 13, Actual - Rabata: 2520, Expected - Rabata: 2520
+Total Data Stored: 1, Monthly Downloaded Data: 13, Actual - Azure: 3528, Expected - Azure: 3528
+Total Data Stored: 1, Monthly Downloaded Data: 13, Actual - Amazon: 4200, Expected - Amazon: 4200
+Total Data Stored: 1, Monthly Downloaded Data: 13, Actual - Google: 5208, Expected - Google: 5208
+Values of Total Data Stored = 1, j=13 equals to expected
+Total Data Stored: 2, Monthly Downloaded Data: 13, Actual - Rabata: 2700, Expected - Rabata: 2700
+Total Data Stored: 2, Monthly Downloaded Data: 13, Actual - Azure: 3780, Expected - Azure: 3780
+Total Data Stored: 2, Monthly Downloaded Data: 13, Actual - Amazon: 4500, Expected - Amazon: 4500
+Total Data Stored: 2, Monthly Downloaded Data: 13, Actual - Google: 5580, Expected - Google: 5580
+Values of Total Data Stored = 2, j=13 equals to expected
+Total Data Stored: 3, Monthly Downloaded Data: 13, Actual - Rabata: 2880, Expected - Rabata: 2880
+Total Data Stored: 3, Monthly Downloaded Data: 13, Actual - Azure: 4032, Expected - Azure: 4032
+Total Data Stored: 3, Monthly Downloaded Data: 13, Actual - Amazon: 4800, Expected - Amazon: 4800
+Total Data Stored: 3, Monthly Downloaded Data: 13, Actual - Google: 5952, Expected - Google: 5952
+Values of Total Data Stored = 3, j=13 equals to expected
+Total Data Stored: 4, Monthly Downloaded Data: 13, Actual - Rabata: 3060, Expected - Rabata: 3060
+Total Data Stored: 4, Monthly Downloaded Data: 13, Actual - Azure: 4284, Expected - Azure: 4284
+Total Data Stored: 4, Monthly Downloaded Data: 13, Actual - Amazon: 5100, Expected - Amazon: 5100
+Total Data Stored: 4, Monthly Downloaded Data: 13, Actual - Google: 6324, Expected - Google: 6324
+Values of Total Data Stored = 4, j=13 equals to expected
+Total Data Stored: 5, Monthly Downloaded Data: 13, Actual - Rabata: 3240, Expected - Rabata: 3240
+Total Data Stored: 5, Monthly Downloaded Data: 13, Actual - Azure: 4536, Expected - Azure: 4536
+Total Data Stored: 5, Monthly Downloaded Data: 13, Actual - Amazon: 5400, Expected - Amazon: 5400
+Total Data Stored: 5, Monthly Downloaded Data: 13, Actual - Google: 6696, Expected - Google: 6696
+Values of Total Data Stored = 5, j=13 equals to expected

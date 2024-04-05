@@ -1,0 +1,600 @@
+Total Data Stored: 1, Actual - Rabata: 708, Expected - Rabata: 708
+Total Data Stored: 1, Actual - Azure: 2496, Expected - Azure: 2496
+Total Data Stored: 1, Actual - Amazon: 3120, Expected - Amazon: 3120
+Total Data Stored: 1, Actual - Google: 2760, Expected - Google: 2760
+Values of Total Data Stored = 1, equals to expected
+Total Data Stored: 2, Actual - Rabata: 708, Expected - Rabata: 708
+Total Data Stored: 2, Actual - Azure: 2496, Expected - Azure: 2496
+Total Data Stored: 2, Actual - Amazon: 3120, Expected - Amazon: 3120
+Total Data Stored: 2, Actual - Google: 2760, Expected - Google: 2760
+Values of Total Data Stored = 2, equals to expected
+Total Data Stored: 3, Actual - Rabata: 708, Expected - Rabata: 708
+Total Data Stored: 3, Actual - Azure: 2496, Expected - Azure: 2496
+Total Data Stored: 3, Actual - Amazon: 3120, Expected - Amazon: 3120
+Total Data Stored: 3, Actual - Google: 2760, Expected - Google: 2760
+Values of Total Data Stored = 3, equals to expected
+Total Data Stored: 4, Actual - Rabata: 708, Expected - Rabata: 708
+Total Data Stored: 4, Actual - Azure: 2496, Expected - Azure: 2496
+Total Data Stored: 4, Actual - Amazon: 3120, Expected - Amazon: 3120
+Total Data Stored: 4, Actual - Google: 2760, Expected - Google: 2760
+Values of Total Data Stored = 4, equals to expected
+Total Data Stored: 5, Actual - Rabata: 708, Expected - Rabata: 708
+Total Data Stored: 5, Actual - Azure: 2496, Expected - Azure: 2496
+Total Data Stored: 5, Actual - Amazon: 3120, Expected - Amazon: 3120
+Total Data Stored: 5, Actual - Google: 2760, Expected - Google: 2760
+Values of Total Data Stored = 5, equals to expected
+Total Data Stored: 6, Actual - Rabata: 708, Expected - Rabata: 708
+Total Data Stored: 6, Actual - Azure: 2496, Expected - Azure: 2496
+Total Data Stored: 6, Actual - Amazon: 3120, Expected - Amazon: 3120
+Total Data Stored: 6, Actual - Google: 2760, Expected - Google: 2760
+Values of Total Data Stored = 6, equals to expected
+Total Data Stored: 7, Actual - Rabata: 708, Expected - Rabata: 708
+Total Data Stored: 7, Actual - Azure: 2496, Expected - Azure: 2496
+Total Data Stored: 7, Actual - Amazon: 3120, Expected - Amazon: 3120
+Total Data Stored: 7, Actual - Google: 2760, Expected - Google: 2760
+Values of Total Data Stored = 7, equals to expected
+Total Data Stored: 8, Actual - Rabata: 708, Expected - Rabata: 708
+Total Data Stored: 8, Actual - Azure: 2496, Expected - Azure: 2496
+Total Data Stored: 8, Actual - Amazon: 3120, Expected - Amazon: 3120
+Total Data Stored: 8, Actual - Google: 2760, Expected - Google: 2760
+Values of Total Data Stored = 8, equals to expected
+Total Data Stored: 9, Actual - Rabata: 708, Expected - Rabata: 708
+Total Data Stored: 9, Actual - Azure: 2496, Expected - Azure: 2496
+Total Data Stored: 9, Actual - Amazon: 3120, Expected - Amazon: 3120
+Total Data Stored: 9, Actual - Google: 2760, Expected - Google: 2760
+Values of Total Data Stored = 9, equals to expected
+Total Data Stored: 10, Actual - Rabata: 708, Expected - Rabata: 708
+Total Data Stored: 10, Actual - Azure: 2496, Expected - Azure: 2496
+Total Data Stored: 10, Actual - Amazon: 3120, Expected - Amazon: 3120
+Total Data Stored: 10, Actual - Google: 2760, Expected - Google: 2760
+Values of Total Data Stored = 10, equals to expected
+Total Data Stored: 11, Actual - Rabata: 1416, Expected - Rabata: 1416
+Total Data Stored: 11, Actual - Azure: 4992, Expected - Azure: 4992
+Total Data Stored: 11, Actual - Amazon: 6240, Expected - Amazon: 6240
+Total Data Stored: 11, Actual - Google: 5520, Expected - Google: 5520
+Values of Total Data Stored = 11, equals to expected
+Total Data Stored: 12, Actual - Rabata: 1416, Expected - Rabata: 1416
+Total Data Stored: 12, Actual - Azure: 4992, Expected - Azure: 4992
+Total Data Stored: 12, Actual - Amazon: 6240, Expected - Amazon: 6240
+Total Data Stored: 12, Actual - Google: 5520, Expected - Google: 5520
+Values of Total Data Stored = 12, equals to expected
+Total Data Stored: 13, Actual - Rabata: 1416, Expected - Rabata: 1416
+Total Data Stored: 13, Actual - Azure: 4992, Expected - Azure: 4992
+Total Data Stored: 13, Actual - Amazon: 6240, Expected - Amazon: 6240
+Total Data Stored: 13, Actual - Google: 5520, Expected - Google: 5520
+Values of Total Data Stored = 13, equals to expected
+Total Data Stored: 14, Actual - Rabata: 1416, Expected - Rabata: 1416
+Total Data Stored: 14, Actual - Azure: 4992, Expected - Azure: 4992
+Total Data Stored: 14, Actual - Amazon: 6240, Expected - Amazon: 6240
+Total Data Stored: 14, Actual - Google: 5520, Expected - Google: 5520
+Values of Total Data Stored = 14, equals to expected
+Total Data Stored: 15, Actual - Rabata: 1416, Expected - Rabata: 1416
+Total Data Stored: 15, Actual - Azure: 4992, Expected - Azure: 4992
+Total Data Stored: 15, Actual - Amazon: 6240, Expected - Amazon: 6240
+Total Data Stored: 15, Actual - Google: 5520, Expected - Google: 5520
+Values of Total Data Stored = 15, equals to expected
+Total Data Stored: 16, Actual - Rabata: 1416, Expected - Rabata: 1416
+Total Data Stored: 16, Actual - Azure: 4992, Expected - Azure: 4992
+Total Data Stored: 16, Actual - Amazon: 6240, Expected - Amazon: 6240
+Total Data Stored: 16, Actual - Google: 5520, Expected - Google: 5520
+Values of Total Data Stored = 16, equals to expected
+Total Data Stored: 17, Actual - Rabata: 1416, Expected - Rabata: 1416
+Total Data Stored: 17, Actual - Azure: 4992, Expected - Azure: 4992
+Total Data Stored: 17, Actual - Amazon: 6240, Expected - Amazon: 6240
+Total Data Stored: 17, Actual - Google: 5520, Expected - Google: 5520
+Values of Total Data Stored = 17, equals to expected
+Total Data Stored: 18, Actual - Rabata: 1416, Expected - Rabata: 1416
+Total Data Stored: 18, Actual - Azure: 4992, Expected - Azure: 4992
+Total Data Stored: 18, Actual - Amazon: 6240, Expected - Amazon: 6240
+Total Data Stored: 18, Actual - Google: 5520, Expected - Google: 5520
+Values of Total Data Stored = 18, equals to expected
+Total Data Stored: 19, Actual - Rabata: 1416, Expected - Rabata: 1416
+Total Data Stored: 19, Actual - Azure: 4992, Expected - Azure: 4992
+Total Data Stored: 19, Actual - Amazon: 6240, Expected - Amazon: 6240
+Total Data Stored: 19, Actual - Google: 5520, Expected - Google: 5520
+Values of Total Data Stored = 19, equals to expected
+Total Data Stored: 20, Actual - Rabata: 1416, Expected - Rabata: 1416
+Total Data Stored: 20, Actual - Azure: 4992, Expected - Azure: 4992
+Total Data Stored: 20, Actual - Amazon: 6240, Expected - Amazon: 6240
+Total Data Stored: 20, Actual - Google: 5520, Expected - Google: 5520
+Values of Total Data Stored = 20, equals to expected
+Total Data Stored: 21, Actual - Rabata: 2124, Expected - Rabata: 2124
+Total Data Stored: 21, Actual - Azure: 7488, Expected - Azure: 7488
+Total Data Stored: 21, Actual - Amazon: 9360, Expected - Amazon: 9360
+Total Data Stored: 21, Actual - Google: 8280, Expected - Google: 8280
+Values of Total Data Stored = 21, equals to expected
+Total Data Stored: 22, Actual - Rabata: 2124, Expected - Rabata: 2124
+Total Data Stored: 22, Actual - Azure: 7488, Expected - Azure: 7488
+Total Data Stored: 22, Actual - Amazon: 9360, Expected - Amazon: 9360
+Total Data Stored: 22, Actual - Google: 8280, Expected - Google: 8280
+Values of Total Data Stored = 22, equals to expected
+Total Data Stored: 23, Actual - Rabata: 2124, Expected - Rabata: 2124
+Total Data Stored: 23, Actual - Azure: 7488, Expected - Azure: 7488
+Total Data Stored: 23, Actual - Amazon: 9360, Expected - Amazon: 9360
+Total Data Stored: 23, Actual - Google: 8280, Expected - Google: 8280
+Values of Total Data Stored = 23, equals to expected
+Total Data Stored: 24, Actual - Rabata: 2124, Expected - Rabata: 2124
+Total Data Stored: 24, Actual - Azure: 7488, Expected - Azure: 7488
+Total Data Stored: 24, Actual - Amazon: 9360, Expected - Amazon: 9360
+Total Data Stored: 24, Actual - Google: 8280, Expected - Google: 8280
+Values of Total Data Stored = 24, equals to expected
+Total Data Stored: 25, Actual - Rabata: 2124, Expected - Rabata: 2124
+Total Data Stored: 25, Actual - Azure: 7488, Expected - Azure: 7488
+Total Data Stored: 25, Actual - Amazon: 9360, Expected - Amazon: 9360
+Total Data Stored: 25, Actual - Google: 8280, Expected - Google: 8280
+Values of Total Data Stored = 25, equals to expected
+Total Data Stored: 26, Actual - Rabata: 2124, Expected - Rabata: 2124
+Total Data Stored: 26, Actual - Azure: 7488, Expected - Azure: 7488
+Total Data Stored: 26, Actual - Amazon: 9360, Expected - Amazon: 9360
+Total Data Stored: 26, Actual - Google: 8280, Expected - Google: 8280
+Values of Total Data Stored = 26, equals to expected
+Total Data Stored: 27, Actual - Rabata: 2124, Expected - Rabata: 2124
+Total Data Stored: 27, Actual - Azure: 7488, Expected - Azure: 7488
+Total Data Stored: 27, Actual - Amazon: 9360, Expected - Amazon: 9360
+Total Data Stored: 27, Actual - Google: 8280, Expected - Google: 8280
+Values of Total Data Stored = 27, equals to expected
+Total Data Stored: 28, Actual - Rabata: 2124, Expected - Rabata: 2124
+Total Data Stored: 28, Actual - Azure: 7488, Expected - Azure: 7488
+Total Data Stored: 28, Actual - Amazon: 9360, Expected - Amazon: 9360
+Total Data Stored: 28, Actual - Google: 8280, Expected - Google: 8280
+Values of Total Data Stored = 28, equals to expected
+Total Data Stored: 29, Actual - Rabata: 2124, Expected - Rabata: 2124
+Total Data Stored: 29, Actual - Azure: 7488, Expected - Azure: 7488
+Total Data Stored: 29, Actual - Amazon: 9360, Expected - Amazon: 9360
+Total Data Stored: 29, Actual - Google: 8280, Expected - Google: 8280
+Values of Total Data Stored = 29, equals to expected
+Total Data Stored: 30, Actual - Rabata: 2124, Expected - Rabata: 2124
+Total Data Stored: 30, Actual - Azure: 7488, Expected - Azure: 7488
+Total Data Stored: 30, Actual - Amazon: 9360, Expected - Amazon: 9360
+Total Data Stored: 30, Actual - Google: 8280, Expected - Google: 8280
+Values of Total Data Stored = 30, equals to expected
+Total Data Stored: 31, Actual - Rabata: 2832, Expected - Rabata: 2832
+Total Data Stored: 31, Actual - Azure: 9984, Expected - Azure: 9984
+Total Data Stored: 31, Actual - Amazon: 12480, Expected - Amazon: 12480
+Total Data Stored: 31, Actual - Google: 11040, Expected - Google: 11040
+Values of Total Data Stored = 31, equals to expected
+Total Data Stored: 32, Actual - Rabata: 2832, Expected - Rabata: 2832
+Total Data Stored: 32, Actual - Azure: 9984, Expected - Azure: 9984
+Total Data Stored: 32, Actual - Amazon: 12480, Expected - Amazon: 12480
+Total Data Stored: 32, Actual - Google: 11040, Expected - Google: 11040
+Values of Total Data Stored = 32, equals to expected
+Total Data Stored: 33, Actual - Rabata: 2832, Expected - Rabata: 2832
+Total Data Stored: 33, Actual - Azure: 9984, Expected - Azure: 9984
+Total Data Stored: 33, Actual - Amazon: 12480, Expected - Amazon: 12480
+Total Data Stored: 33, Actual - Google: 11040, Expected - Google: 11040
+Values of Total Data Stored = 33, equals to expected
+Total Data Stored: 34, Actual - Rabata: 2832, Expected - Rabata: 2832
+Total Data Stored: 34, Actual - Azure: 9984, Expected - Azure: 9984
+Total Data Stored: 34, Actual - Amazon: 12480, Expected - Amazon: 12480
+Total Data Stored: 34, Actual - Google: 11040, Expected - Google: 11040
+Values of Total Data Stored = 34, equals to expected
+Total Data Stored: 35, Actual - Rabata: 2832, Expected - Rabata: 2832
+Total Data Stored: 35, Actual - Azure: 9984, Expected - Azure: 9984
+Total Data Stored: 35, Actual - Amazon: 12480, Expected - Amazon: 12480
+Total Data Stored: 35, Actual - Google: 11040, Expected - Google: 11040
+Values of Total Data Stored = 35, equals to expected
+Total Data Stored: 36, Actual - Rabata: 2832, Expected - Rabata: 2832
+Total Data Stored: 36, Actual - Azure: 9984, Expected - Azure: 9984
+Total Data Stored: 36, Actual - Amazon: 12480, Expected - Amazon: 12480
+Total Data Stored: 36, Actual - Google: 11040, Expected - Google: 11040
+Values of Total Data Stored = 36, equals to expected
+Total Data Stored: 37, Actual - Rabata: 2832, Expected - Rabata: 2832
+Total Data Stored: 37, Actual - Azure: 9984, Expected - Azure: 9984
+Total Data Stored: 37, Actual - Amazon: 12480, Expected - Amazon: 12480
+Total Data Stored: 37, Actual - Google: 11040, Expected - Google: 11040
+Values of Total Data Stored = 37, equals to expected
+Total Data Stored: 38, Actual - Rabata: 2832, Expected - Rabata: 2832
+Total Data Stored: 38, Actual - Azure: 9984, Expected - Azure: 9984
+Total Data Stored: 38, Actual - Amazon: 12480, Expected - Amazon: 12480
+Total Data Stored: 38, Actual - Google: 11040, Expected - Google: 11040
+Values of Total Data Stored = 38, equals to expected
+Total Data Stored: 39, Actual - Rabata: 2832, Expected - Rabata: 2832
+Total Data Stored: 39, Actual - Azure: 9984, Expected - Azure: 9984
+Total Data Stored: 39, Actual - Amazon: 12480, Expected - Amazon: 12480
+Total Data Stored: 39, Actual - Google: 11040, Expected - Google: 11040
+Values of Total Data Stored = 39, equals to expected
+Total Data Stored: 40, Actual - Rabata: 2832, Expected - Rabata: 2832
+Total Data Stored: 40, Actual - Azure: 9984, Expected - Azure: 9984
+Total Data Stored: 40, Actual - Amazon: 12480, Expected - Amazon: 12480
+Total Data Stored: 40, Actual - Google: 11040, Expected - Google: 11040
+Values of Total Data Stored = 40, equals to expected
+Total Data Stored: 41, Actual - Rabata: 3540, Expected - Rabata: 3540
+Total Data Stored: 41, Actual - Azure: 12480, Expected - Azure: 12480
+Total Data Stored: 41, Actual - Amazon: 15600, Expected - Amazon: 15600
+Total Data Stored: 41, Actual - Google: 13800, Expected - Google: 13800
+Values of Total Data Stored = 41, equals to expected
+Total Data Stored: 42, Actual - Rabata: 3540, Expected - Rabata: 3540
+Total Data Stored: 42, Actual - Azure: 12480, Expected - Azure: 12480
+Total Data Stored: 42, Actual - Amazon: 15600, Expected - Amazon: 15600
+Total Data Stored: 42, Actual - Google: 13800, Expected - Google: 13800
+Values of Total Data Stored = 42, equals to expected
+Total Data Stored: 43, Actual - Rabata: 3540, Expected - Rabata: 3540
+Total Data Stored: 43, Actual - Azure: 12480, Expected - Azure: 12480
+Total Data Stored: 43, Actual - Amazon: 15600, Expected - Amazon: 15600
+Total Data Stored: 43, Actual - Google: 13800, Expected - Google: 13800
+Values of Total Data Stored = 43, equals to expected
+Total Data Stored: 44, Actual - Rabata: 3540, Expected - Rabata: 3540
+Total Data Stored: 44, Actual - Azure: 12480, Expected - Azure: 12480
+Total Data Stored: 44, Actual - Amazon: 15600, Expected - Amazon: 15600
+Total Data Stored: 44, Actual - Google: 13800, Expected - Google: 13800
+Values of Total Data Stored = 44, equals to expected
+Total Data Stored: 45, Actual - Rabata: 3540, Expected - Rabata: 3540
+Total Data Stored: 45, Actual - Azure: 12480, Expected - Azure: 12480
+Total Data Stored: 45, Actual - Amazon: 15600, Expected - Amazon: 15600
+Total Data Stored: 45, Actual - Google: 13800, Expected - Google: 13800
+Values of Total Data Stored = 45, equals to expected
+Total Data Stored: 46, Actual - Rabata: 3540, Expected - Rabata: 3540
+Total Data Stored: 46, Actual - Azure: 12480, Expected - Azure: 12480
+Total Data Stored: 46, Actual - Amazon: 15600, Expected - Amazon: 15600
+Total Data Stored: 46, Actual - Google: 13800, Expected - Google: 13800
+Values of Total Data Stored = 46, equals to expected
+Total Data Stored: 47, Actual - Rabata: 3540, Expected - Rabata: 3540
+Total Data Stored: 47, Actual - Azure: 12480, Expected - Azure: 12480
+Total Data Stored: 47, Actual - Amazon: 15600, Expected - Amazon: 15600
+Total Data Stored: 47, Actual - Google: 13800, Expected - Google: 13800
+Values of Total Data Stored = 47, equals to expected
+Total Data Stored: 48, Actual - Rabata: 3540, Expected - Rabata: 3540
+Total Data Stored: 48, Actual - Azure: 12480, Expected - Azure: 12480
+Total Data Stored: 48, Actual - Amazon: 15600, Expected - Amazon: 15600
+Total Data Stored: 48, Actual - Google: 13800, Expected - Google: 13800
+Values of Total Data Stored = 48, equals to expected
+Total Data Stored: 49, Actual - Rabata: 3540, Expected - Rabata: 3540
+Total Data Stored: 49, Actual - Azure: 12480, Expected - Azure: 12480
+Total Data Stored: 49, Actual - Amazon: 15600, Expected - Amazon: 15600
+Total Data Stored: 49, Actual - Google: 13800, Expected - Google: 13800
+Values of Total Data Stored = 49, equals to expected
+Total Data Stored: 50, Actual - Rabata: 3540, Expected - Rabata: 3540
+Total Data Stored: 50, Actual - Azure: 12480, Expected - Azure: 12480
+Total Data Stored: 50, Actual - Amazon: 15600, Expected - Amazon: 15600
+Total Data Stored: 50, Actual - Google: 13800, Expected - Google: 13800
+Values of Total Data Stored = 50, equals to expected
+Total Data Stored: 51, Actual - Rabata: 4248, Expected - Rabata: 4248
+Total Data Stored: 51, Actual - Azure: 14976, Expected - Azure: 14976
+Total Data Stored: 51, Actual - Amazon: 18720, Expected - Amazon: 18720
+Total Data Stored: 51, Actual - Google: 16560, Expected - Google: 16560
+Values of Total Data Stored = 51, equals to expected
+Total Data Stored: 52, Actual - Rabata: 4248, Expected - Rabata: 4248
+Total Data Stored: 52, Actual - Azure: 14976, Expected - Azure: 14976
+Total Data Stored: 52, Actual - Amazon: 18720, Expected - Amazon: 18720
+Total Data Stored: 52, Actual - Google: 16560, Expected - Google: 16560
+Values of Total Data Stored = 52, equals to expected
+Total Data Stored: 53, Actual - Rabata: 4248, Expected - Rabata: 4248
+Total Data Stored: 53, Actual - Azure: 14976, Expected - Azure: 14976
+Total Data Stored: 53, Actual - Amazon: 18720, Expected - Amazon: 18720
+Total Data Stored: 53, Actual - Google: 16560, Expected - Google: 16560
+Values of Total Data Stored = 53, equals to expected
+Total Data Stored: 54, Actual - Rabata: 4248, Expected - Rabata: 4248
+Total Data Stored: 54, Actual - Azure: 14976, Expected - Azure: 14976
+Total Data Stored: 54, Actual - Amazon: 18720, Expected - Amazon: 18720
+Total Data Stored: 54, Actual - Google: 16560, Expected - Google: 16560
+Values of Total Data Stored = 54, equals to expected
+Total Data Stored: 55, Actual - Rabata: 4248, Expected - Rabata: 4248
+Total Data Stored: 55, Actual - Azure: 14976, Expected - Azure: 14976
+Total Data Stored: 55, Actual - Amazon: 18720, Expected - Amazon: 18720
+Total Data Stored: 55, Actual - Google: 16560, Expected - Google: 16560
+Values of Total Data Stored = 55, equals to expected
+Total Data Stored: 56, Actual - Rabata: 4248, Expected - Rabata: 4248
+Total Data Stored: 56, Actual - Azure: 14976, Expected - Azure: 14976
+Total Data Stored: 56, Actual - Amazon: 18720, Expected - Amazon: 18720
+Total Data Stored: 56, Actual - Google: 16560, Expected - Google: 16560
+Values of Total Data Stored = 56, equals to expected
+Total Data Stored: 57, Actual - Rabata: 4248, Expected - Rabata: 4248
+Total Data Stored: 57, Actual - Azure: 14976, Expected - Azure: 14976
+Total Data Stored: 57, Actual - Amazon: 18720, Expected - Amazon: 18720
+Total Data Stored: 57, Actual - Google: 16560, Expected - Google: 16560
+Values of Total Data Stored = 57, equals to expected
+Total Data Stored: 58, Actual - Rabata: 4248, Expected - Rabata: 4248
+Total Data Stored: 58, Actual - Azure: 14976, Expected - Azure: 14976
+Total Data Stored: 58, Actual - Amazon: 18720, Expected - Amazon: 18720
+Total Data Stored: 58, Actual - Google: 16560, Expected - Google: 16560
+Values of Total Data Stored = 58, equals to expected
+Total Data Stored: 59, Actual - Rabata: 4248, Expected - Rabata: 4248
+Total Data Stored: 59, Actual - Azure: 14976, Expected - Azure: 14976
+Total Data Stored: 59, Actual - Amazon: 18720, Expected - Amazon: 18720
+Total Data Stored: 59, Actual - Google: 16560, Expected - Google: 16560
+Values of Total Data Stored = 59, equals to expected
+Total Data Stored: 60, Actual - Rabata: 4248, Expected - Rabata: 4248
+Total Data Stored: 60, Actual - Azure: 14976, Expected - Azure: 14976
+Total Data Stored: 60, Actual - Amazon: 18720, Expected - Amazon: 18720
+Total Data Stored: 60, Actual - Google: 16560, Expected - Google: 16560
+Values of Total Data Stored = 60, equals to expected
+Total Data Stored: 61, Actual - Rabata: 4956, Expected - Rabata: 4956
+Total Data Stored: 61, Actual - Azure: 17472, Expected - Azure: 17472
+Total Data Stored: 61, Actual - Amazon: 21840, Expected - Amazon: 21840
+Total Data Stored: 61, Actual - Google: 19320, Expected - Google: 19320
+Values of Total Data Stored = 61, equals to expected
+Total Data Stored: 62, Actual - Rabata: 4956, Expected - Rabata: 4956
+Total Data Stored: 62, Actual - Azure: 17472, Expected - Azure: 17472
+Total Data Stored: 62, Actual - Amazon: 21840, Expected - Amazon: 21840
+Total Data Stored: 62, Actual - Google: 19320, Expected - Google: 19320
+Values of Total Data Stored = 62, equals to expected
+Total Data Stored: 63, Actual - Rabata: 4956, Expected - Rabata: 4956
+Total Data Stored: 63, Actual - Azure: 17472, Expected - Azure: 17472
+Total Data Stored: 63, Actual - Amazon: 21840, Expected - Amazon: 21840
+Total Data Stored: 63, Actual - Google: 19320, Expected - Google: 19320
+Values of Total Data Stored = 63, equals to expected
+Total Data Stored: 64, Actual - Rabata: 4956, Expected - Rabata: 4956
+Total Data Stored: 64, Actual - Azure: 17472, Expected - Azure: 17472
+Total Data Stored: 64, Actual - Amazon: 21840, Expected - Amazon: 21840
+Total Data Stored: 64, Actual - Google: 19320, Expected - Google: 19320
+Values of Total Data Stored = 64, equals to expected
+Total Data Stored: 65, Actual - Rabata: 4956, Expected - Rabata: 4956
+Total Data Stored: 65, Actual - Azure: 17472, Expected - Azure: 17472
+Total Data Stored: 65, Actual - Amazon: 21840, Expected - Amazon: 21840
+Total Data Stored: 65, Actual - Google: 19320, Expected - Google: 19320
+Values of Total Data Stored = 65, equals to expected
+Total Data Stored: 66, Actual - Rabata: 4956, Expected - Rabata: 4956
+Total Data Stored: 66, Actual - Azure: 17472, Expected - Azure: 17472
+Total Data Stored: 66, Actual - Amazon: 21840, Expected - Amazon: 21840
+Total Data Stored: 66, Actual - Google: 19320, Expected - Google: 19320
+Values of Total Data Stored = 66, equals to expected
+Total Data Stored: 67, Actual - Rabata: 4956, Expected - Rabata: 4956
+Total Data Stored: 67, Actual - Azure: 17472, Expected - Azure: 17472
+Total Data Stored: 67, Actual - Amazon: 21840, Expected - Amazon: 21840
+Total Data Stored: 67, Actual - Google: 19320, Expected - Google: 19320
+Values of Total Data Stored = 67, equals to expected
+Total Data Stored: 68, Actual - Rabata: 4956, Expected - Rabata: 4956
+Total Data Stored: 68, Actual - Azure: 17472, Expected - Azure: 17472
+Total Data Stored: 68, Actual - Amazon: 21840, Expected - Amazon: 21840
+Total Data Stored: 68, Actual - Google: 19320, Expected - Google: 19320
+Values of Total Data Stored = 68, equals to expected
+Total Data Stored: 69, Actual - Rabata: 4956, Expected - Rabata: 4956
+Total Data Stored: 69, Actual - Azure: 17472, Expected - Azure: 17472
+Total Data Stored: 69, Actual - Amazon: 21840, Expected - Amazon: 21840
+Total Data Stored: 69, Actual - Google: 19320, Expected - Google: 19320
+Values of Total Data Stored = 69, equals to expected
+Total Data Stored: 70, Actual - Rabata: 4956, Expected - Rabata: 4956
+Total Data Stored: 70, Actual - Azure: 17472, Expected - Azure: 17472
+Total Data Stored: 70, Actual - Amazon: 21840, Expected - Amazon: 21840
+Total Data Stored: 70, Actual - Google: 19320, Expected - Google: 19320
+Values of Total Data Stored = 70, equals to expected
+Total Data Stored: 71, Actual - Rabata: 5664, Expected - Rabata: 5664
+Total Data Stored: 71, Actual - Azure: 19968, Expected - Azure: 19968
+Total Data Stored: 71, Actual - Amazon: 24960, Expected - Amazon: 24960
+Total Data Stored: 71, Actual - Google: 22080, Expected - Google: 22080
+Values of Total Data Stored = 71, equals to expected
+Total Data Stored: 72, Actual - Rabata: 5664, Expected - Rabata: 5664
+Total Data Stored: 72, Actual - Azure: 19968, Expected - Azure: 19968
+Total Data Stored: 72, Actual - Amazon: 24960, Expected - Amazon: 24960
+Total Data Stored: 72, Actual - Google: 22080, Expected - Google: 22080
+Values of Total Data Stored = 72, equals to expected
+Total Data Stored: 73, Actual - Rabata: 5664, Expected - Rabata: 5664
+Total Data Stored: 73, Actual - Azure: 19968, Expected - Azure: 19968
+Total Data Stored: 73, Actual - Amazon: 24960, Expected - Amazon: 24960
+Total Data Stored: 73, Actual - Google: 22080, Expected - Google: 22080
+Values of Total Data Stored = 73, equals to expected
+Total Data Stored: 74, Actual - Rabata: 5664, Expected - Rabata: 5664
+Total Data Stored: 74, Actual - Azure: 19968, Expected - Azure: 19968
+Total Data Stored: 74, Actual - Amazon: 24960, Expected - Amazon: 24960
+Total Data Stored: 74, Actual - Google: 22080, Expected - Google: 22080
+Values of Total Data Stored = 74, equals to expected
+Total Data Stored: 75, Actual - Rabata: 5664, Expected - Rabata: 5664
+Total Data Stored: 75, Actual - Azure: 19968, Expected - Azure: 19968
+Total Data Stored: 75, Actual - Amazon: 24960, Expected - Amazon: 24960
+Total Data Stored: 75, Actual - Google: 22080, Expected - Google: 22080
+Values of Total Data Stored = 75, equals to expected
+Total Data Stored: 76, Actual - Rabata: 5664, Expected - Rabata: 5664
+Total Data Stored: 76, Actual - Azure: 19968, Expected - Azure: 19968
+Total Data Stored: 76, Actual - Amazon: 24960, Expected - Amazon: 24960
+Total Data Stored: 76, Actual - Google: 22080, Expected - Google: 22080
+Values of Total Data Stored = 76, equals to expected
+Total Data Stored: 77, Actual - Rabata: 5664, Expected - Rabata: 5664
+Total Data Stored: 77, Actual - Azure: 19968, Expected - Azure: 19968
+Total Data Stored: 77, Actual - Amazon: 24960, Expected - Amazon: 24960
+Total Data Stored: 77, Actual - Google: 22080, Expected - Google: 22080
+Values of Total Data Stored = 77, equals to expected
+Total Data Stored: 78, Actual - Rabata: 5664, Expected - Rabata: 5664
+Total Data Stored: 78, Actual - Azure: 19968, Expected - Azure: 19968
+Total Data Stored: 78, Actual - Amazon: 24960, Expected - Amazon: 24960
+Total Data Stored: 78, Actual - Google: 22080, Expected - Google: 22080
+Values of Total Data Stored = 78, equals to expected
+Total Data Stored: 79, Actual - Rabata: 5664, Expected - Rabata: 5664
+Total Data Stored: 79, Actual - Azure: 19968, Expected - Azure: 19968
+Total Data Stored: 79, Actual - Amazon: 24960, Expected - Amazon: 24960
+Total Data Stored: 79, Actual - Google: 22080, Expected - Google: 22080
+Values of Total Data Stored = 79, equals to expected
+Total Data Stored: 80, Actual - Rabata: 5664, Expected - Rabata: 5664
+Total Data Stored: 80, Actual - Azure: 19968, Expected - Azure: 19968
+Total Data Stored: 80, Actual - Amazon: 24960, Expected - Amazon: 24960
+Total Data Stored: 80, Actual - Google: 22080, Expected - Google: 22080
+Values of Total Data Stored = 80, equals to expected
+Total Data Stored: 81, Actual - Rabata: 6372, Expected - Rabata: 6372
+Total Data Stored: 81, Actual - Azure: 22464, Expected - Azure: 22464
+Total Data Stored: 81, Actual - Amazon: 28080, Expected - Amazon: 28080
+Total Data Stored: 81, Actual - Google: 24840, Expected - Google: 24840
+Values of Total Data Stored = 81, equals to expected
+Total Data Stored: 82, Actual - Rabata: 6372, Expected - Rabata: 6372
+Total Data Stored: 82, Actual - Azure: 22464, Expected - Azure: 22464
+Total Data Stored: 82, Actual - Amazon: 28080, Expected - Amazon: 28080
+Total Data Stored: 82, Actual - Google: 24840, Expected - Google: 24840
+Values of Total Data Stored = 82, equals to expected
+Total Data Stored: 83, Actual - Rabata: 6372, Expected - Rabata: 6372
+Total Data Stored: 83, Actual - Azure: 22464, Expected - Azure: 22464
+Total Data Stored: 83, Actual - Amazon: 28080, Expected - Amazon: 28080
+Total Data Stored: 83, Actual - Google: 24840, Expected - Google: 24840
+Values of Total Data Stored = 83, equals to expected
+Total Data Stored: 84, Actual - Rabata: 6372, Expected - Rabata: 6372
+Total Data Stored: 84, Actual - Azure: 22464, Expected - Azure: 22464
+Total Data Stored: 84, Actual - Amazon: 28080, Expected - Amazon: 28080
+Total Data Stored: 84, Actual - Google: 24840, Expected - Google: 24840
+Values of Total Data Stored = 84, equals to expected
+Total Data Stored: 85, Actual - Rabata: 6372, Expected - Rabata: 6372
+Total Data Stored: 85, Actual - Azure: 22464, Expected - Azure: 22464
+Total Data Stored: 85, Actual - Amazon: 28080, Expected - Amazon: 28080
+Total Data Stored: 85, Actual - Google: 24840, Expected - Google: 24840
+Values of Total Data Stored = 85, equals to expected
+Total Data Stored: 86, Actual - Rabata: 6372, Expected - Rabata: 6372
+Total Data Stored: 86, Actual - Azure: 22464, Expected - Azure: 22464
+Total Data Stored: 86, Actual - Amazon: 28080, Expected - Amazon: 28080
+Total Data Stored: 86, Actual - Google: 24840, Expected - Google: 24840
+Values of Total Data Stored = 86, equals to expected
+Total Data Stored: 87, Actual - Rabata: 6372, Expected - Rabata: 6372
+Total Data Stored: 87, Actual - Azure: 22464, Expected - Azure: 22464
+Total Data Stored: 87, Actual - Amazon: 28080, Expected - Amazon: 28080
+Total Data Stored: 87, Actual - Google: 24840, Expected - Google: 24840
+Values of Total Data Stored = 87, equals to expected
+Total Data Stored: 88, Actual - Rabata: 6372, Expected - Rabata: 6372
+Total Data Stored: 88, Actual - Azure: 22464, Expected - Azure: 22464
+Total Data Stored: 88, Actual - Amazon: 28080, Expected - Amazon: 28080
+Total Data Stored: 88, Actual - Google: 24840, Expected - Google: 24840
+Values of Total Data Stored = 88, equals to expected
+Total Data Stored: 89, Actual - Rabata: 6372, Expected - Rabata: 6372
+Total Data Stored: 89, Actual - Azure: 22464, Expected - Azure: 22464
+Total Data Stored: 89, Actual - Amazon: 28080, Expected - Amazon: 28080
+Total Data Stored: 89, Actual - Google: 24840, Expected - Google: 24840
+Values of Total Data Stored = 89, equals to expected
+Total Data Stored: 90, Actual - Rabata: 6372, Expected - Rabata: 6372
+Total Data Stored: 90, Actual - Azure: 22464, Expected - Azure: 22464
+Total Data Stored: 90, Actual - Amazon: 28080, Expected - Amazon: 28080
+Total Data Stored: 90, Actual - Google: 24840, Expected - Google: 24840
+Values of Total Data Stored = 90, equals to expected
+Total Data Stored: 91, Actual - Rabata: 7080, Expected - Rabata: 7080
+Total Data Stored: 91, Actual - Azure: 24960, Expected - Azure: 24960
+Total Data Stored: 91, Actual - Amazon: 31200, Expected - Amazon: 31200
+Total Data Stored: 91, Actual - Google: 27600, Expected - Google: 27600
+Values of Total Data Stored = 91, equals to expected
+Total Data Stored: 92, Actual - Rabata: 7080, Expected - Rabata: 7080
+Total Data Stored: 92, Actual - Azure: 24960, Expected - Azure: 24960
+Total Data Stored: 92, Actual - Amazon: 31200, Expected - Amazon: 31200
+Total Data Stored: 92, Actual - Google: 27600, Expected - Google: 27600
+Values of Total Data Stored = 92, equals to expected
+Total Data Stored: 93, Actual - Rabata: 7080, Expected - Rabata: 7080
+Total Data Stored: 93, Actual - Azure: 24960, Expected - Azure: 24960
+Total Data Stored: 93, Actual - Amazon: 31200, Expected - Amazon: 31200
+Total Data Stored: 93, Actual - Google: 27600, Expected - Google: 27600
+Values of Total Data Stored = 93, equals to expected
+Total Data Stored: 94, Actual - Rabata: 7080, Expected - Rabata: 7080
+Total Data Stored: 94, Actual - Azure: 24960, Expected - Azure: 24960
+Total Data Stored: 94, Actual - Amazon: 31200, Expected - Amazon: 31200
+Total Data Stored: 94, Actual - Google: 27600, Expected - Google: 27600
+Values of Total Data Stored = 94, equals to expected
+Total Data Stored: 95, Actual - Rabata: 7080, Expected - Rabata: 7080
+Total Data Stored: 95, Actual - Azure: 24960, Expected - Azure: 24960
+Total Data Stored: 95, Actual - Amazon: 31200, Expected - Amazon: 31200
+Total Data Stored: 95, Actual - Google: 27600, Expected - Google: 27600
+Values of Total Data Stored = 95, equals to expected
+Total Data Stored: 96, Actual - Rabata: 7080, Expected - Rabata: 7080
+Total Data Stored: 96, Actual - Azure: 24960, Expected - Azure: 24960
+Total Data Stored: 96, Actual - Amazon: 31200, Expected - Amazon: 31200
+Total Data Stored: 96, Actual - Google: 27600, Expected - Google: 27600
+Values of Total Data Stored = 96, equals to expected
+Total Data Stored: 97, Actual - Rabata: 7080, Expected - Rabata: 7080
+Total Data Stored: 97, Actual - Azure: 24960, Expected - Azure: 24960
+Total Data Stored: 97, Actual - Amazon: 31200, Expected - Amazon: 31200
+Total Data Stored: 97, Actual - Google: 27600, Expected - Google: 27600
+Values of Total Data Stored = 97, equals to expected
+Total Data Stored: 98, Actual - Rabata: 7080, Expected - Rabata: 7080
+Total Data Stored: 98, Actual - Azure: 24960, Expected - Azure: 24960
+Total Data Stored: 98, Actual - Amazon: 31200, Expected - Amazon: 31200
+Total Data Stored: 98, Actual - Google: 27600, Expected - Google: 27600
+Values of Total Data Stored = 98, equals to expected
+Total Data Stored: 99, Actual - Rabata: 7080, Expected - Rabata: 7080
+Total Data Stored: 99, Actual - Azure: 24960, Expected - Azure: 24960
+Total Data Stored: 99, Actual - Amazon: 31200, Expected - Amazon: 31200
+Total Data Stored: 99, Actual - Google: 27600, Expected - Google: 27600
+Values of Total Data Stored = 99, equals to expected
+Total Data Stored: 100, Actual - Rabata: 7080, Expected - Rabata: 7080
+Total Data Stored: 100, Actual - Azure: 24960, Expected - Azure: 24960
+Total Data Stored: 100, Actual - Amazon: 31200, Expected - Amazon: 31200
+Total Data Stored: 100, Actual - Google: 27600, Expected - Google: 27600
+Values of Total Data Stored = 100, equals to expected
+Total Data Stored: 101, Actual - Rabata: 7788, Expected - Rabata: 7788
+Total Data Stored: 101, Actual - Azure: 27456, Expected - Azure: 27456
+Total Data Stored: 101, Actual - Amazon: 34320, Expected - Amazon: 34320
+Total Data Stored: 101, Actual - Google: 30360, Expected - Google: 30360
+Values of Total Data Stored = 101, equals to expected
+Total Data Stored: 102, Actual - Rabata: 7788, Expected - Rabata: 7788
+Total Data Stored: 102, Actual - Azure: 27456, Expected - Azure: 27456
+Total Data Stored: 102, Actual - Amazon: 34320, Expected - Amazon: 34320
+Total Data Stored: 102, Actual - Google: 30360, Expected - Google: 30360
+Values of Total Data Stored = 102, equals to expected
+Total Data Stored: 103, Actual - Rabata: 7788, Expected - Rabata: 7788
+Total Data Stored: 103, Actual - Azure: 27456, Expected - Azure: 27456
+Total Data Stored: 103, Actual - Amazon: 34320, Expected - Amazon: 34320
+Total Data Stored: 103, Actual - Google: 30360, Expected - Google: 30360
+Values of Total Data Stored = 103, equals to expected
+Total Data Stored: 104, Actual - Rabata: 7788, Expected - Rabata: 7788
+Total Data Stored: 104, Actual - Azure: 27456, Expected - Azure: 27456
+Total Data Stored: 104, Actual - Amazon: 34320, Expected - Amazon: 34320
+Total Data Stored: 104, Actual - Google: 30360, Expected - Google: 30360
+Values of Total Data Stored = 104, equals to expected
+Total Data Stored: 105, Actual - Rabata: 7788, Expected - Rabata: 7788
+Total Data Stored: 105, Actual - Azure: 27456, Expected - Azure: 27456
+Total Data Stored: 105, Actual - Amazon: 34320, Expected - Amazon: 34320
+Total Data Stored: 105, Actual - Google: 30360, Expected - Google: 30360
+Values of Total Data Stored = 105, equals to expected
+Total Data Stored: 106, Actual - Rabata: 7788, Expected - Rabata: 7788
+Total Data Stored: 106, Actual - Azure: 27456, Expected - Azure: 27456
+Total Data Stored: 106, Actual - Amazon: 34320, Expected - Amazon: 34320
+Total Data Stored: 106, Actual - Google: 30360, Expected - Google: 30360
+Values of Total Data Stored = 106, equals to expected
+Total Data Stored: 107, Actual - Rabata: 7788, Expected - Rabata: 7788
+Total Data Stored: 107, Actual - Azure: 27456, Expected - Azure: 27456
+Total Data Stored: 107, Actual - Amazon: 34320, Expected - Amazon: 34320
+Total Data Stored: 107, Actual - Google: 30360, Expected - Google: 30360
+Values of Total Data Stored = 107, equals to expected
+Total Data Stored: 108, Actual - Rabata: 7788, Expected - Rabata: 7788
+Total Data Stored: 108, Actual - Azure: 27456, Expected - Azure: 27456
+Total Data Stored: 108, Actual - Amazon: 34320, Expected - Amazon: 34320
+Total Data Stored: 108, Actual - Google: 30360, Expected - Google: 30360
+Values of Total Data Stored = 108, equals to expected
+Total Data Stored: 109, Actual - Rabata: 7788, Expected - Rabata: 7788
+Total Data Stored: 109, Actual - Azure: 27456, Expected - Azure: 27456
+Total Data Stored: 109, Actual - Amazon: 34320, Expected - Amazon: 34320
+Total Data Stored: 109, Actual - Google: 30360, Expected - Google: 30360
+Values of Total Data Stored = 109, equals to expected
+Total Data Stored: 110, Actual - Rabata: 7788, Expected - Rabata: 7788
+Total Data Stored: 110, Actual - Azure: 27456, Expected - Azure: 27456
+Total Data Stored: 110, Actual - Amazon: 34320, Expected - Amazon: 34320
+Total Data Stored: 110, Actual - Google: 30360, Expected - Google: 30360
+Values of Total Data Stored = 110, equals to expected
+Total Data Stored: 111, Actual - Rabata: 8496, Expected - Rabata: 8496
+Total Data Stored: 111, Actual - Azure: 29952, Expected - Azure: 29952
+Total Data Stored: 111, Actual - Amazon: 37440, Expected - Amazon: 37440
+Total Data Stored: 111, Actual - Google: 33120, Expected - Google: 33120
+Values of Total Data Stored = 111, equals to expected
+Total Data Stored: 112, Actual - Rabata: 8496, Expected - Rabata: 8496
+Total Data Stored: 112, Actual - Azure: 29952, Expected - Azure: 29952
+Total Data Stored: 112, Actual - Amazon: 37440, Expected - Amazon: 37440
+Total Data Stored: 112, Actual - Google: 33120, Expected - Google: 33120
+Values of Total Data Stored = 112, equals to expected
+Total Data Stored: 113, Actual - Rabata: 8496, Expected - Rabata: 8496
+Total Data Stored: 113, Actual - Azure: 29952, Expected - Azure: 29952
+Total Data Stored: 113, Actual - Amazon: 37440, Expected - Amazon: 37440
+Total Data Stored: 113, Actual - Google: 33120, Expected - Google: 33120
+Values of Total Data Stored = 113, equals to expected
+Total Data Stored: 114, Actual - Rabata: 8496, Expected - Rabata: 8496
+Total Data Stored: 114, Actual - Azure: 29952, Expected - Azure: 29952
+Total Data Stored: 114, Actual - Amazon: 37440, Expected - Amazon: 37440
+Total Data Stored: 114, Actual - Google: 33120, Expected - Google: 33120
+Values of Total Data Stored = 114, equals to expected
+Total Data Stored: 115, Actual - Rabata: 8496, Expected - Rabata: 8496
+Total Data Stored: 115, Actual - Azure: 29952, Expected - Azure: 29952
+Total Data Stored: 115, Actual - Amazon: 37440, Expected - Amazon: 37440
+Total Data Stored: 115, Actual - Google: 33120, Expected - Google: 33120
+Values of Total Data Stored = 115, equals to expected
+Total Data Stored: 116, Actual - Rabata: 8496, Expected - Rabata: 8496
+Total Data Stored: 116, Actual - Azure: 29952, Expected - Azure: 29952
+Total Data Stored: 116, Actual - Amazon: 37440, Expected - Amazon: 37440
+Total Data Stored: 116, Actual - Google: 33120, Expected - Google: 33120
+Values of Total Data Stored = 116, equals to expected
+Total Data Stored: 117, Actual - Rabata: 8496, Expected - Rabata: 8496
+Total Data Stored: 117, Actual - Azure: 29952, Expected - Azure: 29952
+Total Data Stored: 117, Actual - Amazon: 37440, Expected - Amazon: 37440
+Total Data Stored: 117, Actual - Google: 33120, Expected - Google: 33120
+Values of Total Data Stored = 117, equals to expected
+Total Data Stored: 118, Actual - Rabata: 8496, Expected - Rabata: 8496
+Total Data Stored: 118, Actual - Azure: 29952, Expected - Azure: 29952
+Total Data Stored: 118, Actual - Amazon: 37440, Expected - Amazon: 37440
+Total Data Stored: 118, Actual - Google: 33120, Expected - Google: 33120
+Values of Total Data Stored = 118, equals to expected
+Total Data Stored: 119, Actual - Rabata: 8496, Expected - Rabata: 8496
+Total Data Stored: 119, Actual - Azure: 29952, Expected - Azure: 29952
+Total Data Stored: 119, Actual - Amazon: 37440, Expected - Amazon: 37440
+Total Data Stored: 119, Actual - Google: 33120, Expected - Google: 33120
+Values of Total Data Stored = 119, equals to expected
+Total Data Stored: 120, Actual - Rabata: 8496, Expected - Rabata: 8496
+Total Data Stored: 120, Actual - Azure: 29952, Expected - Azure: 29952
+Total Data Stored: 120, Actual - Amazon: 37440, Expected - Amazon: 37440
+Total Data Stored: 120, Actual - Google: 33120, Expected - Google: 33120
+Values of Total Data Stored = 120, equals to expected

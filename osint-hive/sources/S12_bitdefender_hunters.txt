@@ -1,0 +1,91 @@
+Hive Ransomware's Offspring: Hunters International Takes the Stage
+Hive Ransomware's Offspring: Hunters International Takes the Stage
+In January 2023, the FBI collaborated with law enforcement agencies in Germany and the Netherlands to successfully
+dismantle one of the most notorious ransomware groups known as Hive
+. Since June 2021, the Hive ransomware collective targeted over 1,500 victims worldwide, extracting over $100 million in ransom payments. Their victims included hospitals, school districts, financial institutions, and various other organizations, with the threat actors sometimes disclosing the stolen data.
+The takedown notice on one of the Hive’s websites. Source: FBI
+The shutdown resulted from a seven-month covert operation in which the FBI infiltrated Hive's network. The FBI leveraged this access to supply decryption keys to over 300 victims, preventing approximately $130 million in ransom payments. Furthermore, an additional 1,000 decryption keys were distributed to prior Hive victims. Official reports indicate that no arrests were made, but the group's infrastructure has been dismantled. This outcome is not unexpected, as threat actors often operate from safe havens in countries that do not cooperate with global law enforcement initiatives. So, what becomes of such a group after sustaining such a crippling blow?
+Ransomware-as-a-service groups, modeled after the gig economy, comprise of loosely organized individuals. Each can make individual decisions about their future, leading to a mix of rebranding, disbandment, and relocation among group members.
+After the seizure of a ransomware group's infrastructure, a few common options emerge:
+: Some ransomware groups, even with disrupted infrastructure, persist by using backup resources or alternative communication channels to maintain their operations.
+: Others opt for rebranding by changing their group's name, tactics, and techniques.
+: Some ransomware groups disband and disperse members to evade law enforcement scrutiny or to simply lay low.
+: In some cases, these operators, who own and develop the ransomware code and significant infrastructure, can decide to sell what's left of their criminal business to another ambitious group, passing on their tools and know-how to continue cybercriminal activities. This provides an opportunity for new actors to enter the ransomware landscape with a ready-made criminal enterprise.
+Following our analysis, it appears that the leadership of the Hive group made the strategic decision to cease their operations and transfer their remaining assets to another group,
+. In this report, we present an in-depth analysis of the Hunters International ransomware.
+Hunters International: Rebranding or New Threat?
+was the first to detect code similarities between Hunters International and Hive ransomware samples.
+also found multiple code overlaps and similarities, reporting at least a 60% match between the two sets of code. The initial consensus in the security industry was that Hunters International is a rebranded version of Hive, a practice often observed among cybercriminals following a significant disruption.
+Ever since the takedown of Hive ransomware by the FBI, it seems the operators have been busy developing their next project: Hunters International.
+Multiple code overlaps and similarities link Hive and Hunters together, at least +60% match from my research 🔍 h/t
+In an uncommon statement, which is the sole communication from the group thus far, Hunters International addressed these speculations. They declared that, rather than being a rebranded iteration of Hive, they are an independent ransomware group that acquired the source code and infrastructure from Hive. Hunters International claimed to have a primary focus on data exfiltration rather than data encryption. This approach led them to acquire a proven ransomware code from a group recently impacted, representing an opportune moment for them to do so.
+This ransomware group appears to be opportunistic, with no specific focus on regions or industries. Thus far, victims have been identified in the United States, the UK, Germany, and even as far as Namibia.
+Threat intelligence, by its very nature, is not deterministic; it resides in the realm of shades of gray rather than providing definitive black-and-white truths. After our analysis, we find the statement from Hunters International believable. The group appears to place a greater emphasis on data exfiltration (notably, all reported victims had data exfiltrated, but not all of them had their data encrypted).
+The data leak site of Hunters International.
+While analyzing the code, we also observed behavior commonly associated with the adoption of code from other developers, such as the addition of logging. What we can say is that other security researchers have also found that this code is based on what the Hive group was using before.
+Rebuilding the infrastructure requires substantial effort, a phase where many threat actors typically consider selling their tools and enjoying the ill-gotten gains that have not been confiscated by law enforcement agencies.
+In general, as the new group adopts this ransomware code, it appears that they have aimed for simplification. They have reduced the number of command line parameters, streamlined the encryption key storage process, and made the malware less verbose compared to earlier versions.
+The ransomware sample we analyzed is written in the Rust language. This development isn't unexpected, given that Hive had already transitioned to Rust from C and Go in the past. Rust is gaining favor among ransomware operators, with another notable example being BlackCat, due to its relative resilience to reverse engineering by security researchers, robust control over low-level resources, excellent support for parallelism (crucial for swift file encryption), and a wide array of cryptographic libraries.
+All encrypted files are automatically appended with the
+extension, unless a special parameter is used to omit any extension (more details in the next section). Threat actors do not specify a particular payment method or the exact ransom amount. Instead, they direct their victims to access a chat portal, which can only be entered by providing the correct login credentials, as these credentials are included in the ransom note.
+Ransom note from Hunters International group.
+Hive had previously adopted a unique encryption approach. Instead of embedding an encrypted key within each encrypted file, it generated two sets of keys in memory, used them for file encryption, and then encrypted and stored both sets at the root of the drive it encrypted, with a
+: the previous version stored the decryption key in a separate file, whereas this version embeds it within the encrypted files. This represents a simpler and more prevalent approach in the ransomware industry.
+: In this new variant, it appears they have reverted to the more common and simpler practice of including the key within the encrypted file. This "new" ransomware family uses a combination of ChaCha20-Poly1305 to encrypt the files and RSA OAEP to encrypt the keys. This RSA encryption uses a specific method called PKCS1 and SHA3-512 as the hash algorithm. The key generation material is now embedded directly within the encrypted files (albeit still encrypted with RSA). This material is decrypted using the RSA private key and is then utilized to generate the Chacha key. ChaCha20 is a symmetric encryption mechanism - the same key is used for both encryption and decryption.
+In their statement regarding the acquisition of the code from the Hive group, Hunters International stated that "
+...we found a lot of mistakes that caused unavailability for decryption in some cases.
+" We interpret this statement as referring to the unique encryption approach, with the remedy being a shift towards the more conventional practice of embedding the encrypted key within each encrypted file.
+Hunters International disputing being a rebranded Hive group.
+It's worth mentioning that, during our code analysis, we did uncover certain non-functional elements and internal bugs, but we have chosen not to disclose them for security reasons. We anticipate that improved versions of this ransomware may be detected soon, as it appears to be a work in progress.
+Hive ransomware previously employed a large list of command-line arguments. In this version, the list has been streamlined to just five:
+: Specifies the username and password for the chat page to contact the Hunters International group.
+Parameter: -A / -no-aggressive / --no-aggressive
+: Deactivates the aggressive mode (no attempts to delete backups or prevent recovery).
+Parameter: -E / -no-extension / --no-extension
+: Instructs the ransomware not to append any extension to encrypted files.
+: Sets the minimum file size for encryption (in bytes).
+Additionally, you can provide a path to a file or folder for encryption. In the Hive version, this was handled with a parameter called "
+". In this version, it's a positional (unnamed) argument.
+Chat portal to contact Hunters International representatives. Portal credentials are passed via '-c username:password' argument to the ransom note.
+While it is possible to provide an explicit path to a file or folder for encryption, this is primarily intended for testing and debugging purposes rather than being a standard mode of operation. The ransomware is designed to encrypt all files on the target system, except those that meet specific conditions for exclusion. These exclusions and rules include:
+386, adv, ani, bat, bin, cab, cmd, com, cpl, cur, deskthemepack, diagcab, diagcfg, diagpkg, dll, drv, exe, hlp, hta, icl, icns, ico, ics, idx, key, ldf, lnk, lock, mod, mpa, msc, msi, msp, msstyles, msu, nls, nomedia, ocx, pdb, prf, ps1, rom, rtp, scr, shs, spl, sys, theme, themepack, wpx
+perflogs, appdata, $windows.~bt, windows.old, $windows.~ws, msocache, mozilla, tor browser, $recycle.bin, windows, windows nt, intel, all users, internet explorer, default, boot, system volume information, config.msi, google
+autorun.inf, bootfont.bin, boot.ini, bootsect.bak, desktop.ini, iconcache.db, ntldr, ntuser.dat, ntuser.dat.log, ntuser.ini, thumbs.db
+If any of these rules are matched, a file is excluded from the encryption process and will not be encrypted.
+The ransomware includes an aggressive mode aimed at disabling backup and restore functionality by executing a series of commands and attempting to terminate specific services and processes. These actions are intended to prevent data recovery and block backup operations.
+Commands to Prevent Data Recovery and Backup:
+exe delete systemstatebackup -keepVersions:3
+exe /set {default} bootstatuspolicy ignoreallfailures
+mepocs, memtas, veeam, svc$, backup, sql, vss, msexchange, vmm, vmwp
+encsvc, thebat, mydesktopqos, xfssvccon, firefox, infopath, winword, steam, synctime, notepad, ocomm, onenote, mspub, thunderbird, agntsvc, excel, powerpnt, outlook, wordpad, dbeng50, isqlplussvc, sqbcoreservice, oracle, ocautoupds, dbsnmp, msaccess, tbirdconfig, ocssd, mydesktopservice, visio
+It's important to note that Shadow Copy (Volume Shadow Copy Service, VSS) is a common target for every professional ransomware group, and they routinely disable or corrupt it as part of their standard procedures. To mitigate the risks associated with ransomware attacks, Bitdefender recommends to:
+Implement a Ransomware Mitigation Solution
+: Consider using ransomware mitigation solutions that
+do not solely rely on Shadow Copy technology
+. These solutions should include robust security measures that can protect against and recover from ransomware attacks.
+: Ensure that backup systems are secure not only from natural disasters and human errors but also from malicious actors with elevated privileges. Using offline storage for backups can add a layer of protection against ransomware attacks, as long as the recovery process remains effective.
+: Regularly assess and test the effectiveness of security controls to ensure they are not just theoretical safeguards but are practical and capable of defending against emerging threats.
+While this section covers the ransomware's actions related to disabling backups and blocking restore functionality, it's worth noting that this ransomware group primarily focuses on data exfiltration, not encryption, as per their statement. In double-extortion scenarios, the goal is not just to encrypt but also to steal data. Even a functional backup may not fully address this issue, as the stolen data remains a concern, highlighting the importance of a defense-in-depth security approach.
+While Hive has been one of the most dangerous ransomware groups, it remains to be seen if Hunters International will prove equally or even more formidable. Although the number of victims remains relatively low (just five victims at the time of writing), this group emerges as a new threat actor starting with a mature toolkit and appears eager to show its capabilities.
+Reputation plays a critical role in the Ransomware-as-a-Service model, and after the disruptions and months-long law enforcement breach of the Hive ransomware group, Hunters International faces the task of demonstrating its competence before it can attract high-caliber affiliates.
+We are continuously monitoring the situation. Although we've detected some instances in our telemetry, the majority can be attributed to security researchers analyzing the samples.
+GravityZone identifies this ransomware family as
+. Some of these samples might also trigger detection as Hive, given their code similarities. In addition to detection signatures, Bitdefender uses ransomware detection through behavior analysis, using modules like
+. You can find more information about our multi-layered security approach on
+Bitdefender Threat Intelligence customers can access enriched, contextual insights about this attack. The
+in the Bitdefender IntelliZone portal includes additional TTPs and visualizations. For more information about Bitdefender Threat Intelligence solution
+. Below are known indicators of compromise (IOC) for threat hunters.
+94b6cf6c30f525614672a94b8b9788b46cbe061f89ccbb994507406404e027af
+c4d39db132b92514085fe269db90511484b7abe4620286f6b0a30aa475f64c3e
+hunters33mmcwww7ek7q5ndahul6nmzmrsumfs6aenicbqon6mxfiqyd[.]onion
+hunters55rdxciehoqzwv7vgyv6nt37tbwax2reroyzxhou7my5ejyid[.]onion
+Last but not least, it's important to keep in mind that this group, like many other Ransomware-as-a-Service (RaaS) groups, appears to prioritize data exfiltration over data encryption. In addition to having the Bitdefender agent deployed across your network, along with
+capable of detecting lateral movement and reconnaissance activities, our Bitdefender MDR team recommends the following steps to mitigate the risk of data exfiltration:
+: Implement robust encryption protocols for sensitive data to render it unreadable if accessed without proper authorization.
+: Enforce stringent access controls, restricting access to sensitive data and ensuring that permissions are regularly reviewed and updated.
+: Educate employees about the risks associated with data exfiltration and impart best practices for prevention, including recognizing phishing attempts and safeguarding credentials.
+: Segment networks to confine unauthorized movement between systems, making it more challenging for potential intruders to move laterally within the network.
+: Conduct routine security audits and assessments to identify vulnerabilities and weaknesses that malicious actors could exploit for data exfiltration.
+By combining these strategies with Bitdefender MDR, organizations can significantly reduce the risk of data exfiltration.
+We would like to thank Andrei Catalin Mogage and Vlad Constantin Craciun for help with putting this advisory report together.
+Martin is technical solutions director at Bitdefender. He is a passionate blogger and speaker, focusing on enterprise IT for over two decades. He loves travel, lived in Europe, Middle East and now residing in Florida.

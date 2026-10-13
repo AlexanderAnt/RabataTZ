@@ -1,0 +1,57 @@
+New Hunters International ransomware possible rebrand of Hive
+Anthropic takes risky AI tests offline after models breach govt sites
+Retail giant Ahold Delhaize takes systems offline after cyberattack
+Cyberattack shuts down refrigerators at French supermarkets
+Cyber exec arrested in case allegedly tied to ShinyHunters hackers
+Norway fines Microsoft ad firm $9.6 million over Grindr data sharing
+Yandex confirms service outage as users lose access to cloud files
+Anthropic takes risky AI tests offline after models breach govt sites
+Ledger confirms spy chip implant behind wallet crypto thefts
+How to access the Dark Web using the Tor Browser
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+How to backup and restore the Windows Registry
+How to remove a Trojan, Virus, Worm, or other Malware
+New Hunters International ransomware possible rebrand of Hive
+New Hunters International ransomware possible rebrand of Hive
+A new ransomware-as-a-service brand named Hunters International has emerged using code used by the Hive ransomware operation, leading to the valid assumption that the old gang has resumed activity under a different flag.
+This theory is supported by analysis of the new encryptor revealing multiple code overlaps between the two ransomware gangs.
+Security researchers analyzing a sample of the Hunters International malware discovered a striking resemblance to the code used in Hive ransomware attacks.
+More specifically, malware analyst and reverse engineer
+, who first spotted the new encryptor, came to the conclusion that Hunters International malware was a sample of Hive ransomware version 6.
+Malware analyst links Hunters International to Hive ransomware
+In replies to the tweet above, security researcher
+shares that he found "some maintained Hive ransomware strings" in the Hunters International code.
+Looking closer at the Hunters International sample, the researcher discovered code overlaps and similarities that match more than 60% of the code in Hive ransomware.
+Researcher finds strong link between Hunters Internation and Hive ransomware malware
+However, the Hunters International group is denying the researchers’ “allegations” saying that they are a new service on the ransomware scene who purchased the encryptor source code from the Hive developers.
+“All of the Hive source codes were sold including the website and old Golang and C versions and we are those who purchased them,” the Hunters International gang says.
+Hive International claims that Hive’s code contained “a lot of mistakes that caused unavailability for decryption in some cases” but they fixed it.
+Furthermore, the new gang says that encryption is not the main goal of their operation, instead focusing on stealing data as leverage when extorting victims into paying a ransom demand.
+From analysis by BleepingComputer, Hunters International's encryptor appends the “.LOCKED” extension to the processed files.
+Files encrypted by Hunters International ransomware
+The malware leaves in each directory a plaintext file named "Contact Us.txt" with instructions for the victim to contact the attacker over Tor, through a chat page that is protected by a login specific for each victim.
+At the moment, their data leak site lists only one victim, a school in the UK, from where the attackers claim to have stolen almost 50,000 files consisting of data about students and teachers along with network and web credentials.
+Hunters International ransomware leaks data of one victim
+, Hunters International's data leak site shows a set of messages, likely in an attempt to share with the world that they mean serious business and "hunting" for victims and extorting them is their main purpose.
+Hunters International ransomware gang messages
+It remains to be seen what fate awaits Hunters International's but with one victim published on their data leak site, the group does not appear to be too active.
+Whether Hive ransomware sold the source code to other cybercriminals or not, remains unknown at the moment but the gang's operations came to a sudden stop after its Tor payment and data leak site were seized in an international operation in January.
+Disrupting the ransomware operation, which had 250 affiliates, was possible after the
+FBI had infiltrated the gang's infrastructure
+and monitored the activity for six months, since July 2022.
+According to the FBI, the gang breached more than 1,300 companies and recived ransom payments of about $100 million.
+The agency's activity allowed it to provide more than 1,300 decryption keys to Hive ransomware victims that had been encrypted before and after the FBI gained access to the attacker's environments.
+Build your security blueprint for AI-powered attacks
+Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed.
+Ionut Ilascu is a technology writer with a focus on all things cybersecurity. The topics he writes about include malware, vulnerabilities, exploits and security defenses, as well as research and innovation in information security. His work has been published by Bitdefender, Netgear, The Security Ledger and Softpedia.
+You need to login in order to post a comment
+Cyber exec arrested in case allegedly tied to ShinyHunters hackers
+ARTEX AI, Claude agents used in cyberattacks on South Korean banks
+Nippon Columbia malware incident exposes 8.6 million karaoke fan records
+Is your backup really out of reach? See what the latest attacks reveal.
+AWS saw a valid key and let the agent clear a production bucket. See how Token Security ties each agent to its owner and limits it to read-only access.
+New OAuth risk analyst agent: Turn 45 minutes of manual review into 15 seconds.
+AI is a data-breach time bomb: Read the new report
+Learn how to evaluate RMM security with eight practical tests. Find gaps before scaling endpoint management across customer environments.
+Move from visibility to action with AITEM, Criminal IP’s next evolution of ASM
+Help us understand the problem. What is going on with this comment?

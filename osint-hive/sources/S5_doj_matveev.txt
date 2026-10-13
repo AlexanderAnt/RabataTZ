@@ -1,0 +1,89 @@
+https://www.justice.gov/usao-nj/pr/russian-national-charged-ransomware-attacks-against-critical-infrastructure
+retrieved: 2026-10-13T09:28:54.918Z
+
+Breadcrumb
+Justice.gov  U.S. Attorneys  District of New Jersey  Press Releases  Russian National Charged With Ransomware Attacks Against Critical Infrastructure
+PRESS RELEASE
+Russian National Charged with Ransomware Attacks Against Critical Infrastructure
+Tuesday, May 16, 2023
+Share 
+For Immediate Release
+U.S. Attorney's Office, District of New Jersey
+Two U.S. Indictments Charge Defendant with Attacks Against Law Enforcement Agencies in New Jersey, Washington, D.C., and Other Victims Worldwide; U.S. State Department Offers $10 Million Reward
+
+NEWARK, N.J. – The Justice Department today unsealed two indictments charging a Russian national and resident with using three different ransomware variants to attack numerous victims throughout the United States, including law enforcement agencies in New Jersey and Washington, D.C., as well as victims in healthcare and other sectors nationwide.
+
+“From Russia and hiding behind multiple aliases, Matveev is alleged to have used these ransomware strains to encrypt and hold hostage for ransom the data of numerous victims, including hospitals, schools, nonprofits, and law enforcement agencies, like the Metropolitan Police Department in Washington, D.C.,” Philip R. Sellinger, U.S. Attorney for the District of New Jersey, said. “Thanks to the extraordinary investigative work of prosecutors from my office and our FBI partners, Matveev no longer hides in the shadows ­– we have publicly identified his criminal acts and charged him with multiple federal crimes. Let today’s charges be a reminder to cybercriminals everywhere ­– my office is devoted to combatting cybercrime and will spare no resources in bringing to justice those who use ransomware attacks to target victims.”  
+
+“From his home base in Russia, Matveev allegedly used multiple ransomware variants to attack critical infrastructure around the world, including hospitals, government agencies, and victims in other sectors,” Assistant Attorney General Kenneth A. Polite Jr. of the Justice Department’s Criminal Division said. “These international crimes demand a coordinated response. We will not relent in imposing consequences on the most egregious actors in the cybercrime ecosystem.”
+
+“We want the indictment, sanctions and reward for Mikhail Matveev to sound an alarm in the ranks of cyber criminals all over the world,” James E. Dennehy, FBI-Newark special agent in charge, said. “The FBI and our law enforcement partners, as well as our international partners, are coming after you. These malicious actors believe they can operate with impunity – and don’t fear getting caught because they sit in a country where they feel safe and protected. That may be the case now, but the safe harbor may not exist forever. When we have an opportunity, we will do everything in our power to bring Matveev and his ilk to justice.”
+
+According to the indictment obtained in the District of New Jersey:
+
+From at least 2020, Mikhail Pavlovich Matveev, aka Wazawaka, aka m1x, aka Boriselcin, aka Uhodiransomwar, allegedly participated in conspiracies to deploy three ransomware variants. These variants are known as LockBit, Babuk, and Hive, and Matveev transmitted ransom demands in connection with each. The perpetrators behind each of these variants, including Matveev, have allegedly used these types of ransomware to attack thousands of victims in the United States and around the world. These victims include law enforcement and other government agencies, hospitals, and schools. Total ransom demands allegedly made by the members of these three global ransomware campaigns to their victims amount to as much as $400 million, while total victim ransom payments amount to as much as $200 million.
+
+On June 25, 2020, Matveev and his LockBit conspirators allegedly deployed LockBit ransomware against a law enforcement agency in Passaic County, New Jersey. On May 27, 2022, Matveev and his Hive coconspirators allegedly deployed Hive against a nonprofit behavioral healthcare organization headquartered in Mercer County, New Jersey. On April 26, 2021, Matveev and his Babuk conspirators allegedly deployed Babuk against the Metropolitan Police Department in Washington, D.C.
+
+“Data theft and extortion attempts by ransomware groups are corrosive, cynical attacks on key institutions and the good people behind them as they go about their business and serve the public,” U.S. Attorney Matthew M. Graves for the District of Columbia said. “Whether these criminals target law enforcement, other government agencies, or private companies like health care providers, we will use every tool at our disposal to prosecute and punish such offenses. Thanks to exceptional work by our partners here, we identified and charged this culprit.”
+
+“The FBI is steadfast in our commitment to disrupting cybercriminals like Matveev,” Assistant Director Bryan Vorndran of the FBI's Cyber Division said. “The FBI will continue to impose costs on cyber adversaries through our joint collaboration with our private sector and international partners, and we will not tolerate these criminal acts against American citizens.”
+
+The LockBit ransomware variant first appeared around January 2020. LockBit actors have executed over 1,400 attacks against victims in the United States and around the world, issuing over $100 million in ransom demands and receiving over $75 million in ransom payments.
+
+The Babuk ransomware variant first appeared around December 2020. Babuk actors executed over 65 attacks against victims in the United States and around the world, issuing over $49 million in ransom demands and receiving as much as $13 million in ransom payments.
+
+Since June 2021, the Hive ransomware group has targeted more than 1,400 victims around the world and received as much as $120 million in ransom payments.
+
+The LockBit, Babuk, and Hive ransomware variants operated in the same general manner: first, the ransomware actors would identify and unlawfully access vulnerable computer systems, sometimes through their own hacking, or by purchasing stolen access credentials from others. Second, the actors would deploy the ransomware variant within the victim computer system, allowing the actors to encrypt and steal data thereon. Next, the actors would send a ransom note to the victim demanding a payment in exchange for decrypting the victim’s data or refraining from sharing it publicly. Finally, the ransomware actors would negotiate a ransom amount with each victim willing to pay. If a victim did not pay, ransomware actors would often post that victim’s data on a public website, often called a data leak site. 
+
+Matveev is charged with conspiring to transmit ransom demands, conspiring to damage protected computers, and intentionally damaging protected computers. If convicted, he faces over 20 years in prison. 
+
+The FBI Newark Field Office’s Cyber Crimes Task Force is investigating the case with valuable assistance from the Jersey City Police Department, New Jersey State Police, Newark IRS Criminal Investigation, and international partners from European Cyber Crime Centre of Europol, National Police Agency of Japan, Gendarmerie Nationale Cyberspace Command of France, National Crime Agency and South West Regional Organized Crime Unit of the United Kingdom, Kantonspolizei Zürich of Switzerland, High-Tech Crime Unit of the Dutch Police Services Agency of the Netherlands, Bundeskriminalamt and Landeskriminalamt of Germany, Mossos d'Esquadra Police Department of Spain, Norwegian Police Service of Norway, and Swedish Police Authority of Sweden.
+
+The government is represented by Assistant U.S. Attorneys Andrew M. Trombly and David E. Malagold for the District of New Jersey’s Cybercrime Unit in Newark; Assistant U.S. Attorney Elizabeth Aloi for the District of Columbia’s Fraud, Public Corruption, and Civil Rights Section; and Trial Attorneys Jessica C. Peck, Benjamin Proctor, and Jorge Gonzalez of the Criminal Division’s Computer Crime and Intellectual Property Section (CCIPS).
+
+The FBI Tampa Field Office and Orlando Resident Agency, along with Assistant U.S. Attorney Chauncey Bratt for the Middle District of Florida and CCIPS Trial Attorneys Christen Gallagher and Alison Zitron, made critical contributions to the case. The FBI Washington Field Office and Metropolitan Police Department also provided valuable assistance.
+
+The Justice Department’s Office of International Affairs and National Security Division also provided significant assistance.
+
+Victims of LockBit, Babuk, Conti, or Hive ransomware should contact their local FBI field office for further information. For additional information on ransomware, including the LockBit, Babuk, and Hive variants, please visit www.StopRansomware.gov .
+
+ The U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) today announced that it is designating the defendant for his role in launching cyberattacks against U.S. law enforcement, businesses, and critical infrastructure.
+
+The Department of State has also announced an award of up to $10 million for information that leads to the apprehension of this defendant. Information that may be eligible for this award can be submitted at tips.fbi.gov or RewardsForJustice.net. Congress established the Transnational Organized Crime Rewards Program in 2013 to support law enforcement efforts to dismantle transnational criminal organizations and bring their leaders and members to justice. The Department of State’s Bureau of International Narcotics and Law Enforcement Affairs manages the program in coordination with other U.S. federal agencies.
+
+ The charge and allegations contained in the indictment are merely accusations, and the defendant is presumed innocent unless and until proven guilty.
+
+ 
+
+matveev.indictment.pdf
+
+22-142
+
+Updated May 16, 2023
+Topic
+CYBERCRIME
+Component
+USAO - New Jersey
+Press Release Number: 23-142
+
+Related Content
+PRESS RELEASE
+Former Employee of Industrial Company Sentenced to 32 Months in Prison for Computer Attack and Extortion
+
+A Kansas City, Missouri man was sentenced to 32 months in prison for crimes related to his intentional damage to computer networks and extortion of employees.
+
+October 5, 2026
+PRESS RELEASE
+Five Prominent Black Axe Members Extradited for Conspiring to Engage in Internet Scams and Money Laundering
+
+Five members of the Cape Town Zone of the Neo Black Movement of Africa, also known as “Black Axe,” who were extradited from South Africa to the United States on...
+
+September 14, 2026
+PRESS RELEASE
+Man Charged for Interstate Threats and Cyberstalking
+
+A man with ties to New Jersey, Georgia, Malaysia, Morocco, and Albania was charged with threatening to kill and injure victims in New Jersey and Pennsylvania.
+
+August 17, 2026

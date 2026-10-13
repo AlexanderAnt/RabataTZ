@@ -1,0 +1,33 @@
+US offers $10 million reward for info on Hive ransomware gang members | The Record from Recorded Future News
+US offers $10 million reward for info on Hive ransomware gang members
+The U.S. State Department announced a $10 million reward for information leading to the identification or location of key members of the Hive ransomware gang.
+almost exactly one year ago, shutting the ransomware group’s infrastructure
+On Thursday, the State Department said that in addition to the $10 million for information on those holding key leadership positions in the gang, they are offering $5 million “for information leading to the arrest and/or conviction of any individual in any country conspiring to participate in or attempting to participate in Hive ransomware activity.”
+“Today’s announcement complements the Department of Justice announcement that, with Europol, the German and Dutch authorities, and the United States Secret Service, it had seized control of Hive’s servers and websites, thereby disrupting Hive’s ability to further attack and extort victims,” the State Department
+The State Department did not respond to requests for comment about why these rewards were being announced now or if there had been any developments in their efforts to detain members of the group.
+The rewards are being offered through the Department of State’s Transnational Organized Crime Rewards Program (TOCRP), which has offered rewards for members of other ransomware gangs in the past.
+in Paris in December on suspicions that he possessed thousands of dollars stolen from French Hive victims. According to police, the suspect served as a “banker” for Hive affiliates, helping them manage stolen funds.
+The group targeted 1,500 victims in more than 80 countries since emerging in June 2021. U.S. Attorney General Merrick Garland said the group targeted schools and hospitals during the COVID-19 pandemic.
+The group made at least $100 million in its first year of operation and FBI officials believe that by providing decryption keys to more than 1,300 victims, they were able to prevent at least $130 million in additional ransom payments.
+Cryptocurrency research company Chainalysis
+that the takedown of Hive had even larger effects than the $130 million saved.
+“Total tracked ransomware payments for 2022 currently stand at just $567 million, indicating the ransom payments prevented by the Hive infiltration significantly altered the ransomware landscape as a whole last year,” Chainalysis said.
+“Furthermore, the FBI’s $130 million reduced payment estimate may not tell the whole story of just how successful the Hive infiltration was. That figure only looks directly at ransoms averted through the provision of decryptor keys, but does not account for knock-on effects. The Hive infiltration also most likely affected the broader activities of Hive affiliates, potentially lessening the number of additional attacks they could carry out.”
+The report shared data showing that during the six months the FBI spent within Hive’s systems, total ransomware payments across all strains hit about $290 million, much lower than the $500 million predicted for the time period. Chainalysis said it believes the Hive infiltration “may have averted at least $210.4 million in ransomware payments.”
+“The Hive investigation is an example of a gold standard for deploying the key services model,”
+the FBI’s Tampa Division Special Agent in Charge David Walker. “The FBI continues to see, through its investigations and victim engagements, the significant positive impact actions such as the Hive takedown have against cyber threat actors.”
+is a Breaking News Reporter at Recorded Future News. Jonathan has worked across the globe as a journalist since 2014. Before moving back to New York City, he worked for news outlets in South Africa, Jordan and Cambodia. He previously covered cybersecurity at ZDNet and TechRepublic.
+Cyberattack disrupts refrigeration at hundreds of French supermarkets
+Japan confirms arrest of Russian Qilin operative, extradition to Germany
+Leader of vast money mule operation that laundered cybercriminal proceeds pleads guilty
+US posts $10 million reward for accused Chinese ‘Hafnium’ hacker
+Arizona courts say hackers stole info on more than 1.3 million people
+Ukraine grocery chain ATB confirms cyberattack as hackers threaten to leak data
+University of Illinois Chicago affected by ransomware attack on medical school
+Mississippi mayor says ransomware incident led city to shut down systems
+Police disrupt KillSec ransomware, arrest suspected teenage leader
+Japan Adopts Proactive Cyber Defense Strategy
+Tajin Group: Guarantee Marketplace Vendor Involved in Phishing and Chinese Money Laundering Group
+BlueDelta Targets Defense and Diplomacy with HOOKEDGE
+PurpleDelta's Fraudulent Employment Operations
+© Copyright 2026 | The Record from Recorded Future News

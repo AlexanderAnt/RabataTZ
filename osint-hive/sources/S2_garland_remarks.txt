@@ -1,0 +1,69 @@
+https://www.justice.gov/opa/speech/attorney-general-merrick-b-garland-delivers-remarks-disruption-hive-ransomware-variant
+retrieved: 2026-10-13T09:28:44.777Z
+
+Breadcrumb
+Justice.gov  Office of Public Affairs  Archives  Attorney General Merrick B. Garland Delivers Remarks On The Disruption of Hive Ransomware Variant
+
+This is archived content from the U.S. Department of Justice website. The information here may be outdated and links may no longer function. Please contact webmaster@usdoj.gov if you have any questions about the archive site.
+
+SPEECH
+Attorney General Merrick B. Garland Delivers Remarks on the Disruption of Hive Ransomware Variant
+Thursday, January 26, 2023
+Location
+
+Washington, DC
+United States
+
+Remarks as Delivered
+
+Good morning.
+
+I am joined today by Deputy Attorney General Lisa Monaco, FBI Director Chris Wray, Assistant Attorney General for the Criminal Division Kenneth Polite, U.S. Attorney for the Middle District of Florida Roger Handberg, and Europol Representative to the United States Lenno Reimand.
+
+We are here to announce that last night, the Justice Department dismantled an international ransomware network responsible for extorting and attempting to extort hundreds of millions of dollars from victims in the United States and around the world.
+
+Known as the “Hive” ransomware group, this network targeted more than 1,500 victims around the world since June of 2021. 
+
+In ransomware attacks, transnational cybercriminals use malicious software to hold digital systems hostage and demand a ransom. Hive ransomware affiliates employed a double extortion model.
+
+First, they infiltrated a victim’s system and stole sensitive data. Next, the affiliates deployed malicious software, encrypting the victim's system, rendering it unusable. And finally, they demanded a ransom payment in exchange for a system decryption key and a promise not to publish any stolen data.
+
+Hive affiliates targeted critical infrastructure and some of our nation's most important industries.
+
+In one instance in August 2021, Hive affiliates deployed ransomware on computers owned by a Midwest hospital. At a time when COVID-19 was surging in communities around the world, the Hive ransomware attack prevented this hospital from accepting any new patients. The hospital was also forced to rely on paper copies of patient information. It was only able to recover its data after it paid a ransom.
+
+Hive’s most recent victim in the Central District of California was attacked on or about December 30 of last year. Its most recent victim in the [Middle] District of Florida was attacked around 15 days ago.
+
+In its first year of operation, Hive extorted over $100 million in ransom payments from its victims.           
+
+Last summer, FBI agents from the Tampa Division, with the support of prosecutors in the Criminal Division's Computer Crime and Intellectual Property Section and the Middle District of Florida infiltrated the Hive network and began disrupting Hive’s attempts to extort victims. 
+
+For example, the FBI disrupted a Hive ransomware attack against a Texas school district’s computer systems. The Bureau provided decryption keys to the school district, saving it from making a $5 million ransom payment.
+
+That same month, the FBI disrupted a Hive ransomware attack on a Louisiana hospital, saving the victim from a $3 million ransom payment.
+
+The FBI was also able to disrupt an attack on a food services company. The Bureau provided the company with decryption keys and saved the victim from a $10 million ransom payment.
+
+Since July of last year, we provided assistance to over 300 victims around the world, helping to prevent approximately $130 million in ransom payments.
+
+Our continued investigative efforts led us to two back-end computer servers located in Los Angeles that were used by Hive to store the network’s critical information. Last night, pursuant to a court order, we seized those servers. We also received court authorization to wrest control of Hive's darknet sites and render its services unavailable.
+
+This morning, if a Hive affiliate tries to access their darknet site, this is what they will see.
+
+Our investigation into the criminal conduct of Hive members remains ongoing.
+
+I want to thank all of the agents, prosecutors, and staff across the Department for their work on this matter. I also want to thank the United States Secret Service, as well as all of our international partners, including Germany and the Netherlands, as well as our law enforcement partners at Europol.
+
+Cybercrime is a constantly evolving threat. But as I have said before, the Justice Department will spare no resource to identify and bring to justice, anyone, anywhere, who targets the United States with a ransomware attack.  
+
+We will continue to work both to prevent these attacks and to provide support to victims who have been targeted.
+
+And together with our international partners, we will continue to disrupt the criminal networks that deploy these attacks.
+
+I’m now going to turn over the podium over to Deputy Attorney General Monaco. 
+
+Topic
+CYBERCRIME
+Components
+Criminal Division Federal Bureau of Investigation (FBI) Office of the Attorney General
+Updated February 5, 2025

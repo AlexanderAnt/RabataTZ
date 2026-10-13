@@ -3,21 +3,57 @@ Hive,group,,RaaS; first observed,2021-06,S25,https://en.wikipedia.org/wiki/Hive_
 HiveLeaks,leak_site_name,Hive,Hive leak site name,2021–2023,S25,https://en.wikipedia.org/wiki/Hive_(ransomware),search
 Hive (Go),malware_version,Hive,early versions written in Go,2021,S11,https://www.microsoft.com/en-us/security/blog/?p=117287,search
 Hive (Rust),malware_version,Hive,new variant written in Rust,2022,S11,https://www.microsoft.com/en-us/security/blog/?p=117287,search
-CVE-2020-12812,cve,Hive,initial access (FortiOS MFA bypass),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,search
-CVE-2021-31207,cve,Hive,initial access (Exchange / ProxyShell),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,search
-CVE-2021-34473,cve,Hive,initial access (Exchange / ProxyShell),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,search
-CVE-2021-34523,cve,Hive,initial access (Exchange / ProxyShell),2022,S27,https://varonis.com/blog/hive-ransomware-analysis,search
-Mikhail Pavlovich Matveev,person (named by DOJ),Hive,charged as Hive co-conspirator (NJ victim ~2022-05-27),2023-05-16,S5,https://www.justice.gov/usao-nj/pr/russian-national-charged-ransomware-attacks-against-critical-infrastructure,search
-Wazawaka,handle,Mikhail Pavlovich Matveev,alias per DOJ,2023-05-16,S5,https://www.justice.gov/usao-nj/pr/russian-national-charged-ransomware-attacks-against-critical-infrastructure,search
-m1x,handle,Mikhail Pavlovich Matveev,alias per DOJ,2023-05-16,S5,https://www.justice.gov/usao-nj/pr/russian-national-charged-ransomware-attacks-against-critical-infrastructure,search
-Boriselcin,handle,Mikhail Pavlovich Matveev,alias per DOJ,2023-05-16,S5,https://www.justice.gov/usao-nj/pr/russian-national-charged-ransomware-attacks-against-critical-infrastructure,search
-Uhodiransomwar,handle,Mikhail Pavlovich Matveev,alias per DOJ,2023-05-16,S5,https://www.justice.gov/usao-nj/pr/russian-national-charged-ransomware-attacks-against-critical-infrastructure,search
+CVE-2020-12812,cve,Hive,initial access (FortiOS MFA bypass),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+CVE-2021-31207,cve,Hive,initial access (Exchange / ProxyShell),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+CVE-2021-34473,cve,Hive,initial access (Exchange / ProxyShell),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+CVE-2021-34523,cve,Hive,initial access (Exchange / ProxyShell),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+Mikhail Pavlovich Matveev,person (named by DOJ),Hive,"charged in Hive conspiracy (Count 5, from June 2021); personally in Hive-Victim-2 attack 2022-06-02 (Somerset NJ)",2022-12 (unsealed 2023-05-16),S6,https://www.justice.gov/d9/2023-05/matveev.indictment.pdf,primary
+Wazawaka,handle,Mikhail Pavlovich Matveev,alias per DOJ,2023-05-16,S5,https://www.justice.gov/usao-nj/pr/russian-national-charged-ransomware-attacks-against-critical-infrastructure,primary
+m1x,handle,Mikhail Pavlovich Matveev,alias per DOJ,2023-05-16,S5,https://www.justice.gov/usao-nj/pr/russian-national-charged-ransomware-attacks-against-critical-infrastructure,primary
+Boriselcin,handle,Mikhail Pavlovich Matveev,alias per DOJ,2023-05-16,S5,https://www.justice.gov/usao-nj/pr/russian-national-charged-ransomware-attacks-against-critical-infrastructure,primary
+Uhodiransomwar,handle,Mikhail Pavlovich Matveev,alias per DOJ,2023-05-16,S5,https://www.justice.gov/usao-nj/pr/russian-national-charged-ransomware-attacks-against-critical-infrastructure,primary
 Mikhail Pavlovich Matveev,sanction,OFAC SDN,designated (no crypto addresses in entry),2023-05-16,S22,https://therecord.media/alleged-babuk-ransomware-leader-sanctioned-and-indicted-by-us,search
-Unnamed suspect (Paris),person (unnamed),Hive,arrested Paris; RU national ~40; resides Cyprus; alleged laundering; >€570k crypto seized,2023-12-05,S14,https://www.bleepingcomputer.com/news/security/french-police-arrests-russian-suspect-linked-to-hive-ransomware/,search
+Unnamed suspect (Paris),person (unnamed),Hive,arrested Paris; RU national 40; resides Cyprus; suspected laundering of Hive ransoms; €570k crypto seized; referred to Paris prosecutor 2023-12-09,2023-12-05,S14,https://www.bleepingcomputer.com/news/security/french-police-arrests-russian-suspect-linked-to-hive-ransomware/,primary
 Unnamed affiliate cell (Ukraine),group (affiliate),Hive,used Hive + LockerGoga + MegaCortex + Dharma; 5 arrested,2023-11-28,S17,https://techcrunch.com/2023/11/28/europol-hackers-ransomware-lockergoga-hive/,search
-Hunters International,group,Hive,≥60% code overlap; sample = Hive v6 (rivitna); group claims it bought Hive source,2023-Q4,S13,https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/,search
-Hunters International,group,Hive,Bitdefender: Hive leadership transferred assets to Hunters,2023-Q4,S12,https://businessinsights.bitdefender.com/hive-ransomwares-offspring-hunters-international-takes-the-stage,search
+Hunters International,group,Hive,≥60% code overlap; sample = Hive v6 (rivitna); group claims it bought Hive source,2023-Q4,S13,https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/,primary
+Hunters International,group,Hive,Bitdefender: leadership of Hive appears to have transferred assets to Hunters; finds Hunters claim of buying code believable,2023-Q4,S12,https://businessinsights.bitdefender.com/hive-ransomwares-offspring-hunters-international-takes-the-stage,primary
 World Leaks,group,Hunters International,Group-IB: planned rebrand; launched 2025-01-01; extortion-only,2025-04,S19,https://infosecurity-magazine.com/news/ransomware-hunters-international,search
 Storage Software,tool,Hunters International,exfiltration tool given to affiliates; evolved version for World Leaks,2025-04,S19,https://infosecurity-magazine.com/news/ransomware-hunters-international,search
-@BushidoToken (Will Thomas),researcher,Hunters International,reported code overlap (source; not a suspect),2023-Q4,S13,https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/,search
-rivitna,researcher,Hunters International,linked sample to Hive v6 (source; not a suspect),2023-Q4,S13,https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/,search
+@BushidoToken (Will Thomas),researcher,Hunters International,reported code overlap (source; not a suspect),2023-Q4,S13,https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/,primary
+rivitna,researcher,Hunters International,linked sample to Hive v6 (source; not a suspect),2023-Q4,S13,https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/,primary
+CVE-2021-42321,cve,Hive,initial access (Exchange),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+HOW_TO_DECRYPT.txt,file,Hive,ransom note,2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+Hive-Victim-2 ransom note text,artifact,Hive,"quoted in indictment: ""Your network has been breached and all data were encrypted...""",2022-06-02,S6,https://www.justice.gov/d9/2023-05/matveev.indictment.pdf,primary
+80/20 split,business_model,Hive,affiliates 80% / administrators 20%,2023-01-26,S1,https://www.justice.gov/archives/opa/pr/us-department-justice-disrupts-hive-ransomware-variant,primary
+250 affiliates,count,Hive,records on Hive servers (California hosting + NL backups),2023-12,S14,https://www.bleepingcomputer.com/news/security/french-police-arrests-russian-suspect-linked-to-hive-ransomware/,primary
+Contact Us.txt / .LOCKED,file,Hive,Hunters International ransom note / extension,2023-Q4,S13,https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/,primary
+asd[.]s7610rir[.]pw,domain (IOC),Hive,HTA/regsvr32 staging server per AA22-321A,2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+asq[.]d6shiiwz[.]pw,domain (IOC),Hive,HTA/regsvr32 staging server per AA22-321A,2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+asq[.]r77vh0[.]pw,domain (IOC),Hive,HTA/regsvr32 staging server per AA22-321A,2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+asq[.]swhw71un[.]pw,domain (IOC),Hive,HTA/regsvr32 staging server per AA22-321A,2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+https://privatlab[.]com,url (IOC),Hive,file sharing used for leaks,2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+https://privatlab[.]net,url (IOC),Hive,file sharing used for leaks,2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+5[.]61[.]37[.]207,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+5[.]199[.]162[.]220,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+5[.]199[.]162[.]229,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+46[.]166[.]161[.]93,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+46[.]166[.]161[.]123,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+46[.]166[.]162[.]96,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+46[.]166[.]162[.]125,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+46[.]166[.]169[.]34,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+83[.]97[.]20[.]81,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+84[.]32[.]188[.]57,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+84[.]32[.]188[.]238,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+89[.]147[.]109[.]208,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+93[.]115[.]25[.]139,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+93[.]115[.]26[.]251,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+93[.]115[.]27[.]148,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+108[.]62[.]118[.]190,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+158[.]69[.]36[.]149,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+181[.]231[.]81[.]239,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+185[.]8[.]105[.]67,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+185[.]8[.]105[.]103,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+185[.]8[.]105[.]112,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+185[.]247[.]71[.]106,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+186[.]111[.]136[.]37,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary
+192[.]53[.]123[.]202,ipv4 (IOC),Hive,compromise/exfil (some >1 year old as of 2022-11),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,primary

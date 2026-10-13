@@ -1,0 +1,23 @@
+entity,type,related_to,relation,date,source_id,source_url,verified
+Hive,group,,RaaS; first observed,2021-06,S25,https://en.wikipedia.org/wiki/Hive_(ransomware),search
+HiveLeaks,leak_site_name,Hive,Hive leak site name,2021–2023,S25,https://en.wikipedia.org/wiki/Hive_(ransomware),search
+Hive (Go),malware_version,Hive,early versions written in Go,2021,S11,https://www.microsoft.com/en-us/security/blog/?p=117287,search
+Hive (Rust),malware_version,Hive,new variant written in Rust,2022,S11,https://www.microsoft.com/en-us/security/blog/?p=117287,search
+CVE-2020-12812,cve,Hive,initial access (FortiOS MFA bypass),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,search
+CVE-2021-31207,cve,Hive,initial access (Exchange / ProxyShell),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,search
+CVE-2021-34473,cve,Hive,initial access (Exchange / ProxyShell),2022-11-17,S3,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a,search
+CVE-2021-34523,cve,Hive,initial access (Exchange / ProxyShell),2022,S27,https://varonis.com/blog/hive-ransomware-analysis,search
+Mikhail Pavlovich Matveev,person (named by DOJ),Hive,charged as Hive co-conspirator (NJ victim ~2022-05-27),2023-05-16,S5,https://www.justice.gov/usao-nj/pr/russian-national-charged-ransomware-attacks-against-critical-infrastructure,search
+Wazawaka,handle,Mikhail Pavlovich Matveev,alias per DOJ,2023-05-16,S5,https://www.justice.gov/usao-nj/pr/russian-national-charged-ransomware-attacks-against-critical-infrastructure,search
+m1x,handle,Mikhail Pavlovich Matveev,alias per DOJ,2023-05-16,S5,https://www.justice.gov/usao-nj/pr/russian-national-charged-ransomware-attacks-against-critical-infrastructure,search
+Boriselcin,handle,Mikhail Pavlovich Matveev,alias per DOJ,2023-05-16,S5,https://www.justice.gov/usao-nj/pr/russian-national-charged-ransomware-attacks-against-critical-infrastructure,search
+Uhodiransomwar,handle,Mikhail Pavlovich Matveev,alias per DOJ,2023-05-16,S5,https://www.justice.gov/usao-nj/pr/russian-national-charged-ransomware-attacks-against-critical-infrastructure,search
+Mikhail Pavlovich Matveev,sanction,OFAC SDN,designated (no crypto addresses in entry),2023-05-16,S22,https://therecord.media/alleged-babuk-ransomware-leader-sanctioned-and-indicted-by-us,search
+Unnamed suspect (Paris),person (unnamed),Hive,arrested Paris; RU national ~40; resides Cyprus; alleged laundering; >€570k crypto seized,2023-12-05,S14,https://www.bleepingcomputer.com/news/security/french-police-arrests-russian-suspect-linked-to-hive-ransomware/,search
+Unnamed affiliate cell (Ukraine),group (affiliate),Hive,used Hive + LockerGoga + MegaCortex + Dharma; 5 arrested,2023-11-28,S17,https://techcrunch.com/2023/11/28/europol-hackers-ransomware-lockergoga-hive/,search
+Hunters International,group,Hive,≥60% code overlap; sample = Hive v6 (rivitna); group claims it bought Hive source,2023-Q4,S13,https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/,search
+Hunters International,group,Hive,Bitdefender: Hive leadership transferred assets to Hunters,2023-Q4,S12,https://businessinsights.bitdefender.com/hive-ransomwares-offspring-hunters-international-takes-the-stage,search
+World Leaks,group,Hunters International,Group-IB: planned rebrand; launched 2025-01-01; extortion-only,2025-04,S19,https://infosecurity-magazine.com/news/ransomware-hunters-international,search
+Storage Software,tool,Hunters International,exfiltration tool given to affiliates; evolved version for World Leaks,2025-04,S19,https://infosecurity-magazine.com/news/ransomware-hunters-international,search
+@BushidoToken (Will Thomas),researcher,Hunters International,reported code overlap (source; not a suspect),2023-Q4,S13,https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/,search
+rivitna,researcher,Hunters International,linked sample to Hive v6 (source; not a suspect),2023-Q4,S13,https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/,search

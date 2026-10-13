@@ -1,0 +1,142 @@
+https://therecord.media/wazawaka-cyber-most-wanted-interview-click-here
+retrieved: 2026-10-13T09:40:24.670Z
+
+Leadership
+
+Cybercrime
+
+Nation-state
+
+Influence Operations
+
+Technology
+
+Cyber Daily®
+
+Click Here Podcast
+
+✉️ Free Newsletter
+
+ILLUSTRATION BY MEGAN J. GOFF
+Dina Temple-Raston
+
+Sean Powers
+
+May 30th, 2023
+News
+People
+Cybercrime
+Interviews
+Podcast
+A Q&A with Wazawaka: The FBI’s cyber Most Wanted says new designation won’t affect his work
+
+
+
+
+Just weeks after the FBI announced that it had added Mikhail Pavlovich Matveev — better known in cyber circles as “Wazawaka” — to America’s cyber Most Wanted list, he told Recorded Future News’ Click Here podcast in an interview that the designation would do little to change his behavior: “It won’t affect my work. The dog barks, but the caravan moves on.”
+
+The Justice Department unsealed a 22-page, six-count indictment against Matveev that tied him to a roster of ransomware attacks in the U.S. and said his work as an affiliate (or contractor) with Lockbit, Babuk and Hive ransomware gangs made him part of a larger conspiracy targeting “government agencies, including law enforcement agencies, hospitals, schools and nonprofit organizations.” The listed crimes date back to at least January of 2020 Prosecutors also allege that Matveev and co-conspirators collected some $200 million in ransomware payments from victims.
+
+The State Department has offered a $10 million reward for information leading to Matveev’s arrest. The stepped-up attention appears to have emboldened the Russian national. He said he wants to launch some new projects, including potentially training young Russians in cybersecurity to, among other things, prevent the FBI from recruiting them. “I want to take IT in Russia to the next level,” he said.
+
+The interview has been edited for length and clarity.
+
+CLICK HERE: You’re now on the FBI’s cyber Most Wanted list. Was that a surprise and has it changed the way you are operating at all?
+
+MIKHAIL PAVLOVICH MATVEEV: I was not surprised. I understood it was going to happen. There is so much news in the world, so the news about me will be forgotten very soon … the dog barks, but the caravan moves on.
+
+CH: The Department of Justice alleges that you helped three ransomware groups — Lockbit, Babuk, and Hive — to launch attacks against a roster of entities in the U.S. and specifically were part of attacks on the Washington Metropolitan Police Department and the Prospect Park, New Jersey, police department … can you tell us more about that?
+
+MM: No it was not me, it was other people. I just uploaded the data, because I thought I needed to upload it. You see, a lot of Western cybersecurity companies think that a lot of ransomware groups lie. … I uploaded the data to prove that it really had been stolen, and it wasn’t a hoax.
+
+CH: So is the Department of Justice wrong to tie you to these attacks?
+
+MM: I think that the State Department is used to exaggerating everything. They always worked like that and will do so. In all projects I am an affiliate — like a contractor — I am not running these operations.
+
+CH: The Department of Justice alleges that you and the ransomware crews you worked with have collected between $200 milion-$400 million in ransomware payments from your victims …
+
+MM: I just want to say this, the money that DOJ attributes to me, I don’t have this money, where did they get those numbers from? I’m interested. [Editor’s note: The figures appear to be the total in ransom payments the groups demanded, and not necessarily the amounts they were paid after negotiations with their victims.]
+
+CH: You’ve worked with lots of different ransomware crews. In your opinion, which ransomware group is the most efficiently run?
+
+MM: Conti particularly well run. If you look at LockBit or groups like REvil, they tend to claim others’ work as their own, and that’s why they lost their way. But you won’t find anything bad written about Conti, like they are not keeping their business promises, or something like that. I think Conti is the best product in that space, and they are still out there. We just don’t see them. The way the ransomware market is set up now, you don’t see groups … you just see the hype.
+
+CH: What ransomware groups have you been associated with? Are these law enforcement actions preventing you from making money?
+
+MM: We discussed this many times and I spoke about it. There is no reason to repeat it. Because everyone will have their own opinion. And they always tie me to things.
+
+CH: What can you tell me about Hive?
+
+MM: I could tell you about the reason for stopping the Hive, about its weak points, as well as about fixing it in networks using legitimate software.
+
+CH: What is your connection to Hive?
+
+MM: I was an affiliated person, it was not difficult to get there, they run ads to recruit people.
+
+CH: And what’s your definition of being an affiliated person?
+
+MM: RaaS [Ransomware as a Service] is a business model in which malware developers provide ransomware and the infrastructure to manage it to other attackers on a subscription basis. Affiliates pay to launch ransomware attacks developed by these operators. I am an affiliate.
+
+CH: Just so I can understand, what kind of work did you do for Hive?
+
+MM: I used their software product for my own purposes, giving them 20 percent of the income, you understand?
+
+CH: And you get the access to the networks on your own, is that right?
+
+MM: I got access myself and worked them out myself, and I used them and not only them as a software product. I was not an employee of any project, I was on my own just giving them a commission.
+
+CH: What are you working on now?
+
+MM: I want to show with my example that IT in Russia is still alive and well. You don’t need to go to the U.S. to make money. You don’t need to go to the U.S. to study. I also have the idea of organizing a project to teach children cyber-hygiene, to protect them from the attacks of all sorts. For example, the CIA and the FBI try to recruit our citizens openly [and I want to protect them from that]. I want to take IT in Russia to the next level.
+
+CH: Where did you learn all of your hacking skills in the first place?
+
+MM: I’m self-educated. Self-taught. I had a desire to develop in this sphere. Without the desire you can’t achieve results. Read the technical forums, technical documentation and reviews of trusted researchers and go from there.
+
+CH: How is your new project different from what you have worked on previously?
+
+MM: My new project is social oriented to help our country, the Russian Federation.
+
+CH: There have been so many stories about you. What do you think journalists get wrong? What do you want to clarify
+
+MM: Journalists exaggerate more than make mistakes. But there are mistakes, for example, I don't know anything about the leadership of Hive and LockBit. It is strange, because they made me look like a co-owner of these partnership programs, which I am not.
+
+
+
+
+Previous article
+Next article
+New ‘Bandit Stealer’ malware siphons data from browsers, crypto wallets
+Nearly 9 million people affected by data breach from cyberattack on dental insurer
+
+Dina Temple-Raston
+
+is the Host and Managing Editor of the Click Here podcast as well as a senior correspondent at Recorded Future News. She previously served on NPR’s Investigations team focusing on breaking news stories and national security, technology, and social justice and hosted and created the award-winning Audible Podcast “What Were You Thinking.”
+
+Sean Powers
+
+was a producer for the Click Here podcast from 2021 to 2026.
+
+BRIEFS
+Cyberattack disrupts refrigeration at hundreds of French supermarketsOctober 11th, 2026
+Japan confirms arrest of Russian Qilin operative, extradition to GermanyOctober 9th, 2026
+Leader of vast money mule operation that laundered cybercriminal proceeds pleads guiltyOctober 9th, 2026
+US posts $10 million reward for accused Chinese ‘Hafnium’ hackerOctober 7th, 2026
+Arizona courts say hackers stole info on more than 1.3 million peopleOctober 7th, 2026
+Ukraine grocery chain ATB confirms cyberattack as hackers threaten to leak dataOctober 5th, 2026
+University of Illinois Chicago affected by ransomware attack on medical schoolOctober 5th, 2026
+Mississippi mayor says ransomware incident led city to shut down systemsOctober 2nd, 2026
+Police disrupt KillSec ransomware, arrest suspected teenage leaderOctober 1st, 2026
+JAPAN ADOPTS PROACTIVE CYBER DEFENSE STRATEGY
+TAJIN GROUP: GUARANTEE MARKETPLACE VENDOR INVOLVED IN PHISHING AND CHINESE MONEY LAUNDERING GROUP
+H1 2026 MALWARE VULNERABILITY TRENDS
+BLUEDELTA TARGETS DEFENSE AND DIPLOMACY WITH HOOKEDGE
+PURPLEDELTA'S FRAUDULENT EMPLOYMENT OPERATIONS
+
+Privacy
+
+About
+
+Contact Us
+
+© Copyright 2026 | The Record from Recorded Future News

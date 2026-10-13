@@ -45,3 +45,21 @@
 - Оригинал объявления state.gov / RFJ от 2024-02-08 не найден.
 - Официального пресс-релиза Police nationale / OFAC (Франция) по аресту в Париже нет; есть только СМИ.
 - Публичных отчётов о трассировке кошельков Hive (Chainalysis, Elliptic, TRM) в выдаче нет.
+
+## Добавлено 2026-10-13 (второй проход)
+
+| ID | Источник | Дата | Что содержит | URL | Статус / копия |
+|----|----------|------|--------------|-----|----------------|
+| S28 | Group-IB: «Inside the Hive» | 2021 | Объявление о партнёрке Hive от пользователя `kkk` на RAMP 2021-09-07 (описание на русском); устройство панели; переговоры ведёт админ; ≥355 жертв на 2021-10-16 | https://www.group-ib.com/blog/hive/ | `primary` · S28_groupib_inside_the_hive.txt |
+| S29 | BleepingComputer: ФБР изъяло RAMP | 2026-01-28 | Баннер изъятия, NS fbi.seized.gov; официального заявления не было | https://www.bleepingcomputer.com/news/security/fbi-seizes-ramp-cybercrime-forum-used-by-ransomware-gangs/ | `primary` · S29_bleeping_ramp_seized.txt |
+| S30 | CloudSEK: история RAMP | 2026 | Форум 2021–2026 | https://www.cloudsek.com/blog/the-rise-and-fall-of-ramp-inside-the-forum-where-ransomware-was-always-welcome | `primary` · S30_cloudsek_ramp.txt |
+| M1 | The Record / Click Here: Q&A с Матвеевым | 2023-05-30 | Аффилиат Hive, 20%, «ничего не знаю о руководстве Hive» | https://therecord.media/wazawaka-cyber-most-wanted-interview-click-here | `primary` · matveev/M1_record_qa_2023.txt |
+| M2 | The Record: интервью с Wazawaka | 2022 | Ники, RAMP, Babuk | https://therecord.media/an-interview-with-initial-access-broker-wazawaka-there-is-no-such-money-anywhere-as-there-is-in-ransomware | `primary` · matveev/M2_record_interview_2022.txt |
+| M3 | Krebs: «Wazawaka Goes Waka Waka» | 2022-02 | Связь Wazawaka = Orange (основатель RAMP) = Boriselcin (Babuk) | https://krebsonsecurity.com/2022/02/wazawaka-goes-waka-waka/ | `primary` · matveev/M3_krebs_2022-02.txt |
+| M4 | Krebs: обвинение Wazawaka | 2023-05 | Сводка обвинения | https://krebsonsecurity.com/2023/05/russian-hacker-wazawaka-indicted-for-ransomware/ | `primary` · matveev/M4_krebs_2023-05.txt |
+| M5 | Chainalysis: санкции против Матвеева | 2023-05 | В записи SDN нет криптоадресов | https://www.chainalysis.com/blog/ransomware-ofac-mikhail-matveev-babuk/ | `primary` · matveev/M5_chainalysis_matveev.txt |
+| M6 | The Hacker News / PRODAFT: команда Матвеева | 2023-12-19 | Аффилиат Conti, LockBit, Hive, Trigona, NoEscape; команда из 6 пентестеров; живёт в Санкт-Петербурге | https://thehackernews.com/2023/12/behind-scenes-of-matveevs-ransomware.html | `primary` · matveev/M6_thn_prodaft_2023-12.txt |
+| T3 | The Register: закрытие Hunters | 2025-07-03 | Текст заявления о закрытии; цитаты «farewell letter» | https://www.theregister.com/2025/07/03/hunters_international_shutdown/ | `primary` · statements/T3_register_hunters_shutdown.txt |
+| T4 | TechCrunch: закрытие Hunters | 2025-07-03 | То же, комментарий Recorded Future | https://techcrunch.com/2025/07/03/ransomware-gang-hunters-international-says-its-shutting-down | `primary` · statements/T4_techcrunch_hunters_shutdown.txt |
+| T5 | Infosecurity Magazine: Group-IB о World Leaks | 2025 | Записка в панели 2025-01-18 (на русском); Group-IB: World Leaks = админы Hunters «with high confidence»; цитата World Leaks | https://www.infosecurity-magazine.com/news/ransomware-hunters-international/ | `primary` · statements/T5_infosec_groupib_worldleaks.txt |
+| D1 | ransomware.live API | 2026-10-13 | Публикации на сайтах утечек: hive, hunters, worldleaks + контрольные группы. Сырые данные в репозиторий не кладутся (там имена жертв) | https://api.ransomware.live/v2/groupvictims/hive | агрегаты в `analysis/` |

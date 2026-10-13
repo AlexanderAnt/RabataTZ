@@ -1,0 +1,411 @@
+https://www.chainalysis.com/blog/ransomware-ofac-mikhail-matveev-babuk/
+retrieved: 2026-10-13T09:41:00.656Z
+
+Products
+Industries
+Services
+Insights
+Company
+Login
+Request a demo
+Blog
+Crime
+Markets
+Crypto Basics
+Policy & Regulation
+Company News
+CRIME
+United States Sanctions and Charges Russia-based Ransomware Developer Mikhail Matveev
+May 16, 2023 | Chainalysis Team
+
+On May 16, 2023, the U.S. Treasury Department’s Office of Foreign Assets Control (OFAC) sanctioned Mikhail Matveev, a Russian national associated with the development and spread of several ransomware strains. Ransomware attacks associated with Matveev’s strains are estimated to have cost victims as much as $200 million. Concurrently, the Department of Justice (DOJ) indicted Matveev on several charges, and is offering a reward of up to $10 million for information that leads to Matveev’s arrest or conviction. 
+
+Who is Mikhail Matveev?
+
+Mikhail Matveev is a Russian national who gained notoriety for his role in developing the Babuk ransomware strain and its RaaS affiliate program. He also had a role in deploying the Lockbit and Hive ransomware strains against victims as well. Matveev carried out this activity mostly under monikers he used on various cybercriminal forums, including “Wazawaka,” “Boriselcin,” and “Uhodiransomwar.” Additionally, Matveev acted as an initial access broker, meaning he sold access to computer networks compromised via vulnerabilities he identified. In 2021, Matveev launched a particularly notable ransomware attack against the Washington, D.C. Metropolitan Police using the Babuk strain, threatening to leak the personal information of department staff if the ransom wasn’t paid. Mateev and strains associated with him have also been implicated in attacks on critical infrastructure including hospitals, school districts, and financial services firms. 
+
+Matveev is notably brazen about his ransomware activity. As noted in the DOJ press release on this indictment, Matveev has conducted several interviews, boasting about his ransomware exploits and stating in one interview that “There is no such money anywhere as there is in ransomware.” 
+
+Always watch out for on-chain sanctions exposure
+
+OFAC’s Specially Designated Nationals (SDN) list entry for Matveev doesn’t currently include any cryptocurrency addresses. However, any addresses Chainalysis identifies as related to Mateev will be labeled accordingly. We commend OFAC and the DOJ for today’s action, and will continue to do our part in the fight against ransomware.
+
+This material is for informational purposes only, and is not intended to provide legal, tax, financial, or investment advice. Recipients should consult their own advisors before making these types of decisions. Chainalysis has no responsibility or liability for any decision made or any other acts or omissions in connection with Recipient’s use of this material.
+
+Chainalysis does not guarantee or warrant the accuracy, completeness, timeliness, suitability or validity of the information in this report and will not be responsible for any claim attributable to errors, omissions, or other inaccuracies of any part of such material.
+
+NATIONAL SECURITY
+OFAC
+RANSOMWARE
+RUSSIA
+SANCTIONS
+
+IN THIS ARTICLE
+
+Who is Mikhail Matveev?
+Always watch out for on-chain sanctions exposure
+SHARE
+Recent posts
+CRIME
+How AI Helped Chainalysis Investigators Trace the $387 Million North Korea Stole from Bitget
+OCTOBER 1, 2026
+CRIME
+OFAC Sanctions Tren de Aragua Fugitive Who Laundered ATM Heists With Crypto
+SEPTEMBER 30, 2026
+CRIME
+DPRK and Iran are Leading a 5.2x Surge YoY in Blockchain-Assisted Cyberattacks
+SEPTEMBER 17, 2026
+Contact us
+*
+First Name
+*
+Last name
+*
+Company / Organization Name
+*
+Work Email Address
+*
+Phone Number
+*
+Country
+Afghanistan
+Åland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia, Plurinational State of
+Bonaire, Sint Eustatius and Saba
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo, the Democratic Republic of the
+Congo
+Cook Islands
+Costa Rica
+Côte d'Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran, Islamic Republic of
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, Democratic People's Republic of
+Korea, Republic of
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia, the former Yugoslav Republic of
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia, Federated States of
+Moldova, Republic of
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory, Occupied
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Réunion
+Romania
+Russian Federation
+Rwanda
+Saint Barthélemy
+Saint Helena, Ascension and Tristan da Cunha
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan, Province of China
+Tajikistan
+Tanzania, United Republic of
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela, Bolivarian Republic of
+Viet Nam
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+*
+Role Function
+Compliance
+Operations
+Investigations
+Law Enforcement
+Regulator
+Information Security
+Cyber Security
+Portfolio Manager
+Asset Manager
+Business Intelligence
+Legal
+Business Development
+Research
+Marketing
+Growth
+Strategy
+Product
+Engineering
+Other
+*
+Role Level
+Executive / Department Head
+VP
+Director / Program Director
+Senior Manager/Manager
+Junior Employee
+Other
+*
+Organization Type
+Cryptocurrency business
+United States Government
+International Government
+Financial Institution
+Professional Services
+Consumer Services
+Technology Services
+Other
+*
+How did you hear about us?
+By checking this box, you indicate that you'd like us to send you information on Chainalysis products, services, events, and news. Your personal data will be handled in accordance with the Chainalysis privacy policy.
+Submit
+Subscribe to our weekly newsletter
+Subscribe
+PRODUCTS
+Reactor
+Wallet Scan
+Rapid
+KYT
+VASP Risking
+Address Screening
+Sentinel
+Alterya
+Hexagate
+Chainalysis Data Solutions (DS)
+Chainalysis AI Agents
+INDUSTRIES
+Law Enforcement
+Centralized Exchanges
+Financial Institutions
+Tax Agencies
+Regulators
+Stablecoin Risk Management
+Decentralized Finance
+Consumer Brands
+Cybersecurity
+COMPANY
+About Us
+Why Chainalysis
+Partners
+Media Resources
+Scam Prevention
+JOIN US
+Careers
+Open Positions
+RESOURCES
+Blog
+Reports
+Webinars
+Glossary
+SERVICES
+Global Services
+Training & Certification
+SECURITY & TRUST
+Trust Center
+
+© 2026, Chainalysis
+
+Privacy Policy
+Legal
+Cookie Preferences

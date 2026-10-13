@@ -1,0 +1,186 @@
+https://www.bleepingcomputer.com/news/security/fbi-seizes-ramp-cybercrime-forum-used-by-ransomware-gangs/
+retrieved: 2026-10-13T09:46:18.935Z
+
+ 
+ 
+ 
+ 
+ 
+NEWS
+TUTORIALS
+WEBINARS
+DOWNLOADS
+DEALS
+VPNS
+FORUMS
+MORE
+HomeNewsSecurityFBI seizes RAMP cybercrime forum used by ransomware gangs
+FBI seizes RAMP cybercrime forum used by ransomware gangs
+By Lawrence Abrams 
+January 28, 2026 12:38 PM 0
+
+The FBI has seized the notorious RAMP cybercrime forum, a platform used to advertise a wide range of malware and hacking services, and one of the few remaining forums that openly allowed the promotion of ransomware operations.
+
+Both the forum's Tor site and its clearnet domain, ramp4u[.]io, now display a seizure notice stating, "The Federal Bureau of Investigation has seized RAMP."
+
+"This action has been taken in coordination with the United States Attorney's Office for the Southern District of Florida and the Computer Crime and Intellectual Property Section of the Department of Justice," the notice reads.
+
+RAMP seizure banner
+
+The seizure banner also appears to taunt the forum's operators by displaying RAMP's own slogan: "THE ONLY PLACE RANSOMWARE ALLOWED!," followed by a winking Masha from the popular Russian "Masha and the Bear" kid's cartoon.
+
+While there has been no official announcement by law enforcement regarding this seizure, the domain name servers have now been switched to those used by the FBI when seizing domains:
+
+Name Server: ns1.fbi.seized.gov
+Name Server: ns2.fbi.seized.gov
+
+
+If so, law enforcement now has access to a significant amount of data tied to the forum's users, including email addresses, IP addresses, private messages, and other potentially incriminating information.
+
+For threat actors who failed to follow proper operational security (opsec), this could lead to identification and arrests.
+
+In a forum post to the XSS hacking forum, one of the alleged former RAMP operators known as "Stallman" confirmed the seizure.
+
+"I regret to inform you that law enforcement has seized control of the Ramp forum," reads the translated forum post.
+
+"This event has destroyed years of my work building the freest forum in the world, and while I hoped this day would never come, I always knew in my heart it was possible. It's a risk we all take.
+
+Forum operator confirming seizure of RAMP
+
+BleepingComputer contacted the FBI with question regarding the seizure but they declined to comment.
+
+The RAMP cybercrime forum
+
+The RAMP cybercrime forum launched in July 2021, following the banning of the promotion of ransomware operations by popular Russian-speaking Exploit and XSS hacking forums.
+
+This ban was due to heightened pressure from Western law enforcement following the DarkSide ransomware attack on Colonial Pipeline.
+
+Exploit banning ransomware promotion
+
+In July 2021, a new Russian-speaking forum called RAMP launched, promoting itself as one of the last remaining places where ransomware could be openly promoted. This led to multiple ransomware gangs using the forum to promote their operations, recruit affiliates, and buy and sell access to networks.
+
+RAMP was launched by a threat actor known as Orange, who also operated under the aliases Wazawaka and BorisElcin.
+
+Orange was previously the administrator of the Babuk ransomware operation, which shut down after its ransomware attack on the D.C. Metropolitan Police Department.
+
+Internal disputes allegedly erupted within the group over whether stolen law enforcement data should be publicly leaked, and after the data was leaked, the group splintered.
+
+Following the split, Orange launched the RAMP forum on a Tor onion domain that Babuk had previously used.
+
+Soon after its launch, RAMP experienced distributed denial-of-service (DDoS) attacks that disrupted its availability. Orange publicly blamed former Babuk partners for the attacks, though the previous members denied responsibility to BleepingComputer, stating they had no interest in the forum.
+
+The individual behind the Orange and Wazawaka aliases was later publicly identified by cybersecurity journalist Brian Krebs as Russian national Mikhail Matveev.
+
+In an interview with Recorded Future's Dmitry Smilyanets, Matveev confirmed that he previously operated under the alias Orange and that he created RAMP using the former Babuk onion domain.
+
+Matveev explained that the forum was initially created to repurpose Babuk's existing infrastructure and traffic. He claimed that RAMP ultimately generated no profit and was subjected to constant DDoS attacks, which led him to step away from managing it after it gained popularity.
+
+In 2023, Matveev was indicted by the U.S. Department of Justice for his involvement in multiple ransomware operations, including Babuk, LockBit, and Hive, which targeted U.S. healthcare organizations, law enforcement agencies, and other critical infrastructure.
+
+He was also sanctioned by the U.S. Treasury's Office of Foreign Assets Control and placed on the FBI's most-wanted list, with the U.S. State Department offering a reward of up to $10 million for information leading to his arrest or conviction.
+
+Build your security blueprint for AI-powered attacks
+
+Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed.
+
+Save your seat
+Related Articles:
+
+FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins
+
+US takes down NightmareStresser DDoS-for-hire platform
+
+CISA: Medusa ransomware hit over 500 critical infrastructure orgs
+
+Cyber exec arrested in case allegedly tied to ShinyHunters hackers
+
+FBI arrests another suspected ShinyHunters hacker after agency breach
+
+BABUK LOCKER CYBERCRIME FBI HACKING FORUM RAMP RANSOMWARE SEIZURE
+ 
+  
+ 
+ 
+ 
+LAWRENCE ABRAMS  
+Lawrence Abrams is the owner and Editor in Chief of BleepingComputer.com. Lawrence's area of expertise includes Windows, malware removal, and computer forensics. Lawrence Abrams is a co-author of the Winternals Defragmentation, Recovery, and Administration Field Guide and the technical editor for Rootkits for Dummies.
+ 
+ PREVIOUS ARTICLE
+NEXT ARTICLE 
+ 
+Post a Comment
+Community Rules
+You need to login in order to post a comment
+
+Not a member yet? Register Now
+
+ 
+You may also like:
+POPULAR STORIES
+
+Cyber exec arrested in case allegedly tied to ShinyHunters hackers
+
+ARTEX AI, Claude agents used in cyberattacks on South Korean banks
+
+Nippon Columbia malware incident exposes 8.6 million karaoke fan records
+
+SPONSOR POSTS
+ 
+
+New OAuth risk analyst agent: Turn 45 minutes of manual review into 15 seconds.
+
+ 
+
+Is your backup really out of reach? See what the latest attacks reveal.
+
+ 
+
+Move from visibility to action with AITEM, Criminal IP’s next evolution of ASM
+
+ 
+
+AWS saw a valid key and let the agent clear a production bucket. See how Token Security ties each agent to its owner and limits it to read-only access.
+
+ 
+
+AI is a data-breach time bomb: Read the new report
+
+ 
+
+Learn how to evaluate RMM security with eight practical tests. Find gaps before scaling endpoint management across customer environments.
+
+FOLLOW US:
+ 
+ 
+ 
+ 
+MAIN SECTIONS
+News
+Webinars
+VPN Buyer Guides
+SysAdmin Software Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+COMMUNITY
+Forums
+Forum Rules
+Chat
+USEFUL RESOURCES
+Welcome Guide
+Sitemap
+COMPANY
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+Terms of Use - Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+Copyright @ 2003 - 2026 Bleeping Computer® LLC - All Rights Reserved

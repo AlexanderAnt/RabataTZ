@@ -1,0 +1,169 @@
+https://krebsonsecurity.com/2023/05/russian-hacker-wazawaka-indicted-for-ransomware/
+retrieved: 2026-10-13T09:40:50.791Z
+
+Advertisement
+  
+Skip to content
+HOMEABOUT THE AUTHOR ADVERTISING/SPEAKING
+Russian Hacker “Wazawaka” Indicted for Ransomware
+May 16, 2023
+10 Comments
+
+A Russian man identified by KrebsOnSecurity in January 2022 as a prolific and vocal member of several top ransomware groups was the subject of two indictments unsealed by the Justice Department today. U.S. prosecutors say Mikhail Pavolovich Matveev, a.k.a. “Wazawaka” and “Boriselcin” worked with three different ransomware gangs that extorted hundreds of millions of dollars from companies, schools, hospitals and government agencies.
+
+An FBI wanted poster for Matveev.
+
+Indictments returned in New Jersey and the District of Columbia allege that Matveev was involved in a conspiracy to distribute ransomware from three different strains or affiliate groups, including Babuk, Hive and LockBit.
+
+The indictments allege that on June 25, 2020, Matveev and his LockBit co-conspirators deployed LockBit ransomware against a law enforcement agency in Passaic County, New Jersey. Prosecutors say that on May 27, 2022, Matveev conspired with Hive to ransom a nonprofit behavioral healthcare organization headquartered in Mercer County, New Jersey. And on April 26, 2021, Matveev and his Babuk gang allegedly deployed ransomware against the Metropolitan Police Department in Washington, D.C.
+
+Meanwhile, the U.S. Department of Treasury has added Matveev to its list of persons with whom it is illegal to transact financially. Also, the U.S. State Department is offering a $10 million reward for the capture and/or prosecution of Matveev, although he is unlikely to face either as long as he continues to reside in Russia.
+
+In a January 2021 discussion on a top Russian cybercrime forum, Matveev’s alleged alter ego Wazawaka said he had no plans to leave the protection of “Mother Russia,” and that traveling abroad was not an option for him.
+
+“Mother Russia will help you,” Wazawaka concluded. “Love your country, and you will always get away with everything.”
+
+In January 2022, KrebsOnSecurity published Who is the Network Access Broker ‘Wazawaka,’ which followed clues from Wazawaka’s many pseudonyms and contact details on the Russian-language cybercrime forums back to a 33-year-old Mikhail Matveev from Abaza, RU (the FBI says his date of birth is Aug. 17, 1992).
+
+A month after that story ran, a man who appeared identical to the social media photos for Matveev began posting on Twitter a series of bizarre selfie videos in which he lashed out at security journalists and researchers (including this author), while using the same Twitter account to drop exploit code for a widely-used virtual private networking (VPN) appliance.
+
+“Hello Brian Krebs! You did a really great job actually, really well, fucking great — it’s great that journalism works so well in the US,” Matveev said in one of the videos. “By the way, it is my voice in the background, I just love myself a lot.”
+
+Prosecutors allege Matveev used a dizzying stream of monikers on the cybercrime forums, including “Boriselcin,” a talkative and brash personality who was simultaneously the public persona of Babuk, a ransomware affiliate program that surfaced on New Year’s Eve 2020.
+
+Previous reporting here revealed that Matveev’s alter egos included “Orange,” the founder of the RAMP ransomware forum. RAMP stands for “Ransom Anon Market Place, and analysts at the security firm Flashpoint say the forum was created “directly in response to several large Dark Web forums banning ransomware collectives on their site following the Colonial Pipeline attack by ransomware group ‘DarkSide.”
+
+As noted in last year’s investigations into Matveev, his alleged cybercriminal handles all were driven by a uniquely communitarian view that when organizations being held for ransom decline to cooperate or pay up, any data stolen from the victim should be published on the Russian cybercrime forums for all to plunder — not privately sold to the highest bidder.
+
+In thread after thread on the crime forum XSS, Matveev’s alleged alias “Uhodiransomwar” could be seen posting download links to databases from companies that have refused to negotiate after five days.
+
+Matveev is charged with conspiring to transmit ransom demands, conspiring to damage protected computers, and intentionally damaging protected computers. If convicted, he faces more than 20 years in prison.
+
+Further reading:
+
+Who is the Network Access Broker “Wazawaka?”
+
+Wazawaka Goes Waka Waka
+
+The New Jersey indictment against Matveev (PDF)
+
+The indictment from the U.S. attorney’s office in Washington, D.C. (PDF)
+
+This entry was posted on Tuesday 16th of May 2023 05:33 PM
+
+NE'ER-DO-WELL NEWS
+BABUK RANSOMWARE BORISELCIN HIVE RANSOMWARE LOCKBIT RANSOMWARE MIKHAIL PAVOLOVICH MATVEEV ORANGE RAMP UHODIRANSOMWAR WAZAWAKA
+
+
+Post navigation
+← Re-Victimization from Police-Auctioned Cell Phones
+Interview With a Crypto Scam Investment Spammer →
+10 thoughts on “Russian Hacker “Wazawaka” Indicted for Ransomware”
+SpinShark
+May 16, 2023
+
+Thank you & Congrats for having a role in this saga. Please keep the updates coming!
+
+mf4ever
+May 16, 2023
+
+Being indicted by the American court system is akin to being indicted by Disney World with Mickey Mouse as the judge. Thankfully for the hero Matveev, he has a whole half of the world he can live freely in that doesn’t give a damn about any American dictates.
+
+annon
+May 17, 2023
+
+Russian trolls are somewhere between laughable and pitiful.
+
+Craig
+May 17, 2023
+
+False, countries outside Russian have extradited time and time again. He’s stuck in that dump.
+
+John N
+May 16, 2023
+
+based
+
+The Sunshine State
+May 17, 2023
+
+Narcissistic criminal
+
+Evelyn "Angel" Martin
+May 17, 2023
+
+Interesting how Russia is turning out to be a criminal enterprise with an army. Let’s hope this bastard forgets he’s wanted and goes for a vacation to a country like Thailand and gets busted. The sooner the better.
+
+Tim Adams
+May 18, 2023
+
+“I just love myself a lot.”
+
+Grossss! Get a room!
+
+PattiM
+May 19, 2023
+
+Experts have pointed out for quite some time that ransomware only works b/c of cryptocurrency. But hey!
+
+_HMCB_
+May 29, 2023
+
+Every criminal thinks they’ll never get caught. Every. Until time runs out. Invariably.
+
+Comments are closed.
+
+Advertisement
+
+
+Advertisement
+
+
+
+Mailing List
+
+Subscribe here
+
+Search KrebsOnSecurity
+
+Search for:
+ 
+
+Recent Posts
+
+FBI Arrests Executive at Ransomware Negotiation Firm
+ShinyHunters Extorted Boeing Spin-off Prior to Arrests
+Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation
+U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions
+Data Broker Radaris Loses Domains in Privacy Fight
+
+Story Categories
+
+A Little Sunshine
+All About Skimmers
+Ashley Madison breach
+Breadcrumbs
+Data Breaches
+DDoS-for-Hire
+DOGE
+Employment Fraud
+How to Break Into Security
+Internet of Things (IoT)
+Latest Warnings
+Ne'er-Do-Well News
+Other
+Pharma Wars
+Ransomware
+Russia's War on Ukraine
+Security Tools
+SIM Swapping
+Spam Nation
+Target: Small Businesses
+Tax Refund Fraud
+The Coming Storm
+Time to Patch
+Web Fraud 2.0
+
+Why So Many Top Hackers Hail from Russia
+
+© Krebs on Security - Mastodon

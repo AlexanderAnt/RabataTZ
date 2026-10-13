@@ -1,0 +1,163 @@
+https://www.infosecurity-magazine.com/news/ransomware-hunters-international/
+retrieved: 2026-10-13T09:43:05.758Z
+
+Log In
+Sign Up
+News
+Topics
+Features
+Webinars
+White Papers
+Podcasts
+Events & Conferences
+Directory
+Infosecurity Magazine Home » News » Ransomware: Hunters International Is Not Shutting Down, It's Rebranding
+Ransomware: Hunters International Is Not Shutting Down, It's Rebranding
+NEWS
+4 July 2025
+Written by
+Kevin Poireault
+
+Reporter, Infosecurity Magazine
+
+Follow @Kpoireault
+Connect on LinkedIn
+
+In an unusual turn of events, the ransomware group Hunters International has announced that it is shutting down its operations. Despite the supposed shutdown, those familiar with the group’s activity told Infosecurity it is likely that administrators are looking to rebrand and evolve their cybercrime tactics.
+
+A message published in English on the Hunters International data leak site on June 3 confirmed the closure of the Hunters International “project”.
+
+The statement also said that “as a gesture of goodwill” the ransomware a ransomware-as-a-service (RaaS) syndicate would offer free decryption software to all companies that have been impacted by the group’s ransomware.
+
+“Our goal is to ensure that you can recover your encrypted data without the burden of paying ransoms,” the statement read.
+
+Hunters International's message on July 3, 2025. Source: Group-IB
+
+Hunters International has been linked to Hive, another RaaS group that was dismantled in January 2023 as part of a global law enforcement operation.
+
+According to the ransomware-tracking website Ransomware.live, Hunters International has been active since October 2023 and has claimed 307 victims to date.
+
+These include a US plastic surgeon's clinic with an office in Beverly Hills (October 2023), the London subsidiary of the Industrial and Commercial Bank of China (ICBC), a Chinese state-owned bank (September 2024), AutoCanada (September 2024) and Tata Technologies (March 2025).
+
+The group’s last known claimed victims were published on its data leak site on May 27, 2025.
+
+Despite the group’s message, there is no decryption key available on the group’s website at the time of writing.
+
+A Prodaft threat analyst known as 3xp0rt, who first spotted the group's takedown notice, told the Risky Business media outlet that the decryption keys are being made available via Hunters' backend.
+
+"We have information that victims are required to log in to a portal mentioned in the ransom note using their existing credentials to obtain the decryption software," 3xp0rt said.
+
+Hunters International Bid Farewell to Encryption
+
+Before the June 3 message, administrators of Hunters International expressed their willingness to cease encryption-based cyber extortion several times already.
+
+According to several reports by Group-IB, the group’s operators released an internal note in Russian to their partners about the end of the project on November 17, 2024.
+
+“In a sort of ‘farewell letter’, the group’s leadership claimed that the ransomware business has become risky and unprofitable due to actions taken by government bodies and the negative impact caused by ongoing geopolitics globally,” researchers from Group-IB explained in a report published on April 2, 2025.
+
+As a result, the Hunters International operators released a new project on January 1, 2025, under the name World Leaks.
+
+Instead of encrypting the data of their victims and conducting double extortion, the new group would shift to encryption-less, extortion-only attacks.
+
+According to Ransomware.live, World Leaks has been active since May 18, 2025 – just a few days before Hunters International’s last victim claims – and has claimed 31 victims to date.
+
+Notably, World Leaks is believed to have conducted a cyber extortion campaign against a third-party supplier of Swiss bank UBS in June 2025, which led to 130,000 UBS employees having their data published on the dark web.
+
+However, a report by Group-IB, shared with Infosecurity, suggested that the Hunters International story could be more complicated than a simple rebrand.
+
+The report, initially shared with the firm’s customers as a TLP:Amber notification in January 2025, indicated that a Hunters International administrator published a note in the group’s affiliate panel on January 18 to inform them that the “project” would not be closed yet.
+
+After being translated from Russian to English, the note read, “We are pleased to inform you that the collective decision was to resume the work of the data encryption project.”
+
+According to the Group-IB report, the operator claimed the decision was made after the new “project,” World Leaks, contained “many bugs.”
+
+‘Dissent Doe,’ a pseudonymous cybersecurity blogger and author of the website DataBreaches.net, reported on July 3 that a World Leaks spokesperson told them that the group of people that started World Leaks had parted company with some Hunters International administrators over the use of encryption.
+
+“We were a part of them, but separated due to differences in views and ideas. The main difference is that we don’t want to harm businesses by blocking their operability,” the spokesperson reportedly said.
+
+“Data extortion is a much better business model because it doesn’t render companies inoperable and boosts overall cybersecurity to protect private customers’ data,” they added.
+
+However, in its latest English-language message announcing the shutdown of its operations, Hunters International has not mentioned World Leaks or the fact that individuals previously associated with the RaaS group would continue to conduct cyber extortion campaigns.
+
+A Stealthy Rebrand to World Leaks
+
+Speaking to Infosecurity, a Group-IB spokesperson said the firm’s threat intelligence analysts assessed “with high confidence” that World Leaks is a project operated by individuals previously involved in the administration of Hunters International.
+
+Although the group behind Hunters International has not publicly acknowledged any connection to World Leaks, the Group-IB spokesperson said their research indicated that internal communications suggested a coordinated transition to World Leaks.
+
+“The absence of any reference to World Leaks in [the July 3] message appears intentional and is likely designed to control the narrative and delay attribution,” they added.
+
+The threat intelligence analysts acknowledged that the group of administrators previously running Hunters International may have split into two groups, one that shut down operations and the other that continued encryption-less extortion activity under the name World Leaks.
+
+However, they believe this scenario to be “a secondary, lower-confidence theory.”
+
+Instead, it is more likely that the administrators rebranded in a move to “distance World Leaks from the ransomware label.”
+
+“Continuing under the Hunters International name, which was strongly associated with double extortion, could confuse victims or lead to misattribution. Disassociating from a known entity allows the group to evade immediate scrutiny and reputational baggage. This tactic also helps them maintain the illusion of operational integrity while continuing illicit activities under a new guise. The timing and vagueness of their shutdown announcement reinforce this interpretation,” Group-IB added.
+
+Finally, the Group-IB analysts assessed that, while they have not been able to verify their effectiveness, the apparent release of free decryption keys is far from a mere “gesture of goodwill” as the group claimed.
+
+Instead, the analysts believe the move to be another deliberate attempt to prevent public association between Hunters International and World Leaks and “a reputational tactic.”
+
+You may also like
+Critical Flaw Turns Vect Ransomware into Data Destroying Wiper
+NEWS
+29 April 2026
+Unmasking the SafePay Ransomware Group
+NEWS FEATURE
+10 July 2025
+Hacker Alleges Russian Government Role in Kaseya Cyber-Attack
+NEWS
+12 August 2025
+#Infosec2025: NCA Cyber Intel Head on Cybercrime's New Post-Trust Era (video)
+INTERVIEW
+3 June 2025
+Ransomware Attacks Hit All-Time High as Payoffs Dwindle
+NEWS
+9 April 2025
+What’s Hot on Infosecurity Magazine?
+Read
+Shared
+Watched
+Editor's Choice
+Major French Supermarket Chains Hit by Cyber-Attack, Food Stock Impacted
+NEWS
+12 October 2026
+1
+Months-Old Palo Alto VPN Vulnerability Remains a Target for Ransomware Groups
+NEWS
+12 October 2026
+2
+Q3 2026 Sets New Record for Ransomware Attacks
+NEWS
+9 October 2026
+3
+UK and Allies Warn of Cyber Threat from China’s Integrity Technology Group
+NEWS
+9 October 2026
+4
+Attackers Hide AI Prompt Injections Inside Phishing Emails
+NEWS
+7 October 2026
+5
+ASOS Confirms Data Breach Linked to Stolen Employee Credentials
+NEWS
+8 October 2026
+6
+The magazine
+About Infosecurity
+Meet the team
+Contact us
+Advertisers
+Media pack
+Contributors
+Forward features
+Op-ed
+Next-gen submission
+Copyright © 2026 Reed Exhibitions Ltd.
+Terms and Conditions
+Privacy Policy
+Intellectual property statement
+Cookie Settings
+Cookie Policy
+Sitemap

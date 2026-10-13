@@ -1,0 +1,326 @@
+https://www.cloudsek.com/blog/the-rise-and-fall-of-ramp-inside-the-forum-where-ransomware-was-always-welcome
+retrieved: 2026-10-13T09:46:31.351Z
+
+We value your privacy
+
+We use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking "Accept All", you consent to our use of cookies.
+
+Customise
+Reject All
+Accept All
+🚀 Introducing the CloudSEK MCP Server!
+Read more
+Slide 2 of 5.
+Products
+Solutions
+Resources
+Free Tools
+Schedule a Demo
+Back
+Adversary Intelligence
+The Rise and Fall of RAMP: Inside the Forum Where Ransomware Was Always Welcome
+CloudSEK’s latest report traces the lifecycle of RAMP, a ransomware-friendly underground forum that operated from 2021 until its FBI seizure in January 2026. Built as a safe haven for cybercriminals, it connected ransomware groups, affiliates, and access brokers at scale. Its takedown has fragmented the ecosystem, pushing actors into smaller, harder-to-track communities—raising new challenges for global cyber defense. Read the full report for a deeper look into how ransomware networks evolve and adapt.
+11
+min
+TABLE OF CONTENT
+Background
+From Babuk's Ashes
+The Handover
+Building the Machine
+The Marketing Problem
+The BreachForums Gambit
+The Ransomware Marketplace
+The Access Brokers
+The FSB Admission
+The Offer
+References
+Subscribe to CloudSEK Resources
+Get the latest industry news, threats and resources.
+Subscribe
+CloudSEK TRIAD
+CloudSEK Threat Research and Information Analytics Division
+Executive Summary
+
+This report examines RAMP, a Russian-language forum active from 2021 until its seizure on January 28, 2026, which openly facilitated ransomware related activity, including affiliate recruitment and access brokerage. Through analysis of internal communications, user interactions, and operational patterns, we identify a tightly managed but resource-limited structure connecting ransomware operators with access providers. The takedown resulted in the disruption of both its Tor service and clearnet infrastructure, followed by community reports of potential data exposure and user risk. In the aftermath, the ecosystem fragmented, with displaced actors redistributing across multiple smaller forums rather than consolidating into a single successor.
+
+
+Background
+
+In May 2021, the DarkSide ransomware group shut down Colonial Pipeline, the largest fuel pipeline in the United States. The attack triggered fuel shortages across the American East Coast, a state of emergency in seventeen states, and a direct response from the White House. The fallout was immediate and not just for the Americans.
+
+Within weeks, the two largest Russian-language cybercrime forums XSS and Exploit.in banned all ransomware related discussions. The forums' administrators understood that the heat from Western law enforcement was now existential. Ransomware operators, who had openly recruited affiliates and advertised their services on these platforms for years, suddenly had nowhere to go.
+
+From Babuk's Ashes
+
+Mikhail Pavlovich Matveev known across the cybercrime underground as Orange, Wazawaka, BorisElcin, and m1x had been running the Babuk ransomware operation since late 2020. In April 2021, Babuk attacked Washington D.C. Metropolitan Police Department, claiming to have exfiltrated over 250 gigabytes of law enforcement data. It was the kind of attack that drew the wrong kind of attention specifically, involving law enforcement.
+
+By mid 2021, Babuk was effectively done. But its infrastructure, the servers, the domain, the Tor hidden service still existed. On July 12, 2021, the former Babuk leak site transformed into something new: a forum called RAMP, the Russian Anonymous Marketplace.
+
+The name was deliberately chosen. The original RAMP had been a Tor based drug marketplace that operated from 2012 to 2017 before Russian law enforcement shut it down. Matveev, initially using the handle TetyaSluha before switching to Orange, announced that RAMP would be a safe haven "a place where ransomware affiliates can be protected." Where XSS and Exploit had capitulated, RAMP would stand firm. Ransomware was not just permitted here. That was the point.
+
+Registration reopened on August 13, 2021, with strict conditions: applicants needed an account on XSS or Exploit.in with at least two months of history and a positive reputation. Those who couldn't or wouldn't provide that could buy their way in for $500. 
+
+Matveev would later tell that RAMP was built to reuse Babuk's existing infrastructure and traffic. He said the forum generated little profit and was constantly disrupted by DDoS attacks, and that he stepped away from managing it after it gained traction.
+
+But that wasn't the end of RAMP's story. It was just the prelude.
+
+The Handover
+
+What public reporting doesn't tell you is what happened behind the curtain after Matveev walked away. The forum didn't die. It was quietly handed to someone else.
+
+The person who inherited RAMP went by Stallman, a handle presumably inspired by Richard Stallman, the free software evangelist. There was also a third figure in the early days, a technical operator who had built all of RAMP's infrastructure from scratch.
+
+The Docker containers, the networking, the backup systems, the Nginx configuration are all one person's work. Around January 2022, this person left the team. In a parting message to Stallman, they explained:
+
+‍
+
+Before leaving, they gave Stallman an operational briefing: downgrade the server (the previous admin had been running a 32GB RAM, 16 core machine ,redesign the forum theme, and clean the Nginx logs regularly. 
+
+There was one more person from the old guard who surfaced, a user called honey, the previous admin's close partner and collaborator. Honey actually went by the name of Khajit as well. 
+
+The early messages between honey and the admin account paint a vivid picture of the pre Stallman era: late night conversations, networks being locked with Babuk ransomware, and chaotic lifestyle choices.
+
+Honey would return much later, in February 2023, writing from a friend's account, trying to prove his identity. Stallman was unmoved, demanding he authenticate through original secure channels. "If you can't reach me from the same contacts you used before, then forget it."
+
+Then, in October 2023, one final message from that account but this time, it wasn't honey:
+
+"Hello Stallman, this is not Khajit, this is his partner. We share this account. Do you know something about him? He disappeared about 5 August."
+
+Building the Machine
+
+With the old guard scattered, Stallman set about professionalizing the operation. His first hire was Nowheretogo, a multilingual forum veteran who claimed to have been active on cybercrime forums since 2006.
+
+Nowheretogo became RAMP's sole moderator and recruiter, and the operational spine of the forum. His duties were methodical: verify new applicants against their XSS and Exploit.in accounts, submit batches of usernames for Stallman to activate, handle password resets, post articles, and continuously scout for new talent.
+
+Nowheretogo would compile lists of applicants sometimes thirty names at a time each with cross-references to their profiles on other forums. Stallman would activate them, usually within 24 hours, sometimes noting "was already active, I can do nothing" for duplicates. Hundreds of these exchanges accumulated over the years, each following the exact same template:
+
+‍
+
+Nowheretogo's salary started at $200 per month, paid in Bitcoin. It would later increase to $350, with occasional bonuses.
+
+In one exchange, Stallman put it poetically: "This forum is like a flower, and I appreciate every minute you spend on it." 
+
+The Marketing Problem
+
+For Stallman, the challenge was simple: RAMP had a niche (ransomware allowed), but not enough users to create the critical mass that makes a forum self-sustaining. He needed advertising and in the cybercrime world, that means buying banner space on other forums.
+
+The obvious target was WWH Club, one of the largest Russian language carding forums with over a million registered users. Nowheretogo spent months negotiating with WWH's moderators. The asking price: $1,600 per month for banner advertising. Stallman's budget: $1,000 maximum.
+
+The WWH deal never materialized. Instead, Stallman invested in what he could afford Jabber mass mailing campaigns, paid signature advertising on XSS and Exploit.in, and a persistent clearnet mirror at ramp4u.io. Banner advertising from existing clients brought in revenue one long running advertiser paid $1,500 every three months for rotating banner placement.
+
+Meanwhile, the Qilin ransomware operator, Haise, offered Stallman an unconventional recruiting idea: to buy subscriptions to popular infostealers like Raccoon, Vidar, and RedLine, and advertise in their private Telegram groups full of potential recruits.
+
+Another member, legasov, proposed expanding into Chinese language markets. Stallman was enthusiastic: "I've been wanting to develop in that direction, towards China." The plan was to open accounts on Chinese hacking forums and post RAMP advertisements. Legasov would later disappear from the project, returning months later with an apology: "I had a recurrence of a cancer tumor and completely dropped out of online life."
+
+The BreachForums Gambit
+
+In March 2023, the FBI arrested Conor Fitzpatrick, the operator of BreachForums, known as Pompompurin. Weeks later, the FBI and Dutch police seized Genesis Market. Thousands of active cybercriminals were suddenly displaced, looking for a new home.
+
+Stallman moved fast. He drafted a recruitment message and distributed it to his team:
+
+‍
+
+He opened free registration waiving the usual $500 fee and ordered his team to spread the message everywhere.
+
+A volunteer named 3lastic had been pushing hard for speed: "Please do it fast. Many new forums are coming online." He was right, XSS had simultaneously opened its own registration, siphoning displaced users.
+
+"To be honest, not too many," Stallman admitted afterward, when asked about results. "I expected more."
+
+3lastic's honest assessment: "Many went to XSS. They opened registration at the same time."
+
+‍
+
+The Ransomware Marketplace
+
+Despite the underwhelming recruitment drive, the right users were arriving. By mid 2023, RAMP had become what Stallman always intended: a functioning marketplace for the entire ransomware supply chain and the ransomware groups found a new home.
+
+Trigona arrived in May 2023. Their operator messaged Stallman: "I want to place my locker in the affiliate programs section. What do I need to provide?" Stallman asked for a test account, verified the panel personally, and approved the listing. "Everything is quite worthy. Respect."
+
+Cyclops came the same month, asking about advertising rates. Stallman quoted them: $2,000 for three months of banner rotation.
+
+Qilin maintained a presence through multiple operators who acted as the group's liaisons on the forum.
+
+Conti had recruiters from early in the forum's life. One applicant casually claimed previous experience as "an affiliate of DarkSide, BlackMatter, NetWalker, and LockBit, with average revenue of $200K+" linking a single individual across four of the most notorious ransomware operations in history. 
+
+ALPHV/BlackCat was involved in what became one of the most revealing conversations in the forum's history. In January 2024, a user came to Stallman with a dispute: a ransom payment had arrived at his ALPHV panel and been moved without his authorization. He pasted an entire Tox chat log with "Admin ALPHV aka BlackCat" into the private message with Stallman.
+
+The user suspected the ALPHV admin was stealing while the group's owner was absent following the FBI's December 2023 disruption. When even ransomware operators can't trust their own platform, you know the ecosystem has trust issues.
+
+Monster, Phobos, REvil , RansomHub, and AvosLocker all maintained a presence on the forum.
+
+The Access Brokers
+
+Ransomware operators need victims. But finding and compromising networks is a different skill from encrypting them and negotiating payments. That's where access brokers come in and RAMP was full of them.
+
+vAz was one of the most active. But his story goes beyond credentials. In July 2023, he sent Stallman what amounts to a confession of his personal life: he had moved to the UAE, was estranged from his father, and desperately needed money to settle a debt. Stallman sent him roughly $1,000.
+
+By late July, vAz was unraveling: "No one has helped me except you. I have 3 days left. If I don't find the money, I will have to disappear again for a long time."
+
+Two days later: "Nobody helped me, and I'm f****d tomorrow. Thank you for everything. Sorry."
+
+Another broker was the forum's most prolific government access seller. Over months, he brokered access to Canadian provincial governments, US federal agencies, state governments, and health services. His conversations with Stallman read like a catalog of compromised democratic institutions, sold piecemeal at prices that would barely cover a month's rent in the cities he was targeting.
+
+One user sold access to US law enforcement including full VPN credentials for a police department, provided in plaintext. Another, invited to the forum by Nowheretogo himself, later shared SCADA system access for critical infrastructure: a water treatment facility and oil storage tanks.
+
+The FSB Admission
+
+When Stallman was asked why he had been unreachable, the admin's response was blunt:
+
+The advice from his confidant was immediate and practical: "Fly low. Encrypt all your computers, save those hard drives somewhere not your usual home and put a new HDD full of pictures of cats."
+
+The Offer
+
+One conversation captures Stallman's character better than any other.
+
+Stallman messaged LockBit. LockBit had been embroiled in a dispute on XSS, and people were pressuring Stallman to ban him from RAMP.
+
+"I can help and become a mediator between you and Toha," Stallman offered, referring to the XSS admin, "if you become a little more flexible."
+
+LockBit rejected the mediation, restated his position on the dispute, and then asked: "Do you happen to have the deanon of the XSS admin? I can buy it."
+
+Stallman's response was immediate and offered to sell it for 10 BTC.
+
+Months later, after the seizure, when asked LockBit would casually confirm the exchange: "I asked Krebs right after my ban on XSS, and he kindly provided Toha's deanon." He claimed the goal was to negotiate buying the forum in person. When pressed on why he never acted on it, he said he discovered XSS was a honeypot and lost interest in it.
+
+Matveev's Arrest and the FBI Seizure
+
+While Stallman was brokering deanonymization deals, the walls were closing in from multiple directions.
+
+In late November 2024, Russian authorities arrested Mikhail Matveev RAMP's original creator in Kaliningrad. The charges related to developing ransomware used against commercial organizations. Matveev reportedly paid fines, had cryptocurrency confiscated, and was released on bail.
+
+Matveev, never one for discretion, had previously posted selfie videos taunting security researchers and worn a t-shirt printed with his own FBI wanted poster. Subtlety was never his brand.
+
+Then, on January 28, 2026, the FBI seized RAMP.
+
+Both the Tor hidden service and the clearnet domain ramp4u.io were replaced with a seizure banner complete with a winking Masha from the Russian children's cartoon "Masha and the Bear," placed beside RAMP's own slogan: "THE ONLY PLACE RANSOMWARE ALLOWED!"
+
+Stallman confirmed the takedown on XSS within hours:
+
+He said he had no plans to rebuild. But his business, he noted, would continue: "I will still buy accesses. My core business remains unchanged."
+
+The Aftermath
+
+Within hours of the seizure, the accusations started.
+
+"He won't return deposits. Information came in that he was an informant. Amen."
+
+The informant theory gained traction quickly. Users recalled that Stallman had publicly defended "Severa" a known FBI cooperator on XSS, calling him a friend who "helped him earn a lot of money." Others pointed out that FBI Southern District of Florida, where Severa operates, was the same jurisdiction that seized RAMP.
+
+"He wrote on XSS: 'I know Severa, he knows me, I travel around Europe, still haven't been caught,'" one user recalled. 
+
+Then a leaked conversation surfaced showing Stallman had been warned directly and explicitly that the forum's private messages were readable and the infrastructure was compromised. His response, now immortalized in a screenshot that circulated across every major underground space.
+
+When Stallman finally surfaced days later, he claimed all disks were encrypted and all leaks were fabricated. This was proven false within hours trusted intermediaries cross verified private messages from RAMP against the seized material, and they matched perfectly.
+
+Stallman was banned from every major underground forum within a week.
+
+By mid February, reports of confirmed house arrests linked to the RAMP seizure began circulating. No official announcements. No press releases. Just people going quiet, and others noticing.
+
+"The operation is ongoing," warned one former RAMP staff member.
+
+‍
+
+‍
+
+As it turned out, Stallman's indifference to security wasn't just talk. RAMP's XenForo instance logged IP addresses for every user action logins, posts, page views stored in a binary format across hundreds of thousands of records. And not every user was careful enough to hide behind Tor or a VPN
+
+Following the Money
+
+Blockchain analysis of Stallman’s addresses identified across RAMP's operational communications reveals a total volume of $234,102 across 1,099 connected addresses and 289 transfers. Inflows of $92,228 against outflows of $141,875. The wallet cluster was first active on January 4, 2022 shortly after Stallman took over the forum  and last active on September 2, 2025  months before the takedown.
+
+‍
+
+What Remains
+
+RAMP ran for roughly four and a half years. It was built on the infrastructure of a dead ransomware group, managed by a small team, and grew into a space where ransomware operators recruited affiliates, access brokers sold network entry, and deals were negotiated in private messages.
+
+Stallman took over from Kajit, hired Nowheretogo as his moderator, and spent years trying to grow the forum through advertising, cross-forum recruitment, and open registration drives. Ransomware groups included Conti, ALPHV, Qilin, Trigona, and others alongside access brokers selling everything from government networks to critical infrastructure.
+
+On January 28, 2026, the FBI seized RAMP. Stallman confirmed the takedown and said he would not rebuild. Matveev, the forum's original creator, had already been arrested in Russia weeks earlier.
+
+In the aftermath, Stallman was accused of being an informant, banned from every major underground forum, and his claims that the forum's data was encrypted were publicly disproven. Unconfirmed reports of house arrests linked to the seizure followed. 
+
+In the immediate aftermath of RAMP’s takedown, the ecosystem did not consolidate around a single successor but instead fragmented into smaller, competing forums. One of the earliest to emerge was T1erOne, which positioned itself as a more controlled, semi-private environment, requiring either prior reputation on established forums or a paid entry barrier reportedly in the range of several hundred dollars. This model reflected a shift toward tighter vetting and reduced exposure following the RAMP incident. In parallel, Rehub gained traction as a more accessible alternative.
+
+Unlike RAMP’s strict onboarding, Rehub adopted a lower friction registration model and quickly absorbed a mix of displaced actors, including ransomware affiliates, access brokers, and forum regulars from XSS and other platforms. The divergence between these two approaches exclusivity versus accessibility highlights a broader trend in the post-RAMP landscape: rather than rebuilding a single dominant hub, the underground appears to be reorganizing into smaller, trust-segmented communities shaped by varying risk tolerance.
+
+References
+*Intelligence source and information reliability - Wikipedia
+#Traffic Light Protocol - Wikipedia
+Related Blogs
+This is some text inside of a div block.
+Adversary Intelligence
+October 8, 2026
+8
+min
+NEBULA - Seven Fake AI SDK Packages on npm Install a Windows RAT That Needs No DLL
+Read more
+This is some text inside of a div block.
+Adversary Intelligence
+October 5, 2026
+11
+min
+Caught in 4K: The Gentlemen Files
+Read more
+This is some text inside of a div block.
+Adversary Intelligence
+September 30, 2026
+8
+min
+MALFEX - A malicious npm postinstall no advisory has caught for fourteen months
+Read more
+1
+...
+1 / 30
+Predict  Cyber Threats against your organization
+Schedule a Demo
+Products
+AIVigil
+XVigil
+BeVigil
+SVigil
+Nexus AI
+Threat Intelligence
+CloudSEK Exposure
+Mobile App
+Solutions
+Cyber Threats Monitoring
+Dark Web Monitoring
+Brand Threat Monitoring
+Infra Threat Monitoring
+Partners Secret Scanning
+BeVigil Jenkins CI
+BeVigil OSINT CLI
+BeVigil Asset Explorer
+Takedowns
+Resources
+Blogs and Articles
+Threat Intelligence
+Whitepapers and Reports
+Knowledge Base
+Integrations
+Community
+Discord Community
+Student Challenge
+Company
+About us
+Customers
+Partners
+Referral Program
+Life at CloudSEK
+Secure Sips
+Careers
+Announcements
+Press
+Contact Us
+
+At CloudSEK, we combine the power of Cyber Intelligence, Brand Monitoring, Attack Surface Monitoring, Infrastructure Monitoring and Supply Chain Intelligence to give context to our customers’ digital risks.
+
+GDPR Policy
+Privacy
+Vulnerability Disclosure
+DPA
+Cookies Policy
+Sitemap
+LLM Info
+EULA

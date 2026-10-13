@@ -1,0 +1,153 @@
+https://therecord.media/an-interview-with-initial-access-broker-wazawaka-there-is-no-such-money-anywhere-as-there-is-in-ransomware
+retrieved: 2026-10-13T09:40:32.927Z
+
+Leadership
+
+Cybercrime
+
+Nation-state
+
+Influence Operations
+
+Technology
+
+Cyber Daily®
+
+Click Here Podcast
+
+✉️ Free Newsletter
+
+Dmitry Smilyanets
+
+August 26th, 2022
+News
+People
+Interviews
+An interview with initial access broker Wazawaka: 'There is no such money anywhere as there is in ransomware'
+
+Editor’s Note: Last April, a ransomware group threatened to expose police informants and other sensitive information if the Washington, D.C. Metropolitan Police Department did not pay a demand.
+
+The brazen attack was the work of a gang known as Babuk, which in early 2021 gained a reputation for posting stolen databases on its website from victims that refused to pay a ransom. Just days after it tried to extort the Metropolitan Police Department, Babuk announced it was closing its ransomware affiliate program, and would focus on data theft and extortion instead.
+
+Earlier this year, cybersecurity journalist Brian Krebs uncovered details about one man behind the operation named Mikhail Matveev, who was also connected to a number of other groups and identities, including the handle 'Wazawaka.' According to Krebs, Matveev had become more unhinged than usual, "publishing bizarre selfie videos" and creating a Twitter account to share exploit code.
+
+Matveev talked to Recorded Future analyst and product manager Dmitry Smilyanets about his interaction with other hackers, details about ransomware attacks he's been involved in, and how he settled on the name Babuk. The conversation was conducted in Russian and was translated to English with the help of linguists from Recorded Future’s Insikt group. The Record was not able to independently verify all of Matveev's claims — the victim organizations he mentioned either declined to comment on the interview or did not respond to requests. A spokesperson for the D.C. Office of the Chief Technology Officer said the attack on the Metropolitan Police department is part of an ongoing investigation that they cannot discuss.
+
+The interview below has been edited for space and clarity.
+
+Dmitry Smilyanets: Over the last year, researchers have called you by different names: Babuk, BorisElcin, Wazawaka, unc1756, Orange, and even KAJIT. Are these really all names for you? Or was a mistake made?
+
+Mikhail Matveev: Yes, all these nicknames, except for one, are mine. I have never been Kajit. I'm tired of proving this on the forum everywhere, and even to so-called researchers and journalists.
+
+DS: You were "spotted" after the ransomware attack last April on the Metropolitan Police Department in Washington, DC. You used data stolen from the department's servers for extortion, including an informant database. But then the blog disappeared and Babuk fell apart, and the source code was leaked. What happened?
+
+MM: Shortly before the events related to the Metropolitan Police Department, there was a dude who wrote to me on the forum. I won't say his nickname, but everyone understands perfectly well who we are talking about. He told me, “Boris, I have a mega-cool product.” He sent me some builds which I tested — everything worked fine. Everything suited me. The person seemed to be adequate. We began to develop this opportunity, and a company was locked in with this product. 
+
+We called it Babuk ransomware. Everything went very well. They paid the ransom. We decrypted everything. After this, we wanted to create an affiliate program and I found a programmer for the [ransomware affiliate administration] panel. Then one comrade came to us [an affiliate], who actually said that he had access to the police department. I did not carry out this attack. But he carried out the attack in its entirety. They encrypted the police department and downloaded everything. 
+
+Negotiations yielded absolutely nothing. The affiliates wanted a certain ransom, and in the end, as we say in Russian, “shat their pants and ran” when it came to uploading the data. They refused to accept the $100,000 ransom counteroffer by the MPD. But my take was: “If you do not accept the money, I will post this data on the blog.” To which the affiliates asked me, terrified, not to do this. I told them that the stolen data is the property of the Babuk affiliate program. Well, they began to threaten me that they would find me. I just blocked this affiliate and started uploading the data to the blog. 
+
+Affiliates tried to raise a new Babuk blog since the Tor domain was mine. But I didn’t let them do it and the affiliate program fell apart. The police department hack was the final straw in the collapse of this affiliate program, although there were many different situations that led up to this. For example, there was a huge bug in the decryptor for ESXi hypervisors [VMware ESXi is an enterprise-class, type-1 hypervisor developed by VMware for deploying and serving virtual computers]. It simply turned the output from the disks to zero, and we destroyed at least two companies' data. We took money from them for the decryptor, but they could not decrypt their data. Essentially, we scammed them. 
+
+DS: Then the RAMP forum appeared [editor’s note: RAMP is a criminal underground forum where ransomware operators and affiliates advertise their products]. Why did you create it, and why did you transfer it to others?
+
+MM: I created RAMP to use the Babuk onion domain. Fortunately, Babuk had a huge amount of traffic. And so the idea was born to create the RAMP forum. When the forum got popular, I realized that I didn’t want to be involved, because it brought absolutely no profit. It incurred only costs. Constant distributed denial-of-service (DDoS) attacks. It all came down to rewriting the engine from scratch and spending a lot of money on it. 
+
+Then some sketchy things began there, and everyone had to be verified. I thought to myself, God, why did I sign myself up for this? It was there on the forum that I met Kajit. I said to Kajit, “Hey, be a moderator, verify everyone, and I will toss some cash your way.” That's how the forum actually fell into the hands of Kajit. Afterward, all manner of problems happened in my life. I hit the bottle hard and didn’t have time for the forum at all, so I gave the forum to Kajit. Then a series of strange events happened when affiliate programs began to write to me. They said, “What the hell are you doing, you animal? The screenshots of our panels leaked.” I felt embarrassed about this whole situation. I went to the forums and opened a private complaint for Kajit on behalf of Boris. At that moment, we communicated very well with the LockBit support. He seemed like a normal guy to me, and I pulled him up in these negotiations. Kajit said that he won't get banned, and he won't share the forum with anyone. The damage [XSS] forum administrator suggested to Kajit to transfer the forum to someone else, and as far as I know, Stallman got it. RAMP forum still exists, but I don’t go there, and I didn't have much contact with Stallman.
+
+DS: How often do people from different affiliate programs compete in the same network to extort victims? Have you had such situations?
+
+MM: This happens often. Especially when several people own the exploit, or pour logs from the same traffic market if we are talking about extracting initial access credentials with a stealer. I took some source codes, so-called proof-of-concept, from GitHub and modified them. If you remember, there was a well-known CVE for the Fortinet VPN. We found it with one programmer from the forum. Based on the list of IP addresses, we got approximately 48,000 entry points. I was very surprised then, really shocked. But we did not even work out 3% of this list. Not enough time. 
+
+And when others — well, let's say our competitors — began to use this vulnerability, there were intersections across networks. I often went into the networks already locked by someone and didn’t touch them, because it’s not my job to encrypt for the second time, but some guys overlocked networks. They come in and see that it is encrypted and so that nobody gets it they encrypted it again. There were cases when the guys and I just crossed paths on the network during development, exchanged contacts, and somehow discussed what to do next. We basically always agreed. 
+
+And it even happened that we then jointly did some other projects. In the summer of 2022, this happens all the time, because everyone is hungry for the material. How can we get to the initial access? Actually, there aren't many options. There are vulnerabilities, such as RCE in various products of VPN devices, everything that can give access to the network. Or a network access login from stealers. But basically, everyone is now flooded from traffic exchanges and there is little unique traffic. And those who have it, they pour just for themselves or are already working in some teams, so it's absolutely normal that there is a conflict of interest on the networks and now it will be even more.
+
+DS: Tell me about some attacks that stood out to you. Which was the fastest? How long did it take from the first penetration into the network to receiving the payment?
+
+MM: Dmitry, I would single out several such attacks… Yes, there were quite a lot of interesting ones. I would like to sum it up, before talking about the attacks. There are small networks, there are medium networks, and there are very large networks. And I'll tell you, it's much easier to work with a network of an organization with $1 billion revenue than in a network of an organization that has an income of $9 million. I'll tell you why. There are many more computers that are easier to hide on and easier to navigate than in a small network where you are limited. You have to move very fast. And when I started my career, I started with BlueKeep — a vulnerability under Microsoft Remote Desktop. I hacked five small networks per day because I had to go in and do it right away. But, as I progressed, the time I spent on the hacks increased. 
+
+Let's get started, shall we? My longest development… Probably everyone has heard about the Capcom company. I got there through a Fortinet vulnerability. As a matter of fact, when I went there, I was a little surprised that everything was in Japanese. There is no hierarchy, there is no division into departments, and they have everything in a heap. I found a dead domain admin. That is how the name Babuk appeared. Capcom had an admin Babak, or bambook. And when I found this administrator, I realized that no one uses him, but he was an enterprise type.
+
+In general, I described the attack on Capcom very well in Boris Yeltsin's article “Do you think I won't outplay you”. Well, there were some interesting points that I missed that I would like to cover in this interview. Those days, I had a very close conversation with a notorious “Unknown” who told me to come to their group, and if I put a Capcom on them, he would connect me with some unreal mega people. And everything in my life will be “chiki bomboni” [editor’s note: this is a literal translation — it is unclear what he means]. But thank God everything went wrong, because, probably, I would not be here now. I wouldn't give you this interview. Their product at that time was terrible — at the GandCrab level. They didn't want to do anything about it, and he told me personally, ”They pay us anyway because they are afraid.” Well, in those days, that's how it was. If you remember, lalartu, such a character, who simply, without searching for a backup, without searching for everything, launched a build on all networks and collected money. I myself saw his reports and panels, and it surprised me how a person can do it. Then they paid practically everyone, especially REvil. They had enormous incomes.
+
+Well, I explained to the notorious Unknown, “Here, my dear man. You have some holes, some bugs in the product. Yes, I didn’t lock [encrypt] there, I somehow crapped myself there.” To which he promised to fix everything. I waited for a long time, probably a month and a half passed from owning the domain controller to the very lock. This was the longest attack. Here, in fact, before I wanted to lock Capcom, I wrote to him again, “Well, everything works?” He says, “Yes, yes, everything works.” And I made the build and tested it on a small network, as I remember. It was some kind of municipality, and even they paid a penny, but I didn’t like it. I wrote to Unknown about my dissatisfaction. 
+
+Everything will be fine, he said, deploy it. At the same time, I communicated very closely with one of Ragnar's affiliates. He lived abroad. By the way, perhaps he is already sitting in jail there because he was definitely abroad. Well, we all somehow quickly communicated and agreed, everything was quickly done in Capcom. Ah, the next morning, Unknown texts me, like, what the fuck. I said bro, sorry, no offense, I warned you. He was offended by me, blocked me, and moved away, as a child would do when you take away a toy. The boys told me that he wanted to find me in real life. Unknown liked to do this, he liked to play hard and play bandit. They made too much noise, probably like I’m doing now, at a time when it was not necessary to make such noise.
+
+The fastest attack in my life happened as soon as I got the ProxyLogon vulnerability. At that time, I had a programmer on a grant who was finalizing the exploit. One of the interesting networks was a logistics company in the Netherlands. Large warehouse. very large warehouse. I got on the excursion to the server. Here, I immediately obtained the domain admin tokens. Well, these guys weren't scared at all and didn't worry about anything. I remember I went there at 20:00 Moscow time and at about 4:00 am Moscow time it was already all locked up. From 6 a.m., the administrator wrote to us in a panic, to which I told him, bro, wait for the supervisor. 
+
+So, let's go step by step. Looking around the network, everything seems to be simple and clear. They have an administrator's domain for us. The password was the same for everything, on hypervisors, on a backup server in the work group. After analyzing the network, I found a WIM backup system. I could get all the passwords from it and thereby got all the backups, although their backups were so bad. They just backed up to the NAS [network-attached storage]. I went to the NAS and formatted it. Went to ESXi, encrypted, and there, after about an hour, he wrote to us. 
+
+The admin wrote right at midnight, “I would like to resolve the issue.” I said that the issue could not be resolved, because he was not a boss. In the morning I had to fly to another city. I remember sitting at the airport, the company writes to me: $2 million. Transferring $2 million. I have never had such an amount in my wallet. Of course, in such surprise and hype, I get on the plane, realizing that I have, damn well, a laptop with $2 million. Well, I gave them decryptors, and when I arrived, I opened the chat. Damn it, something is not right there, they just yell: You destroyed VMDK [VMDK is a file format that describes containers for virtual hard disk drives to be used in virtual machines like VMware Workstation or VirtualBox]. I tried to figure it out and asked for VMDK samples. And they just weigh zero KB. Well, everything is fucked. I am writing to this developer, the one “who had cancer.” How so? He says, Well, I don't know, he said, something broke. And they asked to return the money. Well, we had no choice but to block them. We scammed them for this money. I still blame myself for this. It was the fastest and most solvent attack I've ever done.
+
+DS: How do you access networks?
+
+MM: I took everything from GitHub. As they say, made from shit and sticks. The first interesting exploit was Fortinet, and then a very old vulnerability in a SharePoint application. Then there was SonicWall. In general, I have always tried to get initial access from RCE [remote code execution]. I have tried buying logs from RedLine stealers. But the best entry point is given by RCE.
+
+Image: Mikhail Matveev
+
+Unfortunately, the Windows directories are arranged in such a way that, being inside the directories, the network unfolds like dominoes. In fact, nothing complicated, Windows helps you. Fuck me, dude. I spread my legs in front of you. I never bought anything. Once again I will repeat. Everything was made of shit and sticks. Everything is earned just like that. Everything that is described in the media is that we are a super ransomware group, super-mega cool dudes, of which there are many. No, absolutely all ordinary guys, mostly working alone.
+
+DS: How do you stay ahead of defenders? Or are they so slow it doesn’t matter?
+
+MM: Everything is very simple here. The cybersecurity specialists, none of them have ever been a real target. It's like shooting at a range with a gun. You seem to be shooting and hitting the target, but if you are given a machine gun and thrown onto the battlefield, there will also be many factors that will prevent you from hitting the target — inner fear, and other feelings. 
+
+These are living people. Therefore, since they have never been in combat conditions, they have never pen tested these networks in combat conditions. That is why we are one step ahead. They think differently. They think in terms of theory. In terms of the theory that there are some whole teams and APT communities attacking some networks. So I'll say this: if all ransomware groups suddenly became cybersecurity specialists, and those who are now cyber ​security specialists began pentesting networks, the ransomware would end.
+
+DS: How do you see the ransomware industry in three years? Will ransomware remain the best monetization model for cybercriminals, or will they move to something else?
+
+MM: It's like how carding used to be popular and there was a lot of money in it, but now it's dead. And ransomware will soon die — not in three years, but sooner. Literally, everything has changed over the last six months. Since the beginning of the special operation in Ukraine, almost everyone has refused to pay. I often encountered people who wrote to me in the chat, “You are a Russian occupier. Be content with $10k. And we won't give you more. At least take that.” Convert [or return on investment] has completely fallen in the last six months. It became difficult to work, in general.
+
+If it dies, it dies. You need to come up with something new. But ransomware is worse than heroin. I haven't tried it, but I've seen people who are on it, and I'll tell you this: ransomware is worse than drug addiction. There is no such money anywhere as there is in ransomware. I even compared it to drug dealers from hydra [the world’s largest dark net marketplace, which was shut down this year]. They earn less than us.
+
+But at the moment, ransomware remains the leader in monetization. There are no other schemes on the internet that would carry more monetization. Or I don’t know about them yet.
+
+DS: How has the war in Ukraine affected the ransomware scene and cybercrime in general?
+
+MM: I will not call it a war in Ukraine, I will call it a special military operation. I hope you understand. It had a huge impact. I had many friends from Ukraine. From my entire contact list of residents from Ukraine only one or two people at the moment communicate with me. The rest are all gone. They call me an occupant. 
+
+It is terrifying, the industry has reorganized. I don’t know if a special operation would have begun, but as far as we all know, Russia began to quietly come into cooperation with the USA regarding cybercrime. I crapped myself and then I was very afraid, I was drinking a lot. I re-read our Constitution and understood that they’ll leave me, damn well, in Russia, but it was scary [editor’s note: Russia does not have an extradition treaty with the U.S.]. I had already forgotten about the money, and then the special operation had begun. I was fucking happy. Although you know it’s dumb to talk about it because my interview will also be read by the citizens of Ukraine, and someone’s father could have died, or their child. I started to rejoice, you know, with impunity. But, if it weren’t for the special operation, I wouldn’t have behaved the way I’m behaving now — I’m even a little ashamed of it.
+
+DS: Have you been offered to work for certain government services? If so, which ones?
+
+MM: You probably want to hear some secrets, but there are absolutely no secrets. I was even surprised that in the entire history of my career since 2011, no one has ever come to me. Neither the FSB [Russia’s Federal Security Service] nor the [Ministry of Internal Affairs]. I’ve just lived an ordinary life. 
+
+I don’t even understand when I read on the forums that the FSB came to some guy and forced them to work. It seems to me that they are all lying, and they themselves went to the FSB and asked for a job — but I don’t know how it works. The FSB structure is very secretive. Unlike the Americans, the FSB doesn't put up on their website portraits to say, look, I'm watching Most Wanted Cyber. It is not clear to me what the Americans want to achieve. I know nothing at all about the work of the Federal Security Service of the Russian Federation. This is a dark horse for me. I might even be glad to cross paths with them, but no, this is not necessary. 
+
+DS: Tell me a secret. Between the FSB and the FBI, who scares you the most?
+
+MM: What worries me the most? If these two structures start cooperating with each other — then I'll get fucked up, with at least three life sentences. 
+
+Previous article
+Next article
+Dominican Republic refuses to pay ransom after attack on agrarian institute
+FCC launches investigation into mobile carriers’ geolocation data practices
+
+Dmitry Smilyanets
+
+Mission-driven and Russian-speaking intelligence analyst with type A personality. Dmitry has twenty years of experience and expertise in cybercrime activity that includes being a former member of an elite Russian-based hacking organization.
+
+BRIEFS
+Cyberattack disrupts refrigeration at hundreds of French supermarketsOctober 11th, 2026
+Japan confirms arrest of Russian Qilin operative, extradition to GermanyOctober 9th, 2026
+Leader of vast money mule operation that laundered cybercriminal proceeds pleads guiltyOctober 9th, 2026
+US posts $10 million reward for accused Chinese ‘Hafnium’ hackerOctober 7th, 2026
+Arizona courts say hackers stole info on more than 1.3 million peopleOctober 7th, 2026
+Ukraine grocery chain ATB confirms cyberattack as hackers threaten to leak dataOctober 5th, 2026
+University of Illinois Chicago affected by ransomware attack on medical schoolOctober 5th, 2026
+Mississippi mayor says ransomware incident led city to shut down systemsOctober 2nd, 2026
+Police disrupt KillSec ransomware, arrest suspected teenage leaderOctober 1st, 2026
+JAPAN ADOPTS PROACTIVE CYBER DEFENSE STRATEGY
+TAJIN GROUP: GUARANTEE MARKETPLACE VENDOR INVOLVED IN PHISHING AND CHINESE MONEY LAUNDERING GROUP
+H1 2026 MALWARE VULNERABILITY TRENDS
+BLUEDELTA TARGETS DEFENSE AND DIPLOMACY WITH HOOKEDGE
+PURPLEDELTA'S FRAUDULENT EMPLOYMENT OPERATIONS
+
+Privacy
+
+About
+
+Contact Us
+
+© Copyright 2026 | The Record from Recorded Future News

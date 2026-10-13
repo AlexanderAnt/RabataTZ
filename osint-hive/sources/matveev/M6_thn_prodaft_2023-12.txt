@@ -1,0 +1,62 @@
+https://thehackernews.com/2023/12/behind-scenes-of-matveevs-ransomware.html
+retrieved: 2026-10-13T09:41:53.927Z
+
+Behind the Scenes of Matveev's Ransomware Empire: Tactics and Team
+Ravie LakshmananDec 19, 2023
+Ransomware / Russian Hackers
+
+Cybersecurity researchers have shed light on the inner workings of the ransomware operation led by Mikhail Pavlovich Matveev, a Russian national who was indicted by the U.S. government earlier this year for his alleged role in launching thousands of attacks across the world.
+
+Matveev, who resides in Saint Petersburg and is known by the aliases Wazawaka, m1x, Boriselcin, Uhodiransomwar, Orange, and waza, is alleged to have played a crucial part in the development and deployment of LockBit, Babuk, and Hive ransomware variants since at least June 2020.
+
+"Wazawaka and his team members prominently exhibit an insatiable greed for ransom payments, demonstrating a significant disregard for ethical values in their cyber operations," Swiss cybersecurity firm PRODAFT said in a comprehensive analysis shared with The Hacker News.
+
+"Employing tactics that involve intimidation through threats to leak sensitive files, engaging in dishonest practices, and persisting in retaining files even after the victim complies with the ransom payment, they exemplify the ethical void prevalent in the practices of traditional ransomware groups."
+
+PRODAFT's findings are the result of data compiled between April and December 2023 by intercepting thousands of communication logs between various threat actors affiliated with different ransomware variants.
+
+Matveev is said to lead a team of six penetration testers – 777, bobr.kurwa, krbtgt, shokoladniy_zayac, WhyNot, and dushnila – to execute the attacks. The group has a flat hierarchy, fostering better collaboration between the members.
+
+"Each individual contributes resources and expertise as needed, showcasing a remarkable level of flexibility in adapting to new scenarios and situations," PRODAFT said.
+
+Matveev, besides working as an affiliate for Conti, LockBit, Hive, Trigona, and NoEscape, also had a management-level role with the Babuk ransomware group up until early 2022, while sharing what's being described as a "complex relationship" with another actor named Dudka, who is likely the developer behind Babuk and Monti.
+
+Attacks mounted by Matveev and his team involve the use of Zoominfo and services like Censys, Shodan, and FOFA to gather information about the victims, relying on known security flaws and initial access brokers for obtaining a foothold, in addition to using a mix of custom and off-the-shelf tools to brute-force VPN accounts, escalate privileges, and streamline their campaigns.
+
+"Following the attainment of initial access, Wazawaka and his team primarily employ PowerShell commands to execute their preferred Remote Monitoring and Management (RMM) tool," the company said. "Distinctively, MeshCentral stands out as the team's unique toolkit, frequently utilized as their preferred open-source software for various operations."
+
+PRODAFT's analysis further uncovered connections between Matveev and Evgeniy Mikhailovich Bogachev, a Russian national linked to the development of the GameOver Zeus botnet, which was dismantled in 2014, and Evil Corp.
+
+It's worth noting that the Babuk ransomware operations rebranded as PayloadBIN in 2021, with the latter tied to Evil Corp in an apparent effort to get around sanctions imposed against it by the U.S. in December 2019.
+
+"This technical association, coupled with the known relationship between Wazawaka and the notorious cybercriminal Bogachev, suggests deeper connections among Wazawaka, Bogachev, and the operations of Evil Corp," PRODAFT said.
+
+Found this article interesting? Follow us on Google News, Twitter and LinkedIn to read more exclusive content we post.
+SHARE
+
+
+
+
+
+Tweet
+
+Share
+
+Share
+
+Share
+⚡ Top Stories This Week
+⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests
+The Credential Layer Is Expanding Faster Than Security Teams Can See It
+LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings
+ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members
+FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack
+U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks
+Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details
+FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials
+LOAD MORE ▼
+⭐ Featured Resources
+41 Cybersecurity Courses. One Week to Level Up Your Skills
+The CISO Playbook for Board-Ready Security Reporting
+Discover Hidden AI Agents and Lock Down Their Access — Get a Demo
+The Browser Attacks Your Security Stack Is Missing

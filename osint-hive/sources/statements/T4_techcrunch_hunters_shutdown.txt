@@ -1,0 +1,86 @@
+https://techcrunch.com/2025/07/03/ransomware-gang-hunters-international-says-its-shutting-down
+retrieved: 2026-10-13T09:42:55.665Z
+
+The ransomware gang known as Hunters International announced on its dark web page Thursday that it is shutting down. 
+
+“After careful consideration and in light of recent developments, we have decided to close the Hunters International project,” the hackers wrote in a post, without clarifying what specific developments it was referring to. “This decision was not made lightly, and we recognize the impact it has on the organizations we have interacted with.”
+
+The hackers also said they are offering free decryption keys “to all companies that have been impacted by our ransomware.”
+
+“Our goal is to ensure that you can recover your encrypted data without the burden of paying ransoms,” wrote the gang, which asked victims to visit its official site to obtain the decryption keys and to recover the encrypted files.
+
+At the time of writing, there is no such information on the website. 
+
+Hunters International has claimed several victims in its two years of existence, including a U.S. cancer center and the U.S. Marshals Service; however, the law enforcement agency denied having been hacked by the cybercrime gang.
+
+THE HUNTERS INTERNATIONAL POST ANNOUNCING IT IS SHUTTING DOWN.
+IMAGE CREDITS:HUNTERS INTERNATIONAL (SCREENSHOT)
+
+Several ransomware gangs in the past have released their victims’ decryption keys, then shut down, each of them for different reasons. Some shut down only to return under a new name, perhaps in an attempt to confuse researchers and law enforcement agencies and sometimes to escape sanctions. Others decided to call it quits after obtaining enough funds to retire.
+
+Amazon and others are done keeping data center deals secret. Is it enough to build trust? | Equity Podcast
+0 seconds of 35 minutes, 54 secondsVolume 0%
+ 
+
+In the case of Hunters International, it’s still too early to tell what the gang’s motivations are for shutting down, but there were signs as far back as April that point to a rebrand and transition to a group called World Leaks, according to Allan Liska, a threat intelligence analyst at cybersecurity firm Recorded Future. 
+
+“I think this is more of a ‘cutting of ties’ with the old infrastructure,” said Liska, who has been tracking ransomware for years. “As far as releasing decryption keys, at this point they aren’t likely to make any money from any Hunters’ victims who are still out there, so they probably see it as a gesture that doesn’t really cost them anything.”
+
+World Leaks group uses a new ransomware software and has a new site hosted elsewhere, but the people behind it may be the same, said Liska.
+
+Liska said the reason for the gang going dark may be that “using the same technical infrastructure too long makes you more vulnerable to law enforcement,” referring to Hive, a ransomware gang that was seized and shut down by the FBI in 2023. 
+
+“Or, they got wind that law enforcement was closing in and decided to get ahead of them,” he said.
+
+Topics
+
+cybercrime
+dark web
+hackers
+hacking
+Hunters International
+infosec
+ransomware
+Security
+
+When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.
+
+Lorenzo Franceschi-Bicchierai
+
+Senior Reporter, Cybersecurity
+
+   
+
+Lorenzo Franceschi-Bicchierai was a Senior Writer at TechCrunch, where he covered hacking, cybersecurity, surveillance, and privacy.
+
+View Bio 
+October 13 – 15
+San Francisco
+
+
+Get 50% off a second pass
+
+The Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.
+
+BOOK NOW
+Most Popular
+
+Elon Musk intensifies attack on Ambani over Starlink India launch delay
+
+
+Batteries are now cheaper than natural gas turbines used at many data centers
+
+
+Remember Orkut? Its founder wants to bring it back
+
+
+US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers
+
+
+Elon Musk questions Ambani’s influence as Starlink India launch stalls
+
+
+Cal AI’s 19-year-old founder just raised $10M for his new AI startup
+
+
+Google releases a new local-first Granola competitor
